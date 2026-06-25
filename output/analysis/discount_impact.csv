@@ -1,0 +1,3 @@
+has_discount,transactions,units_sold,total_revenue,avg_transaction_value,avg_price_per_item
+0,586,1560,45257.78,77.23,29.01
+1,61,211,8026.61,131.58,38.04

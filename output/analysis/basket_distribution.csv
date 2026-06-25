@@ -1,0 +1,6 @@
+basket_category,transactions,avg_order_value,total_revenue,pct_of_transactions
+1 item,189,36.2,6841.47,29.2
+2 items,173,67.61,11696.47,26.7
+3 items,130,107.22,13939.14,20.1
+4–5 items,107,132.73,14202.61,16.5
+6+ items,48,240.28,11533.39,7.4

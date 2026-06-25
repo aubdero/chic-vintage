@@ -1,0 +1,7 @@
+day_of_week,dow_num,transactions,total_revenue,avg_order_value,days_open,revenue_per_day_open
+Sunday,0,179,9305.34,28.63,15,620.36
+Tuesday,2,5,156.43,22.35,1,156.43
+Wednesday,3,92,5367.36,31.03,14,383.38
+Thursday,4,124,7344.62,32.07,14,524.62
+Friday,5,222,10663.96,27.7,15,710.93
+Saturday,6,301,20446.68,31.55,15,1363.11

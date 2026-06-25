@@ -1,0 +1,1001 @@
+datetime,date,hour,month,day_of_week,week_num,receipt_number,total_items,subtotal,sales_tax,total_discount,total,details,register,avg_item_value
+2026-05-24 11:44:06,2026-05-24,11,5,Sunday,21,575,2.0,89.98,8.32,0.0,98.3,1 X Red Halter Bra / Size S + 1 X VintagePamelaF/RedStitchSkirt/Size6,POS 2,44.99
+2026-05-24 11:08:22,2026-05-24,11,5,Sunday,21,574,2.0,48.98,4.53,0.0,53.51,1 X Maurizio Floral Long Clutch + 1 X Grey Kiss Tee/Size S,POS 2,24.49
+2026-05-23 19:44:15,2026-05-23,19,5,Saturday,21,573,1.0,14.99,1.39,0.0,16.38,1 X Unknown White Camisole Size M,POS 2,14.99
+2026-05-23 19:43:36,2026-05-23,19,5,Saturday,21,572,1.0,12.99,1.2,0.0,14.19,1 X Black lace coverall  OSFM,POS 2,12.99
+2026-05-23 16:13:56,2026-05-23,16,5,Saturday,21,571,3.0,45.96,4.25,0.0,50.21,1 X SilverGoldBracelet + 1 X HelloFranki/Blue&WhiTop/SizeL + 1 X JacquelineF/BrownCrossBag + 1 X Abercrombie/GryTanHalterTop/SizeM + -1 X Discount,POS 2,15.32
+2026-05-23 16:11:46,2026-05-23,16,5,Saturday,21,570,0.0,15.99,1.48,0.0,17.47,1 X Sonoma RWB Woven Purse + -1 X Discount,POS 2,
+2026-05-23 16:03:32,2026-05-23,16,5,Saturday,21,569,1.0,12.99,1.2,0.0,14.19,1 X Ande Black Purse Gold Hardware,POS 2,12.99
+2026-05-23 15:06:50,2026-05-23,15,5,Saturday,21,568,1.0,55.99,5.18,0.0,61.17,1 X Mystree/BrwnStripeSweater/SizeS,POS 2,55.99
+2026-05-23 15:05:01,2026-05-23,15,5,Saturday,21,567,4.0,88.96,8.23,0.0,97.19,1 X Ann Taylor Yellow/White Top S + 1 X eyeshadow creme lace vest/s + 1 X EM Mustard Yellow Top/Size S + 1 X Multicolor Bead Earrings,POS 2,22.24
+2026-05-23 14:58:34,2026-05-23,14,5,Saturday,21,566,1.0,32.99,3.05,0.0,36.04,1 X R & K Yellow Pant Top Set / Size 10,POS 2,32.99
+2026-05-23 12:57:52,2026-05-23,12,5,Saturday,21,565,1.0,21.99,2.03,0.0,24.02,1 X FP One Cami Dress Size XS,POS 2,21.99
+2026-05-23 12:50:54,2026-05-23,12,5,Saturday,21,564,1.0,24.99,2.31,0.0,27.3,1 X MulicolStripSweater/SizeM,POS 2,24.99
+2026-05-23 12:39:14,2026-05-23,12,5,Saturday,21,563,1.0,29.99,2.77,0.0,32.76,1 X cpck&cash/rvs bmb jkt/blk/m,POS 2,29.99
+2026-05-23 12:08:29,2026-05-23,12,5,Saturday,21,562,1.0,200.0,18.5,0.0,218.5,1 X Desigual/RedPatternJacket/Size40/US6,POS 2,200.0
+2026-05-22 19:34:09,2026-05-22,19,5,Friday,21,560,3.0,77.97,7.21,0.0,85.18,1 X AsosDesign/PnkOrFloralSkirt/Size2 + 1 X Reformed B & W Floral Skirt / Size 6 + 1 X Fossil/PinkDotDress/SizeXS,POS 2,25.99
+2026-05-22 19:33:14,2026-05-22,19,5,Friday,21,561,2.0,59.98,5.55,0.0,65.53,1 X Paul McCartneyTee Shirt_SO + 1 X BrooksBros/StripeCollarDress/SizeL,POS 2,29.99
+2026-05-22 19:26:05,2026-05-22,19,5,Friday,21,559,1.0,29.99,2.77,0.0,32.76,1 X London Times Blue White SL Dress / Size 8,POS 2,29.99
+2026-05-22 19:24:42,2026-05-22,19,5,Friday,21,558,2.0,38.98,3.61,0.0,42.59,1 X WHBM White Dress/Size 6 + 1 X Altar'd State Lace SL Blouse / Size M,POS 2,19.49
+2026-05-22 19:23:17,2026-05-22,19,5,Friday,21,557,7.0,145.94,13.5,0.0,159.44,1 X L.S. Dunes Tee Shirt Beige Size S + 1 X J. Crew Top Beige Size M + 1 X Tryst/Blk&BlueTankTop/SizeS + 1 X WHBM Burgundy Design SL Top / Size S + 1 X The Limited Off White Tank Blouse/Size XL + 1 X GradeXG/WhiBlouse/SizeM + 1 X Loft Black/White Top M,POS 2,20.85
+2026-05-22 17:39:47,2026-05-22,17,5,Friday,21,556,1.0,15.99,1.48,0.0,17.47,1 X Green Leather Belt,POS 2,15.99
+2026-05-22 17:05:04,2026-05-22,17,5,Friday,21,555,1.0,13.0,1.2,0.0,14.2,1 X Unknown Lt Grey LS Top M,POS 2,13.0
+2026-05-22 16:47:11,2026-05-22,16,5,Friday,21,554,2.0,51.99,4.81,0.0,56.8,1 X BlackPantwBows/SizeS + 1 X Vince Camuto SS Top Pink L,POS 2,26.0
+2026-05-22 16:38:30,2026-05-22,16,5,Friday,21,553,1.0,135.0,12.49,0.0,147.49,1 X Leather Fringe Dress / Size S,POS 2,135.0
+2026-05-22 16:16:03,2026-05-22,16,5,Friday,21,552,1.0,24.99,2.31,0.0,27.3,1 X Antonio Melani White Tank Top Size S,POS 2,24.99
+2026-05-22 16:03:27,2026-05-22,16,5,Friday,21,551,1.0,14.99,1.39,0.0,16.38,1 X 8byYook/BlueTieTop/Size40,POS 2,14.99
+2026-05-22 14:21:05,2026-05-22,14,5,Friday,21,550,3.0,63.97,5.92,0.0,69.89,1 X Victoriaxs SecretSlip_Ta + 1 X Primark Pink SL Blouse / Size 8 + 1 X Itsu Green Floral Skirt / Size 8,POS 2,21.32
+2026-05-22 13:28:14,2026-05-22,13,5,Friday,21,549,5.0,140.97,13.04,0.0,154.01,1 X MarilynM/FlamingoDress/SizeM + 1 X Casa Lee Beige Black Skull Vest 1 / Size S + 1 X Casa Lee Beige Black Skull Vest 2 / Size S + 1 X Foxblood Black Dress S + 1 X OneClothing/BlkWhiTiedye/SizeL + 1 X urban/shear top/blk rose/xs + -1 X Discount,POS 2,28.19
+2026-05-21 17:22:39,2026-05-21,17,5,Thursday,21,548,1.0,61.98,5.73,0.0,67.71,1 X Aureum NWT Yellow Blue Shorts / Size M + 1 X Unknown Purple SS Top M + -1 X Discount,POS 2,61.98
+2026-05-21 17:15:44,2026-05-21,17,5,Thursday,21,547,1.0,22.99,2.13,0.0,25.12,1 X SweetPea/ Sheer Floral Top/ Size L,POS 2,22.99
+2026-05-21 12:24:54,2026-05-21,12,5,Thursday,21,546,1.0,11.99,1.11,0.0,13.1,1 X MelroseM/TanStripeShorts/SizeM,POS 2,11.99
+2026-05-20 17:18:51,2026-05-20,17,5,Wednesday,21,545,6.0,129.94,12.02,0.0,141.96,1 X Adiva Vintage LS Blouse Size S + 1 X Divided Black Top Size 4 + 1 X NWT Rip Curl Red Top Size S + 1 X ribbed purple middle scrunk croptop/small + 1 X She & Sky White Crop Top / Size S + 1 X Banana Rep Beige Cardigan / Size XS,POS 2,21.66
+2026-05-20 15:18:34,2026-05-20,15,5,Wednesday,21,544,1.0,24.99,2.31,0.0,27.3,1 X JonesNY/BlackBttnDwnDress/Size10,POS 2,24.99
+2026-05-20 14:27:27,2026-05-20,14,5,Wednesday,21,543,2.0,39.98,3.7,0.0,43.68,1 X Japna Blue/White SS Top S + 1 X Vintage Goth Dress Size 4,POS 2,19.99
+2026-05-20 14:22:10,2026-05-20,14,5,Wednesday,21,542,3.0,40.97,3.79,0.0,44.76,1 X HYFVE Green Halter Top L + 1 X HYFVE Yellow Top Size M + 1 X MNG white and blue floral blouse/4,POS 2,13.66
+2026-05-17 15:51:42,2026-05-17,15,5,Sunday,20,541,1.0,15.99,1.48,0.0,17.47,1 X Her/PnkFlareSleeveBttnDwn/SizeS,POS 2,15.99
+2026-05-17 15:43:49,2026-05-17,15,5,Sunday,20,540,2.0,32.98,3.05,0.0,36.03,1 X Newbury Kuston Pink SS Top M + 1 X A New Day Black SL Dress / Size L,POS 2,16.49
+2026-05-17 15:41:43,2026-05-17,15,5,Sunday,20,539,1.0,23.0,2.13,0.0,25.13,1 X Foxblood Black Sheer SS Dress / Size XS,POS 2,23.0
+2026-05-17 15:24:06,2026-05-17,15,5,Sunday,20,538,1.0,21.99,2.03,0.0,24.02,1 X Talbots Silk SL Top / Size 8,POS 2,21.99
+2026-05-17 15:10:35,2026-05-17,15,5,Sunday,20,537,2.0,38.98,3.61,0.0,42.59,1 X Loft Black Floral Dress / Size 8 + 1 X CarolinaB/RedWhiteShorts/Size10,POS 2,19.49
+2026-05-17 15:07:32,2026-05-17,15,5,Sunday,20,536,3.0,112.97,10.45,0.0,123.42,1 X Bar IIICardigan_Zi + 1 X Candies Pink Jacket Size XL + 1 X Kate Spade PInk Lola Tote Bag,POS 2,37.66
+2026-05-17 15:04:16,2026-05-17,15,5,Sunday,20,535,1.0,19.99,1.85,0.0,21.84,1 X NineWest/BluedenimHeels/Size8,POS 2,19.99
+2026-05-17 15:00:51,2026-05-17,15,5,Sunday,20,534,2.0,55.98,5.18,0.0,61.16,1 X Christopher Banks Green Jacket XL + 1 X LenaG/CreamBttnBlazer/Size12,POS 2,27.99
+2026-05-17 14:52:31,2026-05-17,14,5,Sunday,20,533,3.0,187.98,17.39,0.0,205.37,1 X GraceK/BlkBlouse/SizeS + 1 X BCBG Maxmara Brown Sundress/Size M + 1 X FarmRio/PinkMulticolDress/SizeL,POS 2,62.66
+2026-05-17 14:48:02,2026-05-17,14,5,Sunday,20,532,4.0,87.96,8.14,0.0,96.1,1 X Anthropologie Gray Crop Top w Tie Back/Size M + 1 X MulticolStripeCropTop/SizeL + 1 X Monteau Green/Beige Jumpsuit S + 1 X Le Lis Orange Romper Size M,POS 2,21.99
+2026-05-17 14:38:26,2026-05-17,14,5,Sunday,20,531,1.0,24.99,2.31,0.0,27.3,1 X Multi-Patterned Sheer Fitted Dress/Size 2XL,POS 2,24.99
+2026-05-17 14:37:41,2026-05-17,14,5,Sunday,20,530,1.0,48.99,4.53,0.0,53.52,1 X Maniere De Voir WhtSatin Bustier/  L,POS 2,48.99
+2026-05-17 14:03:20,2026-05-17,14,5,Sunday,20,529,4.0,90.96,8.41,0.0,99.37,1 X Patagonia/PinkShorts/SizeM + 1 X J. Jill Blue/White Pants Size M + 1 X AmericanEagle/RedWhiSkirt/SizeM + 1 X The Normal Pants Yellow/White L,POS 2,22.74
+2026-05-17 13:58:23,2026-05-17,13,5,Sunday,20,528,1.0,21.99,2.03,0.0,24.02,1 X GoodChoice/PinkFlowerShoe/Size9.5,POS 2,21.99
+2026-05-17 13:57:26,2026-05-17,13,5,Sunday,20,527,4.0,81.96,7.58,0.0,89.54,1 X Lisette Floral Pants Offwhite/Size M + 1 X Christopher Blue White Pants / Size 4 + 1 X BlackTape/ Strappy Tank/ Pink/ Size M + 1 X Old Navy/ Floral Top/ Pnk&Orng/ Size M,POS 2,20.49
+2026-05-17 13:49:19,2026-05-17,13,5,Sunday,20,526,4.0,96.96,8.97,0.0,105.93,1 X Altard State Brown Skort S + 1 X ColesceC/Blk&Wh/SizeS + 1 X Alexandria Barlett Black Colorful Capris / Size 8 + 1 X Dana B Black Silk Skirt / Size M,POS 2,24.24
+2026-05-17 13:48:10,2026-05-17,13,5,Sunday,20,525,2.0,55.99,5.18,0.0,61.17,1 X XOXO Black Off Shoulder LS w Grommets / Size M + 1 X Caleaas Purple Jacket / Size S,POS 2,28.0
+2026-05-17 13:32:54,2026-05-17,13,5,Sunday,20,524,1.0,24.99,2.31,0.0,27.3,1 X black ribbed blouse/xs,POS 2,24.99
+2026-05-17 12:57:49,2026-05-17,12,5,Sunday,20,523,2.0,50.98,4.72,0.0,55.7,1 X BlackScrunchBag + 1 X Zara Sage Green Dress / Size S,POS 2,25.49
+2026-05-17 12:29:41,2026-05-17,12,5,Sunday,20,522,1.0,21.99,2.03,0.0,24.02,1 X BCBGeneration/ Knit Top/ Prp&Wht/ SIze XL,POS 2,21.99
+2026-05-17 12:26:50,2026-05-17,12,5,Sunday,20,521,11.0,342.89,31.72,0.0,374.61,1 X Adrianna Papell Gold Heels/Size 7.5 + 1 X VINTAGE Black SL Dress with White Flowers / Size S + 1 X VINTAGE Shiny Pink Green SS Dress / Size S + 1 X LauraAshley/Gld Kitten/Size 7.5 + 1 X Loft/MulticolPatternSkirt/Size0 + 1 X Laundry Multi-Color Dress Size M + 1 X CharlotteR/BlktoolSkirt/SizeS + 1 X BananaRep/BlkLaceDress/Size0 + 1 X black lace skirt/4 + 1 X FrenchC/BlackDress/Size0 + 1 X BananaRep/BlkDress/Size0,POS 2,31.17
+2026-05-17 11:49:21,2026-05-17,11,5,Sunday,20,520,2.0,49.98,4.62,0.0,54.6,1 X Akira/Brwn&BlkSheerTop/SizeS + 1 X Patagonia/YellowShorts/SIzeM,POS 2,24.99
+2026-05-17 11:45:32,2026-05-17,11,5,Sunday,20,519,1.0,14.99,1.39,0.0,16.38,1 X Pink & White SL Romper / Size S,POS 2,14.99
+2026-05-17 11:44:25,2026-05-17,11,5,Sunday,20,518,3.0,50.97,4.71,0.0,55.68,1 X OldCountyRoad/RedStripeBag + 1 X Brown Tote Bag M/L + 1 X Chelsea & Violet Red Shorts M,POS 2,16.99
+2026-05-17 11:43:30,2026-05-17,11,5,Sunday,20,517,1.0,26.0,2.41,0.0,28.41,1 X AUW Blue Camisole Size L,POS 2,26.0
+2026-05-17 11:40:34,2026-05-17,11,5,Sunday,20,516,1.0,23.99,2.22,0.0,26.21,1 X black and white strip pant/XL,POS 2,23.99
+2026-05-16 20:13:41,2026-05-16,20,5,Saturday,20,515,1.0,32.99,3.05,0.0,36.04,1 X Philosophy Black/White Dress Size S,POS 2,32.99
+2026-05-16 19:42:50,2026-05-16,19,5,Saturday,20,514,1.0,195.0,18.04,0.0,213.04,1 X Black leather coach purse,POS 2,195.0
+2026-05-16 19:07:23,2026-05-16,19,5,Saturday,20,513,1.0,18.99,1.76,0.0,20.75,1 X Nautica Off White Pinstripe Vest Top / Size 4,POS 2,18.99
+2026-05-16 18:58:03,2026-05-16,18,5,Saturday,20,512,1.0,15.99,1.48,0.0,17.47,1 X LuckyBrand/ PinkFloyd Tee/ Yllw/ Size S,POS 2,15.99
+2026-05-16 18:57:07,2026-05-16,18,5,Saturday,20,511,1.0,15.99,1.48,0.0,17.47,1 X Papaya/DrawStringShirt/SizeM,POS 2,15.99
+2026-05-16 18:55:30,2026-05-16,18,5,Saturday,20,510,1.0,14.99,1.39,0.0,16.38,1 X Known Supply Green SS Shirt / Size S,POS 2,14.99
+2026-05-16 18:22:12,2026-05-16,18,5,Saturday,20,509,1.0,17.99,1.66,0.0,19.65,1 X Cider SS Top Size S,POS 2,17.99
+2026-05-16 17:52:50,2026-05-16,17,5,Saturday,20,508,3.0,69.98,6.47,0.0,76.45,1 X kimchi blue white blouse/m + 1 X BrynWalker/BrwnBttnDwn/SizeS + 1 X Papaya Dress Multi-Color Size M,POS 2,23.33
+2026-05-16 17:41:06,2026-05-16,17,5,Saturday,20,507,1.0,59.99,5.55,0.0,65.54,1 X Silver Dragon Green Blazer Size M,POS 2,59.99
+2026-05-16 16:43:25,2026-05-16,16,5,Saturday,20,506,1.0,40.0,3.7,0.0,43.7,2 X Flowers + -1 X Discount,POS 2,40.0
+2026-05-16 16:25:06,2026-05-16,16,5,Saturday,20,505,0.0,21.99,2.03,0.0,24.02,1 X Plenty/Blue&BlkFlowerDress/Size6 + -1 X Discount,POS 2,
+2026-05-16 16:09:41,2026-05-16,16,5,Saturday,20,504,4.0,63.48,5.87,0.0,69.35,1 X Flowers + 1 X Black Crop Top / Size XS + 1 X Loft Sleeveless Blue/White Top M + 1 X REdTOP/SizeM,POS 2,15.87
+2026-05-16 16:05:05,2026-05-16,16,5,Saturday,20,503,3.0,62.97,5.82,0.0,68.79,1 X Nasty Girl Silver Top Size 10 + 1 X GianiBini/TanCropTankTop/SizeM + 1 X Cinema Pink Lace Tulle Lingerie / Size M,POS 2,20.99
+2026-05-16 14:40:24,2026-05-16,14,5,Saturday,20,502,3.0,230.98,21.37,0.0,252.35,1 X Dazy Blue Sheer LS W Tie Front / Size L + 1 X BananaR/ChainGemNecklace + 1 X Coach Pink Madison Hobo,POS 2,76.99
+2026-05-16 14:08:07,2026-05-16,14,5,Saturday,20,501,3.0,50.49,4.67,0.0,55.16,1 X Wild Fable White Dress Size S + 1 X White Flower Ring 1 + 1 X Flowers,POS 2,16.83
+2026-05-16 13:41:23,2026-05-16,13,5,Saturday,20,500,1.0,12.99,1.2,0.0,14.19,1 X multi colored shortsleeve blouse/m,POS 2,12.99
+2026-05-16 13:38:33,2026-05-16,13,5,Saturday,20,499,3.0,64.97,6.01,0.0,70.98,1 X Ann Taylor Baby Pink Tank / Size L + 1 X Christina Black/White Sleeveless L + 1 X black and tan design blouse/14,POS 2,21.66
+2026-05-16 13:12:29,2026-05-16,13,5,Saturday,20,498,0.0,20.0,1.85,0.0,21.85,1 X Style U White Tube Top / Size M + -1 X Discount,POS 2,
+2026-05-16 13:11:26,2026-05-16,13,5,Saturday,20,497,0.0,22.99,2.13,0.0,25.12,1 X WHBM/BlkcinchTop/SizeL + -1 X Discount,POS 2,
+2026-05-16 12:55:28,2026-05-16,12,5,Saturday,20,496,2.0,52.98,4.9,0.0,57.88,1 X Paani/MulticolFlowerDress/SizeS + 1 X Sofft Elsa Blue Sandals/Size,POS 2,26.49
+2026-05-16 12:41:04,2026-05-16,12,5,Saturday,20,495,3.0,51.97,4.81,0.0,56.78,1 X BlkSheerTshirt/SizeL + 1 X Eloise Black Tank / Size M + 1 X HyFve Black Top/Size M,POS 2,17.32
+2026-05-16 12:36:57,2026-05-16,12,5,Saturday,20,494,2.0,50.98,4.72,0.0,55.7,1 X Yellow Chic Vintage T Shirt Size L + 1 X Gray Floral Sparkly Hat,POS 2,25.49
+2026-05-16 11:50:44,2026-05-16,11,5,Saturday,20,493,1.0,23.99,2.22,0.0,26.21,1 X Pink Chic Vintage T Shirt Size S,POS 2,23.99
+2026-05-16 11:33:49,2026-05-16,11,5,Saturday,20,492,2.0,43.98,4.07,0.0,48.05,1 X TicToc/PinkWhiCorset/SizeM + 1 X Lush Dark Blue Satin Top / Size M,POS 2,21.99
+2026-05-16 11:29:09,2026-05-16,11,5,Saturday,20,491,1.0,23.0,2.13,0.0,25.13,1 X Style U Bright Pink Tube Top / Size L,POS 2,23.0
+2026-05-15 19:08:54,2026-05-15,19,5,Friday,20,490,2.0,53.98,4.99,0.0,58.97,1 X Madewell Striped Dress/Size 6 + 1 X Reoria SS Top Pink Size L,POS 2,26.99
+2026-05-15 18:53:57,2026-05-15,18,5,Friday,20,489,1.0,19.99,1.85,0.0,21.84,1 X Turks & Caicos White Cover Up Pants S,POS 2,19.99
+2026-05-15 18:01:20,2026-05-15,18,5,Friday,20,488,0.0,15.99,1.48,0.0,17.47,1 X BlueSteel/ Multipttrn Crop/ Size M + -1 X Discount,POS 2,
+2026-05-15 17:55:32,2026-05-15,17,5,Friday,20,487,1.0,24.0,2.22,0.0,26.22,1 X Tennessee Orange Shawl,POS 2,24.0
+2026-05-15 17:50:50,2026-05-15,17,5,Friday,20,486,3.0,59.97,5.55,0.0,65.52,1 X redbrownVelvetLaceTankTop/SizeS + 1 X LushBlkSheermulticolTop/SizeS + 1 X cynthia rowley/pant/navy/6,POS 2,19.99
+2026-05-15 17:48:06,2026-05-15,17,5,Friday,20,485,2.0,51.98,4.81,0.0,56.79,1 X kimrogers/bls/flr/ps + 1 X Tahari/MulticolTop/SizeL,POS 2,25.99
+2026-05-15 17:20:53,2026-05-15,17,5,Friday,20,484,1.0,19.0,1.76,0.0,20.76,1 X Kristin D White LS Buttondown / Size L,POS 2,19.0
+2026-05-15 17:11:01,2026-05-15,17,5,Friday,20,483,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-15 16:47:21,2026-05-15,16,5,Friday,20,482,3.0,109.96,10.17,0.0,120.13,1 X Lulu's Gold Dress Size S + 1 X Saks/WhiCreamDress/SizeL + 1 X Storia Muted Blush LS Dress / Size S + -1 X Discount + 1 X Brown Dangle Earrings,POS 2,36.65
+2026-05-15 16:44:58,2026-05-15,16,5,Friday,20,481,1.0,30.99,2.87,0.0,33.86,1 X Delicates Bl Lace Slip/Size S,POS 2,30.99
+2026-05-15 16:34:42,2026-05-15,16,5,Friday,20,480,4.0,86.96,8.04,0.0,95.0,1 X SilverGemNecklace + 1 X V Italia Colorful Sandals / Size 8.5 + 1 X Harley DavidsonTee Shirt_Hdaf + 1 X Free People Intimately Romper Blue M,POS 2,21.74
+2026-05-15 16:33:43,2026-05-15,16,5,Friday,20,479,1.0,12.99,1.2,0.0,14.19,1 X Zara/ SqrNck Crop/ Camel/ Size L,POS 2,12.99
+2026-05-15 16:20:23,2026-05-15,16,5,Friday,20,478,1.0,29.99,2.77,0.0,32.76,1 X reversible sundress/m,POS 2,29.99
+2026-05-15 15:49:30,2026-05-15,15,5,Friday,20,477,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-15 15:16:50,2026-05-15,15,5,Friday,20,476,3.0,76.48,7.07,0.0,83.55,1 X Mountain Hardware Brown Skirt / Size 10 + 1 X Silver necklace Lt Blue Stone + 1 X Flowers,POS 2,25.49
+2026-05-15 14:51:16,2026-05-15,14,5,Friday,20,475,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-15 14:09:25,2026-05-15,14,5,Friday,20,474,1.0,37.98,3.51,0.0,41.49,1 X PGA TourSS Top_Iz + 1 X Alexis Bittar Gold Colored Enamel Ring + -1 X Discount,POS 2,37.98
+2026-05-15 13:56:46,2026-05-15,13,5,Friday,20,473,4.0,203.95,18.87,0.0,222.82,1 X VINTAGE Depeche  Blk PolkaDot Top/ Size 12 + 1 X long sleeve pink striped dress shirt/small + 1 X Vintage Carol Chase LS Blouse 10 + 1 X VintageIsabel/BlueFlowrSwtr/SizeS + 1 X BC Vintage Faux Leather Jacket/Size L/Black + -1 X Discount,POS 2,50.99
+2026-05-15 13:46:14,2026-05-15,13,5,Friday,20,472,1.0,115.0,10.64,0.0,125.64,1 X silver skull clutch bag,POS 2,115.0
+2026-05-15 13:18:15,2026-05-15,13,5,Friday,20,471,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-15 13:16:53,2026-05-15,13,5,Friday,20,470,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-15 12:58:05,2026-05-15,12,5,Friday,20,469,1.0,24.99,2.31,0.0,27.3,1 X EmmaJames/PinkFloralSkirt/SizeL,POS 2,24.99
+2026-05-15 12:56:54,2026-05-15,12,5,Friday,20,468,1.0,25.99,2.4,0.0,28.39,1 X Moon X Madi Pink Smiley Face Sweater / Size M,POS 2,25.99
+2026-05-15 12:54:56,2026-05-15,12,5,Friday,20,467,1.0,18.99,1.76,0.0,20.75,1 X Divided/RedPolkaDotDress/Size2,POS 2,18.99
+2026-05-15 12:47:39,2026-05-15,12,5,Friday,20,466,1.0,139.99,12.95,0.0,152.94,1 X NWOT Pink Boots Size 9,POS 2,139.99
+2026-05-15 12:18:03,2026-05-15,12,5,Friday,20,465,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-14 19:42:16,2026-05-14,19,5,Thursday,20,464,1.0,565.0,52.26,0.0,617.26,1 X Vintage Y2K Baby Pink Coach Soho Shoulder Bag + 1 X Coach Green Purse Leather Handle + -1 X Discount,POS 2,565.0
+2026-05-14 19:32:34,2026-05-14,19,5,Thursday,20,463,1.0,24.99,2.31,0.0,27.3,1 X J Crew Pink Red Floral Dress / Size 12,POS 2,24.99
+2026-05-14 18:28:19,2026-05-14,18,5,Thursday,20,462,1.0,24.99,2.31,0.0,27.3,1 X Mondessa/RedFlowerlouse/SizeS,POS 2,24.99
+2026-05-14 17:39:35,2026-05-14,17,5,Thursday,20,461,2.0,51.98,4.81,0.0,56.79,1 X Unknown Green Dress Size 6 + 1 X GTWUrban/RedDress/SizeM,POS 2,25.99
+2026-05-14 17:29:32,2026-05-14,17,5,Thursday,20,460,2.0,85.98,7.95,0.0,93.93,1 X ClothXStone/GrnJumpsuit/SizeXS + 1 X Vintage Grey Vest Size S,POS 2,42.99
+2026-05-14 14:19:48,2026-05-14,14,5,Thursday,20,459,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-14 13:58:10,2026-05-14,13,5,Thursday,20,458,1.0,22.5,2.08,0.0,24.58,1 X Flowers,POS 2,22.5
+2026-05-14 13:49:46,2026-05-14,13,5,Thursday,20,457,1.0,49.98,4.62,0.0,54.6,1 X Miami Burgundy Dress Size XS + 1 X Jen 7 Straight Black Jeans / Size 4 + -1 X Discount,POS 2,49.98
+2026-05-14 13:13:14,2026-05-14,13,5,Thursday,20,456,0.0,20.99,1.94,0.0,22.93,1 X Tahari Tan Dress Size S + -1 X Discount,POS 2,
+2026-05-14 13:11:05,2026-05-14,13,5,Thursday,20,455,1.0,19.99,1.85,0.0,21.84,1 X Green Stone Earings,POS 2,19.99
+2026-05-14 12:59:10,2026-05-14,12,5,Thursday,20,454,2.0,39.0,3.61,0.0,42.61,1 X Madewell Blue Skirt Size 0 + 1 X Andrea Jovine Black/Fish Dress 6,POS 2,19.5
+2026-05-14 12:56:10,2026-05-14,12,5,Thursday,20,453,1.0,21.99,2.03,0.0,24.02,1 X UltraPink/Blk&WhiTop/SizeS,POS 2,21.99
+2026-05-14 12:22:50,2026-05-14,12,5,Thursday,20,452,1.0,26.99,2.5,0.0,29.49,1 X Fantastic F Blush LS Dress / Size M,POS 2,26.99
+2026-05-13 18:39:56,2026-05-13,18,5,Wednesday,20,451,1.0,44.99,4.16,0.0,49.15,1 X NicoleLee/GreenSequinflowerPurse,POS 2,44.99
+2026-05-13 18:39:27,2026-05-13,18,5,Wednesday,20,450,1.0,25.99,2.4,0.0,28.39,1 X Angie/BlkPurpFloralHalter/SizeS,POS 2,25.99
+2026-05-13 17:52:58,2026-05-13,17,5,Wednesday,20,449,3.0,64.97,6.01,0.0,70.98,1 X LRL Green LS / Size XL + 1 X Tribal/BrownSkirt/Size14 + 1 X BlackSkirt/SizeM,POS 2,21.66
+2026-05-13 17:31:21,2026-05-13,17,5,Wednesday,20,448,1.0,39.99,3.7,0.0,43.69,1 X Green Suede Boots La Canadienne  Size 6 1/2,POS 2,39.99
+2026-05-13 17:28:32,2026-05-13,17,5,Wednesday,20,447,1.0,35.99,3.33,0.0,39.32,1 X Stella Dot Rhinestone Necklace,POS 2,35.99
+2026-05-13 15:27:19,2026-05-13,15,5,Wednesday,20,446,3.0,67.97,6.29,0.0,74.26,1 X Yellow Chic Vintage T Shirt Size XL + 1 X Talbots Dark Blue Collared Sleeveless / Size XL + 1 X Apt9/GrnSPotBttnDwn/Size2X,POS 2,22.66
+2026-05-13 13:58:07,2026-05-13,13,5,Wednesday,20,445,1.0,12.99,1.2,0.0,14.19,1 X Altar'd State Tank Black/Size S,POS 2,12.99
+2026-05-13 13:53:37,2026-05-13,13,5,Wednesday,20,444,1.0,12.99,1.2,0.0,14.19,1 X Black Leather Belt with Brown Design,POS 2,12.99
+2026-05-13 13:31:11,2026-05-13,13,5,Wednesday,20,443,1.0,24.99,2.31,0.0,27.3,1 X CreamCircleHatSet,POS 2,24.99
+2026-05-10 16:13:44,2026-05-10,16,5,Sunday,19,442,1.0,20.99,1.94,0.0,22.93,1 X Moda Int Burgundy LS Top XS,POS 2,20.99
+2026-05-10 16:13:04,2026-05-10,16,5,Sunday,19,441,1.0,39.99,3.7,0.0,43.69,1 X Slate & Willow Multi-color Dress XS,POS 2,39.99
+2026-05-10 16:11:24,2026-05-10,16,5,Sunday,19,440,1.0,75.0,6.94,0.0,81.94,1 X Fossil Hobo Handbag,POS 2,75.0
+2026-05-10 16:05:23,2026-05-10,16,5,Sunday,19,439,2.0,69.98,6.47,0.0,76.45,1 X Gianni Bini Brown Boots 7.5 + 1 X DR 2 Pink Patterned SS Top / Size S,POS 2,34.99
+2026-05-10 15:14:43,2026-05-10,15,5,Sunday,19,438,2.0,49.98,4.62,0.0,54.6,1 X Love on Yellow Blue Skirt / Size 5 + 1 X OdilleYellow/Black Skirt Size 0,POS 2,24.99
+2026-05-10 14:59:58,2026-05-10,14,5,Sunday,19,437,1.0,75.99,7.03,0.0,83.02,1 X BDarlin/GrnfloralRuffleDress/Size7/8,POS 2,75.99
+2026-05-10 14:32:30,2026-05-10,14,5,Sunday,19,436,1.0,79.98,7.4,0.0,87.38,1 X VINTAGE City T Blue Floral Dress / Size L + -1 X Discount + 1 X La Lavon White Floral Dress Size L,POS 2,79.98
+2026-05-10 14:28:36,2026-05-10,14,5,Sunday,19,435,1.0,25.99,2.4,0.0,28.39,1 X A Beautiful Soul Blush & Black Dress / XL,POS 2,25.99
+2026-05-10 13:29:24,2026-05-10,13,5,Sunday,19,434,3.0,64.97,6.01,0.0,70.98,1 X Sid & Sandy Peach Plaid LS / Size XXXL + 1 X J Crew Pink SS Blouse / Size 12 + 1 X Red Colorful Striped Belt,POS 2,21.66
+2026-05-10 13:25:41,2026-05-10,13,5,Sunday,19,433,1.0,24.99,2.31,0.0,27.3,1 X RickieFreeman/GrnPurpFlowerDress,POS 2,24.99
+2026-05-10 11:53:51,2026-05-10,11,5,Sunday,19,432,1.0,18.99,1.76,0.0,20.75,1 X Franco Sarto Tan Leather Slip Ons / Size 10,POS 2,18.99
+2026-05-09 20:00:23,2026-05-09,20,5,Saturday,19,431,4.0,86.96,8.04,0.0,95.0,1 X Banana R Cream & Brown Dress / Size 4 + 1 X vintage white halter top/s + 1 X Intuitions/EmbroidedVest/Size6 + 1 X HannaGracie Grey Layered Skirt/Size S,POS 2,21.74
+2026-05-09 19:57:47,2026-05-09,19,5,Saturday,19,430,4.0,72.96,6.75,0.0,79.71,1 X Blush/ Pattern Top/ Brwn&Crm/ Size S + 1 X BCBG Black & White SL Top / Size S + 1 X SiennaSky/OraPinkFloralTop/SizeS + 1 X J Crew Red Scallop Tank / Size 2,POS 2,18.24
+2026-05-09 19:19:42,2026-05-09,19,5,Saturday,19,429,2.0,39.98,3.7,0.0,43.68,1 X DogScarf + 1 X Marilyn Pink & Black 2 Piece Sleepwear Set / Size S,POS 2,19.99
+2026-05-09 18:40:24,2026-05-09,18,5,Saturday,19,428,1.0,32.99,3.05,0.0,36.04,1 X Faux White Crocodile Bag Floral,POS 2,32.99
+2026-05-09 18:11:01,2026-05-09,18,5,Saturday,19,427,1.0,25.0,2.31,0.0,27.31,1 X NWT M Rena Black Dress M,POS 2,25.0
+2026-05-09 16:33:28,2026-05-09,16,5,Saturday,19,426,1.0,28.99,2.68,0.0,31.67,1 X BlackSheerdesignTop,POS 2,28.99
+2026-05-09 16:12:54,2026-05-09,16,5,Saturday,19,425,2.0,32.98,3.05,0.0,36.03,1 X Ralph Lauren Pink Red Polo  / Size L + 1 X Under Armor Camo Baseball Hat,POS 2,16.49
+2026-05-09 16:03:48,2026-05-09,16,5,Saturday,19,424,1.0,225.0,20.81,0.0,245.81,1 X Coach Erin Leather Shoulder Bag,POS 2,225.0
+2026-05-09 15:33:47,2026-05-09,15,5,Saturday,19,423,1.0,19.99,1.85,0.0,21.84,1 X Lia Sophia Necklace,POS 2,19.99
+2026-05-09 15:32:40,2026-05-09,15,5,Saturday,19,422,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-05-09 15:31:35,2026-05-09,15,5,Saturday,19,421,2.0,58.98,5.46,0.0,64.44,1 X VINTAGE Yellow Dress Embrodiered + 1 X Ann Taylor White SL Long Dress / Size 6,POS 2,29.49
+2026-05-09 14:01:53,2026-05-09,14,5,Saturday,19,420,2.0,46.98,4.35,0.0,51.33,1 X nanette lepore knit skirt/M + 1 X Jcrew/Blk&WhiSkirt/Size8,POS 2,23.49
+2026-05-09 12:40:04,2026-05-09,12,5,Saturday,19,419,3.0,96.98,8.97,0.0,105.95,1 X Red Front-Tie Satin Slip + 1 X Flat White Cardigan OSFM + 1 X Freyrs/LightSunglasseswCase,POS 2,32.33
+2026-05-09 12:32:12,2026-05-09,12,5,Saturday,19,418,4.0,80.0,7.4,0.0,87.4,4 X Flowers,POS 2,20.0
+2026-05-09 11:57:53,2026-05-09,11,5,Saturday,19,417,19.0,675.83,62.51,0.0,738.34,1 X Nic & Zoe Beige LS Top Size L + 1 X Talbots Yellow Suit Set / Size 4 + 1 X Liz C Black Leather Belt / Size Medium + 1 X Mina Self Beige Collared Vest Top / Size L + 1 X String/Gold Necklace + 1 X Tommy Bahama Silver Belt / Size XS + 1 X Delicates Camisole Green Size S + 1 X MorganT/FloralMeshIntDress/SizeP + 1 X Zara Multicolor Skirt M + 1 X Miss Cocoa Salmon Halter Top Metal / Size M + 1 X Jaipur/GrnBlkPrintFlareBlouse/SizeM + 1 X LaMode/MulticolSwtrVest/SizeXL + 1 X Dressbarn Black Sleeveless Top S + 1 X Chaps Sleeveless Vest Black L + 1 X Moda Intl Black Halter + 1 X HarloweXG/RedBlkLaceTop/SizeM + 1 X VINTAGE Cream Pink Blue Sheer Dress / Size S + 1 X vintage pink sweater dress with belt/9 + 1 X Coach Apple Green Suede Hobo Bag,POS 2,35.57
+2026-05-09 11:42:40,2026-05-09,11,5,Saturday,19,416,1.0,13.99,1.29,0.0,15.28,1 X Runway/WhiteShawl/SizeS/M,POS 2,13.99
+2026-05-08 19:50:54,2026-05-08,19,5,Friday,19,415,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-05-08 19:13:23,2026-05-08,19,5,Friday,19,414,1.0,68.99,6.38,0.0,75.37,1 X Patricia Nash Brown Purse,POS 2,68.99
+2026-05-08 19:11:50,2026-05-08,19,5,Friday,19,413,1.0,18.0,1.67,0.0,19.67,1 X FP Blue Floral Sheer Blouse / Size XS,POS 2,18.0
+2026-05-08 16:44:32,2026-05-08,16,5,Friday,19,412,1.0,35.99,3.33,0.0,39.32,1 X nanette lepore colorful skirt/10,POS 2,35.99
+2026-05-08 13:32:36,2026-05-08,13,5,Friday,19,411,1.0,32.99,3.05,0.0,36.04,1 X ChrisXBanks/BwnBttnDwnVest/SizeL,POS 2,32.99
+2026-05-08 12:13:47,2026-05-08,12,5,Friday,19,410,1.0,34.99,3.24,0.0,38.23,1 X Lysse NY Pants Brown Size M,POS 2,34.99
+2026-05-07 20:03:48,2026-05-07,20,5,Thursday,19,409,6.0,153.94,14.24,0.0,168.18,1 X AnnT/BlkGreyPant/Size4 + 1 X amo floral blouse/xs + 1 X Zara Green Dress Size S + 1 X Threads 91 Vols Windbreaker S + 1 X Venue Crochet SS Top Cardigan / Size S + 1 X Simply Vera Grey Faux Vest XS,POS 2,25.66
+2026-05-07 18:19:17,2026-05-07,18,5,Thursday,19,408,3.0,66.97,6.19,0.0,73.16,1 X Steve Madden Pink Floral LS Top / Size L + 1 X PleaseLS Top_Lo + 1 X Solitaire white maxi skirt/M,POS 2,22.32
+2026-05-07 17:32:00,2026-05-07,17,5,Thursday,19,407,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-05-07 17:00:36,2026-05-07,17,5,Thursday,19,406,1.0,18.99,1.76,0.0,20.75,1 X Loft Black Cardigan/ Size S,POS 2,18.99
+2026-05-07 16:33:54,2026-05-07,16,5,Thursday,19,405,1.0,16.99,1.57,0.0,18.56,1 X XtraOrd/GreenHalterTop/SizeM,POS 2,16.99
+2026-05-07 15:52:11,2026-05-07,15,5,Thursday,19,404,1.0,18.99,1.76,0.0,20.75,1 X Unknown Blaack Sleeveless Top/Size XL,POS 2,18.99
+2026-05-07 15:05:16,2026-05-07,15,5,Thursday,19,403,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-05-07 14:56:57,2026-05-07,14,5,Thursday,19,402,2.0,48.98,4.53,0.0,53.51,1 X NanetteL/CreamLaceTop/SizeM + 1 X Helena Fejkova Beige Dress M/L,POS 2,24.49
+2026-05-07 14:52:00,2026-05-07,14,5,Thursday,19,401,2.0,42.98,3.98,0.0,46.96,1 X TalbotsLS Top_Hy + 1 X George Brown Floral Skirt / Size 4,POS 2,21.49
+2026-05-07 13:59:32,2026-05-07,13,5,Thursday,19,400,2.0,51.98,4.81,0.0,56.79,1 X JonesNY/ Jean Vest/ Size S + 1 X Fossil Rd Stch Leather/Size S,POS 2,25.99
+2026-05-07 13:45:38,2026-05-07,13,5,Thursday,19,399,2.0,25.98,2.4,0.0,28.38,1 X Orange Necklace + 1 X VintageYellowenamel,POS 2,12.99
+2026-05-07 13:20:17,2026-05-07,13,5,Thursday,19,398,1.0,21.99,2.03,0.0,24.02,1 X Soho Girls Hot Pink Lace Back Top / Size Unisize,POS 2,21.99
+2026-05-07 12:16:05,2026-05-07,12,5,Thursday,19,397,2.0,35.99,3.33,0.0,39.32,1 X mimi chica floral tanktop/m + 1 X Lulus Satin Off White Top / Size S,POS 2,18.0
+2026-05-06 13:38:29,2026-05-06,13,5,Wednesday,19,396,2.0,39.98,3.7,0.0,43.68,1 X Travelers/FlowerMulticolShirt/Size1 + 1 X Gold Circle Design Necklace,POS 2,19.99
+2026-05-03 17:07:32,2026-05-03,17,5,Sunday,18,395,1.0,23.0,2.13,0.0,25.13,1 X Maggie Lawrence Black/Grey Vest S,POS 2,23.0
+2026-05-03 16:42:10,2026-05-03,16,5,Sunday,18,394,1.0,24.99,2.31,0.0,27.3,1 X Pink Lily Jean Skirt Embro / Size S,POS 2,24.99
+2026-05-03 16:34:06,2026-05-03,16,5,Sunday,18,393,4.0,103.97,9.62,0.0,113.59,1 X A Father's Love Orange Skirt Size S + 1 X Alma Mater Orange & White Chevron / Size M + 1 X J Crew Beige Red Blue Cashmere Sweater / Size M + 1 X Love Tree Faux Fur Hoodie Vest M,POS 2,25.99
+2026-05-03 16:28:51,2026-05-03,16,5,Sunday,18,392,1.0,35.99,3.33,0.0,39.32,1 X Paper Lacer white longsleeve blouse/s,POS 2,35.99
+2026-05-03 15:57:07,2026-05-03,15,5,Sunday,18,391,1.0,29.99,2.77,0.0,32.76,1 X Just Fab Lemon Heels / Size 8.5,POS 2,29.99
+2026-05-03 15:37:50,2026-05-03,15,5,Sunday,18,390,3.0,69.97,6.47,0.0,76.44,1 X Vici/Red&PnkFloralDress/SizeM + 1 X Talbots Tan Heels/Size 11 + 1 X Blue Blush Brown Strapless Dress / Size M,POS 2,23.32
+2026-05-03 15:20:57,2026-05-03,15,5,Sunday,18,389,2.0,35.98,3.33,0.0,39.31,1 X INC Blue SL Top / Size M + 1 X Ali & Christ Gray SS / Size M,POS 2,17.99
+2026-05-03 13:53:17,2026-05-03,13,5,Sunday,18,388,1.0,37.99,3.51,0.0,41.5,1 X Free People Red NWT Lace Dress / Size 8,POS 2,37.99
+2026-05-03 13:15:42,2026-05-03,13,5,Sunday,18,387,1.0,21.99,2.03,0.0,24.02,1 X altard state floral skort /M,POS 2,21.99
+2026-05-03 13:10:43,2026-05-03,13,5,Sunday,18,386,1.0,18.99,1.76,0.0,20.75,1 X Sim & Sam floral blouse/s,POS 2,18.99
+2026-05-03 13:09:53,2026-05-03,13,5,Sunday,18,385,1.0,24.99,2.31,0.0,27.3,1 X Loft White Cherry LS Blouse S,POS 2,24.99
+2026-05-02 19:41:53,2026-05-02,19,5,Saturday,18,384,1.0,79.99,7.4,0.0,87.39,1 X NWTChicos/DenimEmbJacket/Size0,POS 2,79.99
+2026-05-02 17:55:12,2026-05-02,17,5,Saturday,18,383,1.0,17.99,1.66,0.0,19.65,1 X BCBGenerationSkirt_En,POS 2,17.99
+2026-05-02 17:47:42,2026-05-02,17,5,Saturday,18,382,1.0,39.99,3.7,0.0,43.69,1 X Banana Rep White Jean Jacket / Size S,POS 2,39.99
+2026-05-02 17:33:41,2026-05-02,17,5,Saturday,18,381,2.0,117.97,10.91,0.0,128.88,1 X bis Charles Jourdan Heels + 1 X VintageAW/Red&BrwnPurse + 1 X Coca ColaTee Shirt_Le + -1 X Discount,POS 2,58.98
+2026-05-02 16:26:57,2026-05-02,16,5,Saturday,18,380,2.0,49.98,4.62,0.0,54.6,1 X ASISBCBG Beige Embroid Buttondown / Size S + 1 X Lulus/CreamLaceBttnDress/SizeS,POS 2,24.99
+2026-05-02 15:50:34,2026-05-02,15,5,Saturday,18,379,7.0,167.94,15.53,0.0,183.47,1 X WallFlower LightWash Jacket/Size S + 1 X Highway Jeans Jacket Size L + 1 X Hudson Gray LS Top Size M + 1 X Jessica S NWT White Sweater w Pink / Size M + 1 X Altard State White Sweater Size M + 1 X WWDDDollyTshirt/SizeM + 1 X Yellow Chic Vintage T Shirt Size S,POS 2,23.99
+2026-05-02 15:15:24,2026-05-02,15,5,Saturday,18,378,1.0,39.99,3.7,0.0,43.69,1 X CristinaJacket_J,POS 2,39.99
+2026-05-02 15:14:33,2026-05-02,15,5,Saturday,18,377,2.0,66.98,6.2,0.0,73.18,1 X Harley DavidsonTank Top_HD + 1 X Harley DavidsonTee Shirt_Li,POS 2,33.49
+2026-05-02 14:42:44,2026-05-02,14,5,Saturday,18,376,1.0,19.99,1.85,0.0,21.84,1 X Altar'd State Pink Cherry Tank Top / Size S,POS 2,19.99
+2026-05-02 14:29:38,2026-05-02,14,5,Saturday,18,375,1.0,15.99,1.48,0.0,17.47,1 X Chloe & Katie Yellow Skirt / Size L,POS 2,15.99
+2026-05-02 14:28:42,2026-05-02,14,5,Saturday,18,374,1.0,21.99,2.03,0.0,24.02,1 X Sheer/Maroon/Size S,POS 2,21.99
+2026-05-02 14:09:29,2026-05-02,14,5,Saturday,18,373,1.0,21.99,2.03,0.0,24.02,1 X Silver w Blue Accent Necklace,POS 2,21.99
+2026-05-02 14:06:39,2026-05-02,14,5,Saturday,18,372,3.0,61.97,5.73,0.0,67.7,1 X Saywhat/BlackCorset/SizeL + 1 X WHBM Cream Boho Bustier M + 1 X Offline croped workout top/M,POS 2,20.66
+2026-05-02 14:05:50,2026-05-02,14,5,Saturday,18,371,1.0,79.99,7.4,0.0,87.39,1 X CorralBoots/MarronStudBoots/Size8,POS 2,79.99
+2026-05-02 13:50:48,2026-05-02,13,5,Saturday,18,370,1.0,14.99,1.39,0.0,16.38,1 X BrwnxGreyCroppedVest/SizeM/L,POS 2,14.99
+2026-05-02 13:48:46,2026-05-02,13,5,Saturday,18,369,2.0,37.98,3.51,0.0,41.49,1 X Soffe/Blk&WhiStripeUTTop/SizeM + 1 X St Johns Bay Orange Butterfly Shortsleeve / Size S,POS 2,18.99
+2026-05-02 13:13:36,2026-05-02,13,5,Saturday,18,368,2.0,120.97,11.19,0.0,132.16,1 X B. Right Pink Rose Strapless Dress / Size S + 1 X SincerelyJules/GreenlaceDress/SizeXS + 1 X Paddle & Saddle Brown VINTAGE SL Jumpsuit + -1 X Discount,POS 2,60.48
+2026-05-02 13:10:09,2026-05-02,13,5,Saturday,18,367,1.0,19.0,1.76,0.0,20.76,1 X Boden Green LS Top 10,POS 2,19.0
+2026-05-02 13:09:19,2026-05-02,13,5,Saturday,18,366,1.0,24.99,2.31,0.0,27.3,1 X Loft knit tanktop/m,POS 2,24.99
+2026-05-02 13:04:14,2026-05-02,13,5,Saturday,18,365,2.0,50.98,4.72,0.0,55.7,1 X RalphLauren Pink Tee/Size M + 1 X Coca ColaTee Shirt_Pr,POS 2,25.49
+2026-05-02 11:50:28,2026-05-02,11,5,Saturday,18,364,0.0,26.99,2.5,0.0,29.49,1 X Griffen Blue Cashmere Sweater / Size M + -1 X Discount,POS 2,
+2026-05-02 11:14:40,2026-05-02,11,5,Saturday,18,363,1.0,15.99,1.48,0.0,17.47,1 X Margo Paige Clear Purse,POS 2,15.99
+2026-05-01 20:33:27,2026-05-01,20,5,Friday,18,362,3.0,81.96,7.58,0.0,89.54,1 X Cable Top/ Pink/ Size M + 1 X Maeve Apple Tee / Size Small + 1 X Lou & Grey Multicolor Striped Top / Size M + 1 X Nirvana Band Tshirt / Size S + -1 X Discount,POS 2,27.32
+2026-05-01 20:15:43,2026-05-01,20,5,Friday,18,361,3.0,87.98,8.14,0.0,96.12,1 X XCVI Green SL Top / Size XS + 1 X Ann Taylor Brown SS Cover Up / Size 2 + 1 X Claudia Strater Green & Gold Dress / Size XL,POS 2,29.33
+2026-05-01 20:14:11,2026-05-01,20,5,Friday,18,360,5.0,104.95,9.71,0.0,114.66,1 X KennethC/BrownPurse + 1 X KennethC/GreyPurse + 1 X The Limited Beige SL Dress / Size 2 + 1 X Calvin K Gray Silk Tank / Size XS + 1 X Live in the Moment Beige SL Crop Top / Size S,POS 2,20.99
+2026-05-01 19:59:49,2026-05-01,19,5,Friday,18,359,1.0,15.99,1.48,0.0,17.47,1 X Inc Silver Heels/Size 10,POS 2,15.99
+2026-05-01 19:29:32,2026-05-01,19,5,Friday,18,358,2.0,22.98,2.13,0.0,25.11,1 X Wild Fable Orange Crop Top/ Size XS + 1 X WildFable/OrangeHalterTop/SizeXS,POS 2,11.49
+2026-05-01 18:51:01,2026-05-01,18,5,Friday,18,357,2.0,44.98,4.16,0.0,49.14,1 X Ava James Dark Blue Blouse / Size S + 1 X Loft Dark Blue Tank w White Stars / Size M,POS 2,22.49
+2026-05-01 18:45:09,2026-05-01,18,5,Friday,18,356,1.0,25.99,2.4,0.0,28.39,1 X Kenzie Black SL Dress / Size S,POS 2,25.99
+2026-05-01 18:38:58,2026-05-01,18,5,Friday,18,355,1.0,17.99,1.66,0.0,19.65,1 X SincerelyJules/WhiCropCoverHoodie/SizeL,POS 2,17.99
+2026-05-01 18:17:41,2026-05-01,18,5,Friday,18,354,1.0,25.99,2.4,0.0,28.39,1 X unkown/dress/red/m,POS 2,25.99
+2026-05-01 15:09:45,2026-05-01,15,5,Friday,18,353,2.0,58.98,5.46,0.0,64.44,1 X Adiva White LS Blouse M + 1 X Nautica Blk Loafer/Size 7,POS 2,29.49
+2026-05-01 14:02:06,2026-05-01,14,5,Friday,18,352,1.0,31.99,2.96,0.0,34.95,1 X Andree Army Green Vest / Size S,POS 2,31.99
+2026-05-01 13:44:53,2026-05-01,13,5,Friday,18,351,1.0,13.5,1.25,0.0,14.75,1 X Clear Studded Bag,POS 2,13.5
+2026-05-01 13:24:15,2026-05-01,13,5,Friday,18,350,2.0,57.98,5.36,0.0,63.34,1 X Athleta Navy Pants / Size 4 + 1 X pistola/pant/red/25,POS 2,28.99
+2026-05-01 12:28:39,2026-05-01,12,5,Friday,18,349,3.0,86.97,8.04,0.0,95.01,1 X Brighton/WeaveShoulderBag + 1 X Banana Rep Red LS Dress / Size M + 1 X Ayla Blk Cropped Shirt/Size M,POS 2,28.99
+2026-04-30 19:20:16,2026-04-30,19,4,Thursday,18,348,1.0,294.99,27.29,0.0,322.28,1 X Coach/JadeGreyPurse + 1 X pink snakeskin jegging/0 + -1 X Discount,POS 2,294.99
+2026-04-30 18:27:14,2026-04-30,18,4,Thursday,18,347,5.0,145.94,13.5,0.0,159.44,1 X Freemarket White Floral Top / Size S + 1 X UrbanOut/MulticolSTripeShirt/SizeSp + 1 X House of Harlow Satin Collared Blouse / Size M + 1 X lilisidonio/bls/red/xs + 1 X silk black tank/small + 1 X White & Clear Stone Necklace + -1 X Discount,POS 2,29.19
+2026-04-30 15:52:45,2026-04-30,15,4,Thursday,18,346,1.0,45.0,4.16,0.0,49.16,1 X VINTAGE Saks 5th Ave Makeup Compact,POS 2,45.0
+2026-04-30 13:43:01,2026-04-30,13,4,Thursday,18,345,1.0,199.99,18.5,0.0,218.49,1 X Coach Pink Hampton Leather Bag,POS 2,199.99
+2026-04-30 13:42:17,2026-04-30,13,4,Thursday,18,344,1.0,35.99,3.33,0.0,39.32,1 X Zen Danskin Top/Pant Set S + 1 X RiverIsland/LeafBeadShirt/Size10 + -1 X Discount,POS 2,35.99
+2026-04-30 12:22:08,2026-04-30,12,4,Thursday,18,343,1.0,12.99,1.2,0.0,14.19,1 X Brown Cutout Design Leather Belt,POS 2,12.99
+2026-04-29 19:10:05,2026-04-29,19,4,Wednesday,18,342,1.0,35.99,3.33,0.0,39.32,1 X vintage kids green dress/5,POS 2,35.99
+2026-04-29 19:05:10,2026-04-29,19,4,Wednesday,18,341,1.0,28.99,2.68,0.0,31.67,1 X Vici Hot Pink LS Crop Top / Size S,POS 2,28.99
+2026-04-29 18:43:00,2026-04-29,18,4,Wednesday,18,340,1.0,20.99,1.94,0.0,22.93,1 X Aeropostale Brown Belt with Beige Stitch,POS 2,20.99
+2026-04-29 14:53:03,2026-04-29,14,4,Wednesday,18,339,2.0,55.98,5.18,0.0,61.16,1 X Madden Girl Pink Strap Leather Heals + 1 X NWT altard state cow print crop tank/S,POS 2,27.99
+2026-04-29 14:40:16,2026-04-29,14,4,Wednesday,18,338,1.0,21.99,2.03,0.0,24.02,1 X Raisin' Hell Beige BBall Cap,POS 2,21.99
+2026-04-29 13:46:33,2026-04-29,13,4,Wednesday,18,337,1.0,32.99,3.05,0.0,36.04,1 X ETWO/MulticolBlouse/SizeS,POS 2,32.99
+2026-04-26 18:22:31,2026-04-26,18,4,Sunday,17,336,5.0,102.95,9.52,0.0,112.47,1 X Beaded Brown Waist Belt + 1 X Brown Waist Belt Double Loop + 1 X Angel Biba White Lace Dress / Size S + 1 X Zara White LS Lace Top / Size M + 1 X Gap White Lace Top XS,POS 2,20.59
+2026-04-26 17:31:04,2026-04-26,17,4,Sunday,17,335,2.0,61.98,5.73,0.0,67.71,1 X WHBM Corset Black Floral/Size 6 + 1 X Basket Tote/Purse,POS 2,30.99
+2026-04-26 17:29:42,2026-04-26,17,4,Sunday,17,334,3.0,61.97,5.73,0.0,67.7,1 X Love Fire Bodysuit Black + 1 X Zara White Bodysuit / Size M + 1 X Liz Claiborne Brown Flats/Size 8.5,POS 2,20.66
+2026-04-26 17:11:19,2026-04-26,17,4,Sunday,17,333,1.0,20.0,1.85,0.0,21.85,1 X Pink Plastic Purse,POS 2,20.0
+2026-04-26 16:31:20,2026-04-26,16,4,Sunday,17,332,1.0,25.99,2.4,0.0,28.39,1 X Coldwater Creek Black Floral Velvet Skirt / Size XL,POS 2,25.99
+2026-04-26 15:27:51,2026-04-26,15,4,Sunday,17,331,1.0,24.99,2.31,0.0,27.3,1 X Zara White Black Stripe Crop Top / Size M,POS 2,24.99
+2026-04-26 14:57:50,2026-04-26,14,4,Sunday,17,330,0.0,31.49,2.91,0.0,34.4,1 X Armani/WhiQuarterShirt/Size6 + -1 X Discount,POS 2,
+2026-04-26 11:19:46,2026-04-26,11,4,Sunday,17,329,2.0,61.98,5.73,0.0,67.71,1 X VintageRedLeatherDress/Size40 + 1 X Ellcont Floral Dress Vintage,POS 2,30.99
+2026-04-26 10:59:10,2026-04-26,10,4,Sunday,17,328,1.0,24.99,2.31,0.0,27.3,1 X Easel Beige Floral Kimono Top / Size L,POS 2,24.99
+2026-04-25 19:53:29,2026-04-25,19,4,Saturday,17,327,1.0,39.99,3.7,0.0,43.69,1 X VINTAGE JR Bazaar Black Colorful Skirt / Size 11,POS 2,39.99
+2026-04-25 18:34:53,2026-04-25,18,4,Saturday,17,326,1.0,12.99,1.2,0.0,14.19,1 X Orange Vote T Tshirt / Size M,POS 2,12.99
+2026-04-25 15:59:14,2026-04-25,15,4,Saturday,17,325,2.0,40.98,3.79,0.0,44.77,1 X smiley tshirt/medium + 1 X PinkFloyd/Tshirt/SizeM,POS 2,20.49
+2026-04-25 15:40:15,2026-04-25,15,4,Saturday,17,324,1.0,125.0,11.56,0.0,136.56,1 X Charlie Horse Handcrafted Brazilian Boots 8.5,POS 2,125.0
+2026-04-25 13:54:34,2026-04-25,13,4,Saturday,17,323,3.0,101.96,9.43,0.0,111.39,1 X X2 Jean Skirt / Size 6 + 1 X Luxology Beige Pink SL Long Dress / Size L + 1 X LIV Los Angeles White Seethrough LS / Size 2x + 1 X Desigual Blue Skirt / Size XXL + -1 X Discount,POS 2,33.99
+2026-04-25 13:52:42,2026-04-25,13,4,Saturday,17,322,2.0,42.99,3.98,0.0,46.97,1 X Nanette Lepore Brown Blouse 10 + 1 X Westbound White Knit Poncho / One Size,POS 2,21.5
+2026-04-25 13:51:43,2026-04-25,13,4,Saturday,17,321,1.0,44.98,4.16,0.0,49.14,1 X Pink Blouse W Ruffles / Size S + 1 X EriXAll/HotpinkruffleTop/Size6 + -1 X Discount,POS 2,44.98
+2026-04-25 13:40:31,2026-04-25,13,4,Saturday,17,320,4.0,85.97,7.95,0.0,93.92,1 X Banana Rep Emerald Green SL Top / Size M + 1 X One Secret Beige w Stripe Panel / Size L + 1 X Japna Sleeveless Blouse Pink M + 1 X BCBGMax Black/Grey SS Top,POS 2,21.49
+2026-04-25 13:11:32,2026-04-25,13,4,Saturday,17,319,3.0,72.97,6.75,0.0,79.72,1 X Beli Fama Dress Size + 1 X Paani Luv Blue Floral Skirt / Size S + 1 X Old Navy Beige High Rise Pants / Size 6 + -1 X Discount + 1 X Green Flower Necklace Choker,POS 2,24.32
+2026-04-25 12:55:30,2026-04-25,12,4,Saturday,17,318,2.0,72.98,6.75,0.0,79.73,1 X Le Chateau Leopard Boustier M + 1 X NWT Marc NY Faux Fur Yellow M + -1 X Discount + 1 X D&Y Black Corduroy Hat,POS 2,36.49
+2026-04-25 12:46:48,2026-04-25,12,4,Saturday,17,317,1.0,55.98,5.18,0.0,61.16,1 X DraperJNWT/DarkPurpSkirt/SizeL + 1 X sadie&sage/bls/beige/m + -1 X Discount,POS 2,55.98
+2026-04-25 11:25:37,2026-04-25,11,4,Saturday,17,316,0.0,21.99,2.03,0.0,24.02,1 X J & X Black Beaded Peacock Scarf + -1 X Discount,POS 2,
+2026-04-25 10:58:50,2026-04-25,10,4,Saturday,17,315,1.0,36.98,3.42,0.0,40.4,1 X Slenderella Slip Dress Black Size M + 1 X Harley DavidsonTank Top_Hdaa + -1 X Discount,POS 2,36.98
+2026-04-25 10:53:40,2026-04-25,10,4,Saturday,17,314,1.0,18.99,1.76,0.0,20.75,1 X 10002312,POS 2,18.99
+2026-04-24 19:44:55,2026-04-24,19,4,Friday,17,313,1.0,12.99,1.2,0.0,14.19,1 X Old Navy White Floral Wrap Top / Size S,POS 2,12.99
+2026-04-24 19:41:07,2026-04-24,19,4,Friday,17,312,1.0,21.99,2.03,0.0,24.02,1 X Talbots Beige Floral Skirt / Size 2,POS 2,21.99
+2026-04-24 19:33:31,2026-04-24,19,4,Friday,17,311,2.0,62.98,5.83,0.0,68.81,1 X Nine West Pink Yellow Tie Up Wedges / Size 9 + 1 X Shoreline Pink Purple Dress/Size OS,POS 2,31.49
+2026-04-24 19:06:37,2026-04-24,19,4,Friday,17,310,2.0,62.98,5.83,0.0,68.81,1 X Delias Blue and Floral Dress/Size M + 1 X Comfortiva Pink Sandals/Size 7,POS 2,31.49
+2026-04-24 19:02:43,2026-04-24,19,4,Friday,17,309,2.0,50.98,4.72,0.0,55.7,1 X Easel Grey LS Top Size L + 1 X Nicfazy Green Yellow Dress / Size XL,POS 2,25.49
+2026-04-24 17:22:29,2026-04-24,17,4,Friday,17,308,1.0,23.99,2.22,0.0,26.21,1 X Billabong/YellowFlowerSkirt/SizeM,POS 2,23.99
+2026-04-24 15:50:03,2026-04-24,15,4,Friday,17,307,2.0,43.98,4.07,0.0,48.05,1 X naked zebra navy blouse/s + 1 X Adrianna Papell/ Blouse/ Pink/ Size M,POS 2,21.99
+2026-04-24 15:16:31,2026-04-24,15,4,Friday,17,306,1.0,15.99,1.48,0.0,17.47,1 X Comfort Blue Acid Wash Tee/Size M,POS 2,15.99
+2026-04-24 15:13:34,2026-04-24,15,4,Friday,17,305,1.0,22.99,2.13,0.0,25.12,1 X Tribe Azure Purple Flowly Romper / Size S,POS 2,22.99
+2026-04-24 14:50:46,2026-04-24,14,4,Friday,17,304,2.0,41.98,3.88,0.0,45.86,1 X Express Bleus Sage Green Sweatervest / Size L + 1 X Black Pleather Purse Silver Hardware,POS 2,20.99
+2026-04-24 14:32:31,2026-04-24,14,4,Friday,17,303,1.0,17.99,1.66,0.0,19.65,1 X Brown Leather Belt Red Blue Studs,POS 2,17.99
+2026-04-24 14:11:20,2026-04-24,14,4,Friday,17,302,1.0,17.99,1.66,0.0,19.65,1 X NWT H&M Peach Top/Size S,POS 2,17.99
+2026-04-24 14:06:08,2026-04-24,14,4,Friday,17,301,3.0,56.97,5.27,0.0,62.24,1 X Lucky BrandTee Shirt_DI + 1 X NWT Allen B. Dress Size L + 1 X Unknown Black/White Dress Size XL,POS 2,18.99
+2026-04-24 13:58:29,2026-04-24,13,4,Friday,17,300,2.0,44.98,4.16,0.0,49.14,1 X Skims NWTSS Top_Ry + 1 X Nike Knoxville Tshirt / Size XXL,POS 2,22.49
+2026-04-24 13:45:23,2026-04-24,13,4,Friday,17,299,2.0,62.98,5.83,0.0,68.81,1 X Lauren RL White Off Shoulder Top / Size S + 1 X AnnTaylor/Red&WhiFloralSkirt/Size4,POS 2,31.49
+2026-04-23 19:05:48,2026-04-23,19,4,Thursday,17,298,-1.0,-24.99,-2.31,0.0,-27.3,-1 X NWT Liz Claiborne Brown Hat,POS 2,24.99
+2026-04-23 18:54:56,2026-04-23,18,4,Thursday,17,297,1.0,24.99,2.31,0.0,27.3,1 X NWT Liz Claiborne Brown Hat,POS 2,24.99
+2026-04-23 18:52:14,2026-04-23,18,4,Thursday,17,296,1.0,32.99,3.05,0.0,36.04,1 X ASTR White Dress / Size M,POS 2,32.99
+2026-04-23 18:31:51,2026-04-23,18,4,Thursday,17,295,1.0,79.99,7.4,0.0,87.39,1 X Harley D. Leather Boots / Size 9.5,POS 2,79.99
+2026-04-23 16:41:34,2026-04-23,16,4,Thursday,17,294,2.0,37.98,3.51,0.0,41.49,1 X Sincerely Jules NWT Jean Top / Size L + 1 X Tahari Purple Satin Top / Size L,POS 2,18.99
+2026-04-23 16:33:27,2026-04-23,16,4,Thursday,17,293,0.0,14.45,1.34,0.0,15.79,1 X Hurley Leopard Shorts + -1 X Discount,POS 2,
+2026-04-23 13:21:00,2026-04-23,13,4,Thursday,17,292,1.0,22.99,2.13,0.0,25.12,1 X DKNY/ Embellished Floral Top/ Blk/ Size XL,POS 2,22.99
+2026-04-23 12:01:33,2026-04-23,12,4,Thursday,17,291,2.0,48.98,4.53,0.0,53.51,1 X Unknown Gray/White/Blk Marbled Top/Size S + 1 X Tahari Satin Gold SL Top Black Ruffle / Size S,POS 2,24.49
+2026-04-22 18:18:47,2026-04-22,18,4,Wednesday,17,290,1.0,65.99,6.1,0.0,72.09,1 X Vintage Light Blue Lace Dress/Size M,POS 2,65.99
+2026-04-22 14:13:55,2026-04-22,14,4,Wednesday,17,289,1.0,22.99,2.13,0.0,25.12,1 X Harley DavidsonTee Shirt_hdac,POS 2,22.99
+2026-04-22 13:32:43,2026-04-22,13,4,Wednesday,17,288,1.0,16.99,1.57,0.0,18.56,1 X Chicos Vintage Necklace,POS 2,16.99
+2026-04-22 13:31:43,2026-04-22,13,4,Wednesday,17,287,11.0,480.9,44.48,0.0,525.38,1 X Pink Butterfly Hat + 1 X SJB Active White Gray Tank / Size S + 1 X Avenue/MulticolSkirt/Size18/20 + 1 X JMcollect/skrt/multibeige/16P + 1 X Coach Fringe Brown Purse AS IS + 1 X La Sensa Ylw&Gry Halter/Size L + 1 X one step/tank/teal/46 + 1 X In BloomCamisole_Je + 1 X Caroline Hill Beige Tank w Fringe / Size L + 1 X Hydraulic Jean Skirt/Size 14 + 1 X New Directions NWT B & W Tank / Size M,POS 2,43.72
+2026-04-22 12:42:29,2026-04-22,12,4,Wednesday,17,286,3.0,58.97,5.45,0.0,64.42,1 X Paper Crane White Pattern Crop Top / Size M + 1 X blue and white long sleeve croptop/medium + 1 X Zara/YllwFloralCutoutDress/SizeM,POS 2,19.66
+2026-04-19 18:49:25,2026-04-19,18,4,Sunday,16,285,1.0,24.99,2.31,0.0,27.3,1 X Kensie/WhitelaceDress/Size10,POS 2,24.99
+2026-04-19 18:37:08,2026-04-19,18,4,Sunday,16,284,2.0,49.98,4.62,0.0,54.6,1 X MissDorby/BlkWhiPadJacket/Size14 + 1 X TheSak Blk Deena Flap Bag,POS 2,24.99
+2026-04-19 18:05:50,2026-04-19,18,4,Sunday,16,283,1.0,25.99,2.4,0.0,28.39,1 X ButterflyNecklace,POS 2,25.99
+2026-04-19 18:02:53,2026-04-19,18,4,Sunday,16,282,3.0,53.97,4.99,0.0,58.96,1 X Talbots White Button Up Top / Size 6 + 1 X Posty Co Black Tour Tshirt / Size 2XL + 1 X Free People Black Tank Emb / Size M,POS 2,17.99
+2026-04-19 15:54:55,2026-04-19,15,4,Sunday,16,281,1.0,85.99,7.95,0.0,93.94,1 X Desigual Green Denim Sequin Jacket / Size 46,POS 2,85.99
+2026-04-19 15:49:03,2026-04-19,15,4,Sunday,16,280,1.0,22.99,2.13,0.0,25.12,1 X Wild Fable Jean Colorful Skirt / Size 4,POS 2,22.99
+2026-04-19 15:46:16,2026-04-19,15,4,Sunday,16,279,1.0,34.99,3.24,0.0,38.23,1 X J Crew Pink Orange Floral SL Long Dress / Size XS,POS 2,34.99
+2026-04-19 14:55:22,2026-04-19,14,4,Sunday,16,278,1.0,14.99,1.39,0.0,16.38,1 X lucky brand/tank/blue/s,POS 2,14.99
+2026-04-19 14:49:24,2026-04-19,14,4,Sunday,16,277,1.0,14.99,1.39,0.0,16.38,1 X Next Brown Belt,POS 2,14.99
+2026-04-19 14:31:40,2026-04-19,14,4,Sunday,16,276,1.0,29.99,2.77,0.0,32.76,1 X Madewell Brown Loafer Size 7 1/2,POS 2,29.99
+2026-04-19 14:25:17,2026-04-19,14,4,Sunday,16,275,1.0,24.99,2.31,0.0,27.3,1 X Bailey44/Sheer Blouse/Blk/Size S,POS 2,24.99
+2026-04-19 14:06:55,2026-04-19,14,4,Sunday,16,274,1.0,19.99,1.85,0.0,21.84,1 X Light Wash Jean Vest / Size XL,POS 2,19.99
+2026-04-19 13:55:51,2026-04-19,13,4,Sunday,16,273,2.0,42.98,3.98,0.0,46.96,1 X Hawaiian Punch Tee Shirt + 1 X Hem & Thread Cheetah Tank / Size L,POS 2,21.49
+2026-04-19 13:51:34,2026-04-19,13,4,Sunday,16,272,2.0,48.98,4.53,0.0,53.51,1 X U.a./ Fringe Top/Size S + 1 X BCBG Tan Crochet SL Peplum Top / Size S,POS 2,24.49
+2026-04-19 13:45:39,2026-04-19,13,4,Sunday,16,271,1.0,14.99,1.39,0.0,16.38,1 X Merit/BrownBag,POS 2,14.99
+2026-04-19 13:23:03,2026-04-19,13,4,Sunday,16,270,1.0,23.99,2.22,0.0,26.21,1 X Banana Republic Black SL Dress / Size 6,POS 2,23.99
+2026-04-19 11:38:43,2026-04-19,11,4,Sunday,16,269,1.0,32.99,3.05,0.0,36.04,1 X Maeve/PinkPatternDress/SizeXL,POS 2,32.99
+2026-04-18 19:47:48,2026-04-18,19,4,Saturday,16,268,2.0,39.98,3.7,0.0,43.68,1 X JackWills/JeanShort/Size6 + 1 X Ann Taylor Red Purse,POS 2,19.99
+2026-04-18 19:41:54,2026-04-18,19,4,Saturday,16,267,3.0,81.97,7.58,0.0,89.55,1 X Zara/ Wrap Dress/ Pnk/ Size L + 1 X Free People Tunic White / Size L + 1 X HerENSG/OrangeButtonRomper/SizeL,POS 2,27.32
+2026-04-18 19:23:12,2026-04-18,19,4,Saturday,16,266,2.0,38.99,3.61,0.0,42.6,1 X BDG Jean Skirt / Size S + 1 X Rebellion Again Floral Top / Size S,POS 2,19.5
+2026-04-18 19:09:29,2026-04-18,19,4,Saturday,16,265,4.0,157.96,14.61,0.0,172.57,1 X ZacXRachel/GreenLaceTop/Size2X + 1 X NWT Diane Gilman Bluejeans Size 16 + 1 X Exclusive/MulticolLongSlve/SizeL + 1 X desigual black sweater jean jacket/46,POS 2,39.49
+2026-04-18 18:15:32,2026-04-18,18,4,Saturday,16,264,2.0,75.98,7.03,0.0,83.01,1 X VINTAGE Beige Slip Dress Embr / Size S + 1 X Victoria's S Black Corset Top / Size M,POS 2,37.99
+2026-04-18 18:07:46,2026-04-18,18,4,Saturday,16,263,1.0,225.0,20.81,0.0,245.81,1 X Coach Black Leather Purse,POS 2,225.0
+2026-04-18 17:33:31,2026-04-18,17,4,Saturday,16,262,1.0,27.99,2.59,0.0,30.58,1 X XXZ Black Red Dot SL Dress / Size S,POS 2,27.99
+2026-04-18 17:26:28,2026-04-18,17,4,Saturday,16,261,11.0,252.41,23.35,0.0,275.76,1 X Love Riche + 1 X PamelaStewart/BlkstrapTop/SizeL + 1 X Vintage1978AvonShimmeringSands + 1 X Pink Snakeskin Belt + 1 X Rose Pink Half Circle Earrings + 1 X David&Young/BeadedBeachHat + 1 X Leather Strap Medallion Necklace + 1 X Gold/White Necklace + 1 X Urban Outfitters Multi Color SL Dress / Size M + 1 X Silver bracelet/ silbver + 1 X Bluebracelet/blue,POS 2,22.95
+2026-04-18 16:24:57,2026-04-18,16,4,Saturday,16,260,1.0,12.0,1.11,0.0,13.11,1 X Cisos Design Brown Sleeveless 8,POS 2,12.0
+2026-04-18 16:19:08,2026-04-18,16,4,Saturday,16,259,3.0,101.96,9.43,0.0,111.39,1 X Kenneth Cole Brown Boots Size 8 + 1 X unknown/belt/bwn sprk + 1 X Pink Orange Skirt White Flowers Skirt / Size 8 + 1 X Nine West Green Flats/ Size 8 + -1 X Discount,POS 2,33.99
+2026-04-18 15:45:13,2026-04-18,15,4,Saturday,16,258,1.0,29.99,2.77,0.0,32.76,1 X Fossil Yellow Leather Belt/Size S,POS 2,29.99
+2026-04-18 15:39:36,2026-04-18,15,4,Saturday,16,257,3.0,81.97,7.58,0.0,89.55,1 X Zara Sleeveless Bodysuit/ Blk & Blue Size M + 1 X JBD/skrt/denim/M + 1 X Mink Pink Multicolor SL Dress / Size S,POS 2,27.32
+2026-04-18 15:29:58,2026-04-18,15,4,Saturday,16,256,1.0,26.99,2.5,0.0,29.49,1 X ThadiaSoli/DenimFlowerSkirt/Size13/14,POS 2,26.99
+2026-04-18 14:51:09,2026-04-18,14,4,Saturday,16,255,2.0,58.98,5.46,0.0,64.44,1 X billa bong/bls/pnk/sp + 1 X SeeYouMon/PnkAsymTubeTop/SizeL,POS 2,29.49
+2026-04-18 14:05:49,2026-04-18,14,4,Saturday,16,254,1.0,29.99,2.77,0.0,32.76,1 X Bar III Floral Skirt/ Size XXL,POS 2,29.99
+2026-04-18 13:35:37,2026-04-18,13,4,Saturday,16,253,3.0,59.97,5.55,0.0,65.52,1 X Chinese Laundry Brown Mules Size 9 + 1 X Altard State Dress Brown Size L + 1 X The Rolling StonesTee Shirt_Ch,POS 2,19.99
+2026-04-18 13:07:03,2026-04-18,13,4,Saturday,16,252,2.0,120.98,11.19,0.0,132.17,1 X VINTAGE Blue Pattern LS Dress / Size 12 + 1 X SterlingSilverTigersEyeRing,POS 2,60.49
+2026-04-18 12:48:49,2026-04-18,12,4,Saturday,16,251,3.0,55.97,5.18,0.0,61.15,1 X UJA/ Collar Shirt/ Grey/ Size M + 1 X Loft Green Front Pocket Skirt + 1 X Signals Mulit-Color Pants Size L,POS 2,18.66
+2026-04-18 12:27:12,2026-04-18,12,4,Saturday,16,250,1.0,25.99,2.4,0.0,28.39,1 X Loveriche Brown Skirt/ Size S,POS 2,25.99
+2026-04-18 12:20:42,2026-04-18,12,4,Saturday,16,249,1.0,55.98,5.18,0.0,61.16,1 X TH Los Angeles Brown & Beige Dress / Size S + 1 X Stella Dot White Cabochon Pendant Necklace + -1 X Discount,POS 2,55.98
+2026-04-18 12:19:53,2026-04-18,12,4,Saturday,16,248,0.0,24.99,2.31,0.0,27.3,1 X Monteau White Lace Shorts Size L + -1 X Discount,POS 2,
+2026-04-18 12:03:37,2026-04-18,12,4,Saturday,16,247,1.0,89.98,8.32,0.0,98.3,1 X Michael Kors Brown Little Bag w Tassel + 1 X Turquoise Color Silver Ring + -1 X Discount,POS 2,89.98
+2026-04-18 11:58:14,2026-04-18,11,4,Saturday,16,246,1.0,32.99,3.05,0.0,36.04,1 X Sensation Denim Dress/Size XL,POS 2,32.99
+2026-04-18 11:26:56,2026-04-18,11,4,Saturday,16,245,0.0,25.99,2.4,0.0,28.39,1 X Schutz Black Woven Flats / Size 9.5 + -1 X Discount,POS 2,
+2026-04-18 11:22:07,2026-04-18,11,4,Saturday,16,244,1.0,28.99,2.68,0.0,31.67,1 X Altardstateorangeandwhitecheckeredshort/xs,POS 2,28.99
+2026-04-17 19:47:49,2026-04-17,19,4,Friday,16,243,1.0,25.99,2.4,0.0,28.39,1 X Heart Soul Light Pink & Black Blouse / Size S,POS 2,25.99
+2026-04-17 19:46:41,2026-04-17,19,4,Friday,16,242,1.0,18.99,1.76,0.0,20.75,1 X Brighton Silver Necklace,POS 2,18.99
+2026-04-17 18:54:24,2026-04-17,18,4,Friday,16,241,1.0,29.0,2.68,0.0,31.68,1 X Sezane Black/White Pants S,POS 2,29.0
+2026-04-17 15:42:15,2026-04-17,15,4,Friday,16,240,1.0,36.98,3.42,0.0,40.4,1 X express/jckt/dnm/s + 1 X Patrons of Peace Top/ Floral Beige and Pink/Size XS + -1 X Discount,POS 2,36.98
+2026-04-17 14:30:36,2026-04-17,14,4,Friday,16,239,2.0,37.98,3.51,0.0,41.49,1 X Nakamol Stone Wrap Bracelet + 1 X WW Black Snakeskin Belt / Size 2X,POS 2,18.99
+2026-04-17 14:29:12,2026-04-17,14,4,Friday,16,238,4.0,79.96,7.4,0.0,87.36,1 X Zara Light Blue Dress Size XS + 1 X Tennessee Orange Gradient Tshirt / Size XS + 1 X St Johns Bay White SS Top / Size S + 1 X Lucky BrandSS Top_Za,POS 2,19.99
+2026-04-17 14:26:43,2026-04-17,14,4,Friday,16,237,1.0,22.99,2.13,0.0,25.12,1 X Mysteree white blouse ,POS 2,22.99
+2026-04-17 14:20:55,2026-04-17,14,4,Friday,16,236,1.0,24.99,2.31,0.0,27.3,1 X unknown/top/plad/xl,POS 2,24.99
+2026-04-17 13:42:48,2026-04-17,13,4,Friday,16,235,0.0,20.0,1.85,0.0,21.85,1 X Boft/Broke Hearts Sweater White L + -1 X Discount,POS 2,
+2026-04-17 13:14:03,2026-04-17,13,4,Friday,16,234,11.0,221.89,20.52,0.0,242.41,1 X R & K Black SS Cover Up / Size M + 1 X Green w Copper Leaf Bag + 1 X Zara/WhiWomanShirt/SizeS + 1 X Dressy Chosen Vintage LS Blouse + 1 X Express/BlkFloralTop/SizeXS + 1 X Paris Atelier SS blouse Pink Size 6 + 1 X Blue Jasmine Blue Crop Top / Size S + 1 X Hengsheng Jean Jacket M + 1 X BOG Black Floral Crop Top + 1 X vintage pant suit set/m + 1 X Chico's Black Belt,POS 2,20.17
+2026-04-17 12:18:19,2026-04-17,12,4,Friday,16,233,1.0,16.99,1.57,0.0,18.56,1 X Sashu Brown Shoes Size 9,POS 2,16.99
+2026-04-16 18:51:37,2026-04-16,18,4,Thursday,16,232,1.0,24.99,2.31,0.0,27.3,1 X Green Khaki Jogger/Size M,POS 2,24.99
+2026-04-16 18:37:49,2026-04-16,18,4,Thursday,16,231,1.0,29.99,2.77,0.0,32.76,1 X Floral Sheer Kimono / Size XL,POS 2,29.99
+2026-04-16 16:46:18,2026-04-16,16,4,Thursday,16,230,2.0,34.98,3.24,0.0,38.22,1 X Cabi + 1 X WHBMSilverBracelet,POS 2,17.49
+2026-04-16 16:13:54,2026-04-16,16,4,Thursday,16,229,2.0,47.98,4.44,0.0,52.42,1 X Red Velvet Lace Tank with Cross / Size M + 1 X Lulus/BlueFloralBlouse/SizeS,POS 2,23.99
+2026-04-16 16:04:06,2026-04-16,16,4,Thursday,16,228,1.0,19.99,1.85,0.0,21.84,1 X Peyton Primrase Gray Cardgian / Size XL,POS 2,19.99
+2026-04-16 14:46:12,2026-04-16,14,4,Thursday,16,227,1.0,45.99,4.25,0.0,50.24,1 X Saintart Army Green Satin Pants / Size S,POS 2,45.99
+2026-04-16 14:37:46,2026-04-16,14,4,Thursday,16,226,0.0,0.0,0.0,0.0,0.0,1 X Blue Straight Leg Pants/Size 8 + -1 X Discount,POS 2,
+2026-04-15 19:16:50,2026-04-15,19,4,Wednesday,16,225,1.0,15.99,1.48,0.0,17.47,1 X Navy Bucket Hat/Unknown,POS 2,15.99
+2026-04-15 18:28:28,2026-04-15,18,4,Wednesday,16,224,1.0,12.99,1.2,0.0,14.19,1 X Urban Romantics White Crop Top / Size L,POS 2,12.99
+2026-04-15 17:45:16,2026-04-15,17,4,Wednesday,16,223,3.0,88.98,8.23,0.0,97.21,1 X pink tanktop/medium + 1 X Wu-TangTee Shirt_La + 1 X Revlon Ivory Love Pat Compact Mirror 1960s,POS 2,29.66
+2026-04-15 15:27:47,2026-04-15,15,4,Wednesday,16,222,2.0,59.98,5.55,0.0,65.53,1 X Gap Black Button Up SL Top / Size M + 1 X Nina Black Buttondown Sheer SS / Size M,POS 2,29.99
+2026-04-15 13:51:17,2026-04-15,13,4,Wednesday,16,221,2.0,47.98,4.44,0.0,52.42,1 X Pinque/MustardCardigan/SizeM + 1 X Coldwater Creek Purple Cardigan 10,POS 2,23.99
+2026-04-15 13:45:00,2026-04-15,13,4,Wednesday,16,220,1.0,25.99,2.4,0.0,28.39,1 X JoieSS Top_Pe,POS 2,25.99
+2026-04-15 13:24:42,2026-04-15,13,4,Wednesday,16,219,1.0,54.99,5.09,0.0,60.08,1 X Billini Silver Boots Size 7,POS 2,54.99
+2026-04-15 13:09:46,2026-04-15,13,4,Wednesday,16,218,3.0,47.97,4.44,0.0,52.41,1 X Nanette Lepore Camisole Black + 1 X Sonoma Brown SS Top Size M + 1 X VINTAGE Studio 1940 Satin Pink Buttondown / Size M,POS 2,15.99
+2026-04-15 13:08:25,2026-04-15,13,4,Wednesday,16,217,2.0,47.99,4.44,0.0,52.43,1 X Blue Canyon SS Top Size L + 1 X Free People Light Pink Pattern Long Skirt / Size 6,POS 2,24.0
+2026-04-12 17:50:10,2026-04-12,17,4,Sunday,15,216,2.0,366.98,33.95,0.0,400.93,1 X VINTAGE Brown Yellow Floral Umbrella + 1 X Coach Small Pink Purse Gold Hardware Zipper + -1 X Discount + 1 X Vertigo Black SL Top / Size XS,POS 2,183.49
+2026-04-12 16:48:36,2026-04-12,16,4,Sunday,15,215,2.0,46.98,4.35,0.0,51.33,1 X BGBCMaxazria Sweater Brown Size XS + 1 X MintQuarterButton/Size XXS,POS 2,23.49
+2026-04-12 16:04:51,2026-04-12,16,4,Sunday,15,214,1.0,18.99,1.76,0.0,20.75,1 X Rafaelle Turquoise Skirt/Size L,POS 2,18.99
+2026-04-12 15:32:37,2026-04-12,15,4,Sunday,15,213,2.0,48.98,4.53,0.0,53.51,1 X PositiveAtt/BlackCheetaBttnDwn/Size12 + 1 X Blu Pepper Yellow Orange Two Piece Set / Size L,POS 2,24.49
+2026-04-12 15:30:58,2026-04-12,15,4,Sunday,15,212,2.0,30.98,2.87,0.0,33.85,1 X DerekHeart/MulticolTieCropTop/SizeS + 1 X Lorraine Intimate Dress / Size M,POS 2,15.49
+2026-04-12 14:59:26,2026-04-12,14,4,Sunday,15,211,2.0,98.38,9.1,0.0,107.48,1 X Permasan Pale Pink Skirt Lace Detail / Size 8 + -1 X Discount + 1 X GigioUSA/GrnBttnDownBlouse/SizeM + 1 X JSColl/BlkWhiStripeDress/Size6,POS 2,49.19
+2026-04-12 14:57:10,2026-04-12,14,4,Sunday,15,210,1.0,29.99,2.77,0.0,32.76,1 X Express Pink Jacket/ Size M,POS 2,29.99
+2026-04-12 14:15:09,2026-04-12,14,4,Sunday,15,209,1.0,12.99,1.2,0.0,14.19,1 X Max Studio Blue & White Lace Cami / Size L,POS 2,12.99
+2026-04-12 13:43:03,2026-04-12,13,4,Sunday,15,208,1.0,23.99,2.22,0.0,26.21,1 X Voila Black SL Jumpsuit / Size S,POS 2,23.99
+2026-04-12 12:56:02,2026-04-12,12,4,Sunday,15,207,1.0,25.99,2.4,0.0,28.39,1 X Altar'd State Black Denim Shorts Romper/Size S,POS 2,25.99
+2026-04-12 12:31:48,2026-04-12,12,4,Sunday,15,206,2.0,48.98,4.53,0.0,53.51,1 X JudyBlue/PinkPocketPant/Size31 + 1 X Sag HarborSweatshirt_Cr,POS 2,24.49
+2026-04-12 12:18:32,2026-04-12,12,4,Sunday,15,205,1.0,18.99,1.76,0.0,20.75,1 X Agenda Orange & White SL Top / Size M,POS 2,18.99
+2026-04-12 11:52:30,2026-04-12,11,4,Sunday,15,204,3.0,81.97,7.58,0.0,89.55,1 X Black Detail Skirt / Size M + 1 X Hypnotik Blue Gray Circle Dress / Size S + 1 X desigual multicolor knit dress/m,POS 2,27.32
+2026-04-12 11:04:47,2026-04-12,11,4,Sunday,15,203,1.0,24.99,2.31,0.0,27.3,1 X Liz C Pale Yellow Vest & Skirt Set / Size 6,POS 2,24.99
+2026-04-11 19:18:04,2026-04-11,19,4,Saturday,15,202,3.0,58.97,5.45,0.0,64.42,1 X Ann Taylor Black & White Skirt Size 8 + 1 X Ann Taylor White LS / Size S + 1 X MotherofPearlRing,POS 2,19.66
+2026-04-11 19:13:45,2026-04-11,19,4,Saturday,15,201,1.0,22.99,2.13,0.0,25.12,1 X Indulge/BlackBBDollTop/SizeXL,POS 2,22.99
+2026-04-11 18:24:16,2026-04-11,18,4,Saturday,15,200,2.0,75.98,7.03,0.0,83.01,1 X Entro Green Lilac Skirt / Size L + 1 X NWT Mable White Jacket Size M,POS 2,37.99
+2026-04-11 17:57:39,2026-04-11,17,4,Saturday,15,199,1.0,15.99,1.48,0.0,17.47,1 X Be Smart Dress Black/Red Size 8,POS 2,15.99
+2026-04-11 16:44:23,2026-04-11,16,4,Saturday,15,198,1.0,18.99,1.76,0.0,20.75,1 X Qinsen Brown Bodysuit Size S,POS 2,18.99
+2026-04-11 16:35:33,2026-04-11,16,4,Saturday,15,197,1.0,27.99,2.59,0.0,30.58,1 X Trixxi/BlkPolkaDotDress/SizeM,POS 2,27.99
+2026-04-11 16:33:33,2026-04-11,16,4,Saturday,15,196,1.0,23.99,2.22,0.0,26.21,1 X Brown Chic Vintage T Shirt Size L,POS 2,23.99
+2026-04-11 16:24:09,2026-04-11,16,4,Saturday,15,195,1.0,22.99,2.13,0.0,25.12,1 X Madewell Yellow Dress Size 6,POS 2,22.99
+2026-04-11 16:18:00,2026-04-11,16,4,Saturday,15,194,2.0,50.98,4.72,0.0,55.7,1 X Serengeti White Crochet Shirt / Size M + 1 X Chicos/SilverStringNecklace,POS 2,25.49
+2026-04-11 15:27:49,2026-04-11,15,4,Saturday,15,193,2.0,65.98,6.1,0.0,72.08,1 X Michael Kors Black Top S + 1 X Live a Little Tan Jacket Size PL,POS 2,32.99
+2026-04-11 15:02:49,2026-04-11,15,4,Saturday,15,192,1.0,21.99,2.03,0.0,24.02,1 X Talbots Light Beige Floral Skirt / Size 4,POS 2,21.99
+2026-04-11 14:49:01,2026-04-11,14,4,Saturday,15,191,2.0,70.98,6.57,0.0,77.55,1 X ArizJeanCo/StuddedJeanSkirt/Size5 + 1 X DemocracyPants,POS 2,35.49
+2026-04-11 14:33:01,2026-04-11,14,4,Saturday,15,190,2.0,35.99,3.33,0.0,39.32,1 X Relativity Pink & Brown Cardigan / Size S + 1 X The Limited Yellow Sleeveless XS,POS 2,18.0
+2026-04-11 14:27:10,2026-04-11,14,4,Saturday,15,189,1.0,24.99,2.31,0.0,27.3,1 X NellieParton/CreamTop/SizeM,POS 2,24.99
+2026-04-11 13:56:56,2026-04-11,13,4,Saturday,15,188,5.0,146.94,13.59,0.0,160.53,1 X Democracy Pants Pink Size 8 + -1 X Discount + 1 X Democracy Faded Purple Jeans / Size 8 + 1 X Max Studio Black Dress / Size S + 1 X Rachel Zoe Pattern Cinched Sheer Top / Size XS + 1 X AnnTaylor/BlkBttnDwnDress/Size8 + 1 X Kasper Black SL Top / Size M,POS 2,29.39
+2026-04-11 13:42:01,2026-04-11,13,4,Saturday,15,187,1.0,29.99,2.77,0.0,32.76,1 X VintageRustler/Jeanshort/Size6/8,POS 2,29.99
+2026-04-11 13:40:09,2026-04-11,13,4,Saturday,15,186,1.0,21.99,2.03,0.0,24.02,1 X Loft Blue Floral Skirt / Size S,POS 2,21.99
+2026-04-11 13:33:04,2026-04-11,13,4,Saturday,15,185,1.0,24.99,2.31,0.0,27.3,1 X VINTAGE First Glance Red LS / Size 9,POS 2,24.99
+2026-04-11 13:07:47,2026-04-11,13,4,Saturday,15,184,5.0,423.96,39.22,0.0,463.18,1 X WhiteLaceSkort/SizeS/M + 1 X Free People Yellow Skirt/ Size S + 1 X pink oasis tanktop size large + 1 X ChloePurse_Ch + 1 X Red Boho Crochet Knitted Petite Bag,POS 2,84.79
+2026-04-11 13:04:01,2026-04-11,13,4,Saturday,15,183,6.0,219.94,20.34,0.0,240.28,1 X VINTAGE Lily Pink LS Buttondown / Size M + 1 X Finity Naturals Orange Silk Skirt / Size 4 + 1 X My Michelle Multi-Color Skirt M + 1 X macaramewovenhandbag/creme/neverused/2pieces + 1 X signature white dress shirt/L + 1 X hrlydvdsn/boot/bwn lthr/7,POS 2,36.66
+2026-04-11 12:29:53,2026-04-11,12,4,Saturday,15,182,1.0,75.99,7.03,0.0,83.02,1 X Tory Burch Brown Heels/Size 8M,POS 2,75.99
+2026-04-11 12:25:22,2026-04-11,12,4,Saturday,15,181,3.0,97.97,9.06,0.0,107.03,1 X Baccini Jean Jacket inc Addon Pins / Size XL + 1 X Elliot Lauren Pants Blue & White Size 8 + 1 X Desigual Jean Skirt / Size 38,POS 2,32.66
+2026-04-11 12:18:56,2026-04-11,12,4,Saturday,15,180,1.0,24.99,2.31,0.0,27.3,1 X Floral Multicolor Buttondown Top / Size XXL,POS 2,24.99
+2026-04-11 11:39:08,2026-04-11,11,4,Saturday,15,179,1.0,16.0,1.48,0.0,17.48,1 X Emory Park Grey Dress  Size L,POS 2,16.0
+2026-04-10 19:29:21,2026-04-10,19,4,Friday,15,178,3.0,73.97,6.84,0.0,80.81,1 X Blk&Prp Silk Dress/Size 12 + 1 X Alfani Black & Beige SL Dress / Size 16 + 1 X Philosophy Blue & Pink Tank / Size M,POS 2,24.66
+2026-04-10 19:15:03,2026-04-10,19,4,Friday,15,177,1.0,21.99,2.03,0.0,24.02,1 X 1. State Leopard Print Dress,POS 2,21.99
+2026-04-10 19:13:11,2026-04-10,19,4,Friday,15,176,2.0,60.98,5.64,0.0,66.62,1 X Peter Carol Yellow Sweater/ Size L + 1 X boohoo/dress/pink/10,POS 2,30.49
+2026-04-10 18:37:40,2026-04-10,18,4,Friday,15,175,3.0,85.97,7.95,0.0,93.92,1 X Liz C Red SS Buttondown / Size S + 1 X Desigual Green Colorful Dress / Size 38 + 1 X Old Navy Blue & Pink SL Top / Size S,POS 2,28.66
+2026-04-10 17:22:45,2026-04-10,17,4,Friday,15,174,4.0,92.96,8.6,0.0,101.56,1 X Altarxd State Orange Pink FL Crop Top / Size S + 1 X Long white skirt/S + 1 X Haute Monde Pink Tulle Skirt / Size L + 1 X JapnaCrop Top_Ho,POS 2,23.24
+2026-04-10 16:16:11,2026-04-10,16,4,Friday,15,173,1.0,74.99,6.94,0.0,81.93,1 X Vintage Lamp Black & Brown,POS 2,74.99
+2026-04-10 16:14:39,2026-04-10,16,4,Friday,15,172,1.0,12.99,1.2,0.0,14.19,1 X unknown/bls/blk/m,POS 2,12.99
+2026-04-10 15:45:40,2026-04-10,15,4,Friday,15,171,2.0,42.98,3.98,0.0,46.96,1 X Black Crop Top Spaghetti Strap / Size L + 1 X Beatles Grey Tee/Size M,POS 2,21.49
+2026-04-10 15:42:25,2026-04-10,15,4,Friday,15,170,1.0,24.99,2.31,0.0,27.3,1 X KimRogers/BrwnPolkaDotDress/Size6,POS 2,24.99
+2026-04-10 14:07:56,2026-04-10,14,4,Friday,15,169,1.0,39.99,3.7,0.0,43.69,1 X Yellow Floral Suede SL Dress / Size XXL,POS 2,39.99
+2026-04-10 12:57:26,2026-04-10,12,4,Friday,15,168,1.0,21.99,2.03,0.0,24.02,1 X Rolling S Tshirt / Size L,POS 2,21.99
+2026-04-10 12:36:16,2026-04-10,12,4,Friday,15,167,1.0,32.99,3.05,0.0,36.04,1 X VintageKingsRoad/GrnBttnDwn/Size40,POS 2,32.99
+2026-04-09 20:36:20,2026-04-09,20,4,Thursday,15,166,1.0,11.99,1.11,0.0,13.1,1 X Suuksess Camisole Pink Size S,POS 2,11.99
+2026-04-09 20:34:58,2026-04-09,20,4,Thursday,15,165,1.0,25.99,2.4,0.0,28.39,1 X Ktoo Pink Skirt,POS 2,25.99
+2026-04-09 20:12:41,2026-04-09,20,4,Thursday,15,164,2.0,45.98,4.25,0.0,50.23,1 X Express Beige & Lace Cami / Size L + 1 X Highway/JemDenimSkirt/Size13,POS 2,22.99
+2026-04-09 15:34:36,2026-04-09,15,4,Thursday,15,163,1.0,22.99,2.13,0.0,25.12,1 X London Times Teal Pink Dress / Size 6,POS 2,22.99
+2026-04-09 14:00:11,2026-04-09,14,4,Thursday,15,162,1.0,35.99,3.33,0.0,39.32,1 X Nicole MillerNicole Miller Feather Tank,POS 2,35.99
+2026-04-09 13:51:14,2026-04-09,13,4,Thursday,15,161,5.0,94.95,8.78,0.0,103.73,1 X Mariokart Tee Shirt/Size XL + 1 X PinkFloyd Baby Tee/Size S + 1 X pink/sweatshirt/burgundy/xs + 1 X Entro Burnt Orange Skirt Size L + 1 X LaneBryant/NashvilleTshirt/Size22/24,POS 2,18.99
+2026-04-08 18:01:12,2026-04-08,18,4,Wednesday,15,160,1.0,23.99,2.22,0.0,26.21,1 X Pink Chic Vintage T Shirt Size M,POS 2,23.99
+2026-04-08 17:25:53,2026-04-08,17,4,Wednesday,15,159,3.0,70.97,6.56,0.0,77.53,1 X Altard State Overalls White Size L + 1 X Sweet Storm Multi-Color Dress M + 1 X She's Cool Red Blue Strapless Dress / Size XL,POS 2,23.66
+2026-04-08 17:01:32,2026-04-08,17,4,Wednesday,15,158,1.0,23.99,2.22,0.0,26.21,1 X Pink Chic Vintage T Shirt Size XL,POS 2,23.99
+2026-04-08 16:57:18,2026-04-08,16,4,Wednesday,15,157,1.0,18.99,1.76,0.0,20.75,1 X WHBM/ Ruched Blouse/ Prpl/ Size S,POS 2,18.99
+2026-04-08 16:49:29,2026-04-08,16,4,Wednesday,15,156,2.0,52.98,4.9,0.0,57.88,1 X Abercrombie & F Blue Cardigan / Size XS + 1 X J Jill Biege LS Cardigan / Size XS,POS 2,26.49
+2026-04-08 16:48:04,2026-04-08,16,4,Wednesday,15,155,4.0,57.96,5.36,1.998,63.32,1 X Stylus/WhilaceFlwrDressCover/Size + 1 X vanity fair/ngt gwn/cream/38 + 1 X Gold Bronze Necklace + 1 X FlowerGemEarrings,POS 2,14.49
+2026-04-08 16:09:27,2026-04-08,16,4,Wednesday,15,154,1.0,28.99,2.68,0.0,31.67,1 X Cole&Han Taupe Loafer/Size 8.5,POS 2,28.99
+2026-04-08 14:48:13,2026-04-08,14,4,Wednesday,15,153,1.0,39.99,3.7,0.0,43.69,1 X Sharmark Black/Gold Shawl,POS 2,39.99
+2026-04-08 13:37:07,2026-04-08,13,4,Wednesday,15,152,6.0,131.94,12.2,0.0,144.14,1 X Lila Rose Black Floral SL Dress / Size L + 1 X Loft Colorful Sheer SS / Size L + 1 X TanFloralPullOver/SizeL + 1 X Calvin Klein Black SL Top / Size L + 1 X Cable & Gauge Black SL Lace Top / Size XL + 1 X Mellowday White & Blue Top / Size XL,POS 2,21.99
+2026-04-08 12:08:39,2026-04-08,12,4,Wednesday,15,151,1.0,14.99,1.39,0.0,16.38,1 X Divided White Blouse / Size 8,POS 2,14.99
+2026-04-08 11:48:04,2026-04-08,11,4,Wednesday,15,150,1.0,32.99,3.05,0.0,36.04,1 X Doe & Rae Black SL Top / Size S,POS 2,32.99
+2026-04-05 18:18:40,2026-04-05,18,4,Sunday,14,149,1.0,59.99,5.55,0.0,65.54,1 X Tory Burch Pink Blue Small Purse,POS 2,59.99
+2026-04-05 18:11:40,2026-04-05,18,4,Sunday,14,148,1.0,25.99,2.4,0.0,28.39,1 X Mlle Gabrielle White Orange Floral Dress / Size 18W,POS 2,25.99
+2026-04-05 17:43:37,2026-04-05,17,4,Sunday,14,147,1.0,15.99,1.48,0.0,17.47,1 X GC White/Beige Sandals/Size 6.5,POS 2,15.99
+2026-04-05 17:41:35,2026-04-05,17,4,Sunday,14,146,2.0,48.99,4.53,0.0,53.52,1 X VINTAGE Maverick Jean Blazer / Size M + 1 X H&M Orange Sweater Size M,POS 2,24.5
+2026-04-05 17:03:13,2026-04-05,17,4,Sunday,14,145,7.0,161.93,14.98,0.0,176.91,1 X Free People Blue Skirt / Size 6 + 1 X Zara Cream SL Bodysuit / Size S + 1 X Majora Purple Strapless Jumpsuit / Size M + 1 X Tahari Arthur Blue Green SL Top / Size L + 1 X Designers  Original Sleeveless Top Black Size L + 1 X AnnTaylor/ LeafPrint Top/ Grn/ Size M + 1 X Flying T NWT Black Brown Knit Dress / Size L,POS 2,23.13
+2026-04-05 15:23:13,2026-04-05,15,4,Sunday,14,144,1.0,19.99,1.85,0.0,21.84,1 X Muse Valley Sheer Baby Pink Dress / Size L,POS 2,19.99
+2026-04-05 15:22:33,2026-04-05,15,4,Sunday,14,143,2.0,33.98,3.14,0.0,37.12,1 X Guns & Roses Graphic T / Size L + 1 X Entro Black Skirt Size L,POS 2,16.99
+2026-04-05 13:47:53,2026-04-05,13,4,Sunday,14,142,1.0,14.99,1.39,0.0,16.38,1 X Arizona Pink Lace SS Skirt / Size M,POS 2,14.99
+2026-04-05 13:34:00,2026-04-05,13,4,Sunday,14,141,2.0,41.98,3.88,0.0,45.86,1 X Black & White Knit Cover Up / Size M + 1 X Elite Belt Silver Checkered,POS 2,20.99
+2026-04-05 13:09:58,2026-04-05,13,4,Sunday,14,140,1.0,24.99,2.31,0.0,27.3,1 X Asos Design White Dress/ Size 2,POS 2,24.99
+2026-04-05 13:04:57,2026-04-05,13,4,Sunday,14,139,1.0,39.99,3.7,0.0,43.69,1 X Desigual Army Green Jacket w Beading / Size 44,POS 2,39.99
+2026-04-05 12:35:45,2026-04-05,12,4,Sunday,14,138,2.0,111.98,10.36,0.0,122.34,1 X brown leather corral cowboy boot/8-8.5 + 1 X Madison/ Knit Cover/ Red/ Size L,POS 2,55.99
+2026-04-05 12:18:45,2026-04-05,12,4,Sunday,14,137,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-04-05 11:55:57,2026-04-05,11,4,Sunday,14,136,1.0,14.99,1.39,0.0,16.38,1 X Black & Green Floral Skirt / Size M,POS 2,14.99
+2026-04-05 11:08:40,2026-04-05,11,4,Sunday,14,135,1.0,45.99,4.25,0.0,50.24,1 X Listicle Light Blue Dress Size L,POS 2,45.99
+2026-04-05 11:06:34,2026-04-05,11,4,Sunday,14,134,1.0,49.99,4.62,0.0,54.61,1 X house of harlow multi color maxi dress/S,POS 2,49.99
+2026-04-04 19:35:36,2026-04-04,19,4,Saturday,14,133,4.0,81.97,7.58,0.0,89.55,1 X Allegra White Blouse Bodysuit / Size XS + 1 X Flowers + 1 X Banana Republic Black Dress Size 0 + 1 X Banana Republic Blue Striped Dress / Size 00,POS 2,20.49
+2026-04-04 19:27:28,2026-04-04,19,4,Saturday,14,132,1.0,23.99,2.22,0.0,26.21,1 X Ilaria Sartori Black Gold Sandals/7.5,POS 2,23.99
+2026-04-04 17:50:21,2026-04-04,17,4,Saturday,14,131,2.0,33.98,3.14,0.0,37.12,1 X red skirt/2 + 1 X DeltaPW/Underdog/SizeM,POS 2,16.99
+2026-04-04 17:46:44,2026-04-04,17,4,Saturday,14,130,1.0,14.99,1.39,0.0,16.38,1 X Life is Good Pink Adjustable Size Hat,POS 2,14.99
+2026-04-04 17:15:42,2026-04-04,17,4,Saturday,14,129,3.0,86.97,8.04,0.0,95.01,1 X NBD Sequin Top Size S + 1 X Daytrip Red Lace Tshirt / Size S + 1 X Pimatee Rascal Flatts T-Shirt XL,POS 2,28.99
+2026-04-04 16:57:54,2026-04-04,16,4,Saturday,14,128,5.0,131.95,12.21,0.0,144.16,1 X Coast Rainbow Tank / Size 10 + 1 X Bisou Bisou Lavender Satin Tank / Size L + 1 X Urban O Green Purple Sheer Tank / Size M + 1 X Victoria Secret purple tanktop/xl + 1 X Sears Yellow Intimate Slip / Size M,POS 2,26.39
+2026-04-04 16:47:54,2026-04-04,16,4,Saturday,14,127,2.0,58.98,5.46,0.0,64.44,1 X Zara White SL Crop Top / Size XS + 1 X cloth & stone white linen dress shirt/L,POS 2,29.49
+2026-04-04 16:38:49,2026-04-04,16,4,Saturday,14,126,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-04-04 16:11:24,2026-04-04,16,4,Saturday,14,125,1.0,15.99,1.48,0.0,17.47,1 X OldNavy/OrangeTankTop/SizeM,POS 2,15.99
+2026-04-04 15:37:28,2026-04-04,15,4,Saturday,14,124,1.0,24.99,2.31,0.0,27.3,1 X JCrew/BlackFlats/Size7,POS 2,24.99
+2026-04-04 15:16:41,2026-04-04,15,4,Saturday,14,123,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-04-04 14:34:50,2026-04-04,14,4,Saturday,14,122,5.0,136.95,12.67,0.0,149.62,1 X Karlie Pink Dress/Size XL + 1 X KateLord Prp StripeShrt/Size M + 1 X Resa Blue and Tan Dress/Size XS REAL SIZE OS + 1 X Lovestitch Dress Pink/White Size M + 1 X Perceptions White Knit Throw / Size 1X,POS 2,27.39
+2026-04-04 14:08:13,2026-04-04,14,4,Saturday,14,121,1.0,19.99,1.85,0.0,21.84,1 X GAP/WhiDotBttnDown/SizeS,POS 2,19.99
+2026-04-04 13:41:58,2026-04-04,13,4,Saturday,14,120,1.0,18.99,1.76,0.0,20.75,1 X Wrangler/JeanFlowerShorts/Size4,POS 2,18.99
+2026-04-04 13:40:29,2026-04-04,13,4,Saturday,14,119,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-04-04 13:18:48,2026-04-04,13,4,Saturday,14,118,3.0,55.97,5.18,0.0,61.15,1 X Von Dutch Pink & Brown Hat + 1 X C&C red and white crochet dress/S + 1 X Zara/ Ruche Crop/ Cream/ Size XS,POS 2,18.66
+2026-04-04 12:43:29,2026-04-04,12,4,Saturday,14,117,1.0,32.99,3.05,0.0,36.04,1 X dELia's Dress Blue Size XS,POS 2,32.99
+2026-04-04 12:05:23,2026-04-04,12,4,Saturday,14,116,3.0,78.97,7.3,0.0,86.27,1 X Le Lis Black SL Silver Fringe Top / Size S + 1 X olivaceous/GrnCamotieShirt/SizeS + 1 X BCBG Burgundy Dress w Sleeves / Size M,POS 2,26.32
+2026-04-04 12:02:33,2026-04-04,12,4,Saturday,14,115,1.0,29.99,2.77,0.0,32.76,1 X Lydia USA Black Rhinestone Corset,POS 2,29.99
+2026-04-04 11:54:04,2026-04-04,11,4,Saturday,14,114,1.0,13.99,1.29,0.0,15.28,1 X National Coll Gray Vols Tshirt / Size S,POS 2,13.99
+2026-04-04 11:23:08,2026-04-04,11,4,Saturday,14,113,1.0,45.99,4.25,0.0,50.24,1 X NWT draper james/dress/org/4,POS 2,45.99
+2026-04-04 11:21:47,2026-04-04,11,4,Saturday,14,112,1.0,24.99,2.31,0.0,27.3,1 X Mariella B Sheer Longsleeve Duo / Size S,POS 2,24.99
+2026-04-04 11:16:45,2026-04-04,11,4,Saturday,14,111,1.0,24.99,2.31,0.0,27.3,1 X Maggy London Blue & White SS Dress / Size 2,POS 2,24.99
+2026-04-04 11:05:24,2026-04-04,11,4,Saturday,14,110,1.0,45.99,4.25,0.0,50.24,1 X Lily Pulitzer Orange Dress,POS 2,45.99
+2026-04-04 10:53:45,2026-04-04,10,4,Saturday,14,109,1.0,15.99,1.48,0.0,17.47,1 X Express/LaceCami/Lilac/SizeXL,POS 2,15.99
+2026-04-03 20:29:54,2026-04-03,20,4,Friday,14,108,1.0,22.99,2.13,0.0,25.12,1 X Zara Blue Flats/Size 11,POS 2,22.99
+2026-04-03 20:07:56,2026-04-03,20,4,Friday,14,107,1.0,23.99,2.22,0.0,26.21,1 X Billabong white dress/M,POS 2,23.99
+2026-04-03 19:34:14,2026-04-03,19,4,Friday,14,106,1.0,18.99,1.76,0.0,20.75,1 X Apollo Jeans Sleeveless Denim Jacket / Size S,POS 2,18.99
+2026-04-03 19:33:37,2026-04-03,19,4,Friday,14,105,1.0,15.99,1.48,0.0,17.47,1 X Brown Belt with Gold Beads,POS 2,15.99
+2026-04-03 19:05:47,2026-04-03,19,4,Friday,14,104,2.0,32.98,3.05,0.0,36.03,1 X Blowfish Brown Sandals/Size 7.5 + 1 X Hand Painted Owl Pin VINTAGE,POS 2,16.49
+2026-04-03 18:56:06,2026-04-03,18,4,Friday,14,103,4.0,96.96,8.97,0.0,105.93,1 X stjohnsbay/sht/rd strip/1x + 1 X Chelsea Red Floral SS Top / Size 1X + 1 X Johnny Was/ Shoulder Bag + 1 X Chistopher Banks Grey Blazer Size XL,POS 2,24.24
+2026-04-03 18:22:43,2026-04-03,18,4,Friday,14,102,1.0,23.0,2.13,0.0,25.13,1 X Comfort Orange Heels Size 8,POS 2,23.0
+2026-04-03 17:37:51,2026-04-03,17,4,Friday,14,101,1.0,25.99,2.4,0.0,28.39,1 X Blk&WhiLaceSkirt/SizeS,POS 2,25.99
+2026-04-03 17:21:18,2026-04-03,17,4,Friday,14,100,1.0,24.99,2.31,0.0,27.3,1 X Nubile Jean Lightwash Miniskirt / Size XL,POS 2,24.99
+2026-04-03 17:18:15,2026-04-03,17,4,Friday,14,99,1.0,17.99,1.66,0.0,19.65,1 X Unknown Black Top Size M,POS 2,17.99
+2026-04-03 17:13:16,2026-04-03,17,4,Friday,14,98,1.0,16.0,1.48,0.0,17.48,1 X Garage Jean Skort / Size S,POS 2,16.0
+2026-04-03 17:08:56,2026-04-03,17,4,Friday,14,97,1.0,14.99,1.39,0.0,16.38,1 X Eunina White Shorts/Size S,POS 2,14.99
+2026-04-03 16:26:53,2026-04-03,16,4,Friday,14,96,2.0,42.99,3.98,0.0,46.97,1 X CttnCandyLA/AniPrintTop/SizeS + 1 X Freys/BrwnSunglasses,POS 2,21.5
+2026-04-03 15:38:44,2026-04-03,15,4,Friday,14,95,1.0,22.99,2.13,0.0,25.12,1 X The Sak Hot Pink Bag,POS 2,22.99
+2026-04-03 15:25:43,2026-04-03,15,4,Friday,14,94,1.0,75.0,6.94,0.0,81.94,1 X Silver Metal Skulls Ring Purse,POS 2,75.0
+2026-04-03 15:24:53,2026-04-03,15,4,Friday,14,93,1.0,22.99,2.13,0.0,25.12,1 X Indulge Dress Black/White Size M,POS 2,22.99
+2026-04-03 14:37:56,2026-04-03,14,4,Friday,14,92,1.0,20.0,1.85,0.0,21.85,1 X Flowers,POS 2,20.0
+2026-04-03 14:32:07,2026-04-03,14,4,Friday,14,91,2.0,31.98,2.96,0.0,34.94,1 X Unknown Tan Hat + 1 X Parkhurst Silver Sequin Vest / Size L,POS 2,15.99
+2026-04-03 14:13:41,2026-04-03,14,4,Friday,14,90,2.0,50.98,4.72,0.0,55.7,1 X Abercrombie & F Blue Crop Cardigan / Size XS + 1 X NWT PrettyLittle Thing Skirt Size 8,POS 2,25.49
+2026-04-03 14:07:25,2026-04-03,14,4,Friday,14,89,3.0,63.97,5.92,0.0,69.89,1 X Silence&Noise Multi-Color Tube Top S + 1 X TheOutfit/White Floral Top/Size S + 1 X Nanette Lepore Camisole Black,POS 2,21.32
+2026-04-03 13:54:59,2026-04-03,13,4,Friday,14,88,2.0,40.98,3.79,0.0,44.77,1 X Express/ Sequin Cami/ Gld&Blk/ Size S + 1 X vera bradley fabric belt,POS 2,20.49
+2026-04-03 13:34:13,2026-04-03,13,4,Friday,14,87,1.0,14.99,1.39,0.0,16.38,1 X Moa Moa Red Crop Top / Size M,POS 2,14.99
+2026-04-03 12:54:08,2026-04-03,12,4,Friday,14,86,1.0,45.99,4.25,0.0,50.24,1 X Akira Cream Boots/Size 8,POS 2,45.99
+2026-04-02 20:17:03,2026-04-02,20,4,Thursday,14,85,5.0,160.96,14.89,0.0,175.85,1 X Brown Blue Crochet Purse + 1 X ThrEightyTwo/BlueBlouse/SizeS + 1 X arden b/swtr/grn/m + 1 X Macrame Bag + 1 X Coach Madison Phoebe Gold Studded Bag,POS 2,32.19
+2026-04-02 18:51:46,2026-04-02,18,4,Thursday,14,84,1.0,32.99,3.05,0.0,36.04,1 X Crisis Floral Button Down/Size S,POS 2,32.99
+2026-04-02 15:25:19,2026-04-02,15,4,Thursday,14,83,1.0,18.99,1.76,0.0,20.75,1 X Dress Forum Lemon Wrap Dress / Size M,POS 2,18.99
+2026-04-02 14:48:04,2026-04-02,14,4,Thursday,14,82,1.0,25.99,2.4,0.0,28.39,1 X NWT Ryu Skirt Brown Size S,POS 2,25.99
+2026-04-02 13:04:40,2026-04-02,13,4,Thursday,14,81,0.0,0.0,0.0,0.0,0.0,1 X Vintage Marino Orlandi Italian Leather Bag/AS IS + -1 X Discount,POS 2,
+2026-04-02 12:55:10,2026-04-02,12,4,Thursday,14,80,3.0,187.98,17.39,0.0,205.37,1 X Just G Shorts Jumper Size 2 + 1 X DerekHeart/GreenKnitTank/Size S + 1 X VINTAGE 90s Rafe Designer Handbag,POS 2,62.66
+2026-04-02 12:34:07,2026-04-02,12,4,Thursday,14,79,1.0,17.99,1.66,0.0,19.65,1 X Unknown White Camisole Size Med,POS 2,17.99
+2026-04-01 19:34:33,2026-04-01,19,4,Wednesday,14,78,4.0,90.96,8.41,0.0,99.37,1 X FP Movement Purple Sweatshirt / Size S + 1 X J. Gee yellow floral dress size SP + 1 X Wild Fable Red Orange Crop Top / Size S + 1 X Sigrid Khaki Pants Pink Stitch / Size 2,POS 2,22.74
+2026-04-01 18:50:06,2026-04-01,18,4,Wednesday,14,77,1.0,9.99,0.92,0.0,10.91,1 X CreamBondedLeatherBelt/SizeXL,POS 2,9.99
+2026-04-01 18:03:25,2026-04-01,18,4,Wednesday,14,76,1.0,25.99,2.4,0.0,28.39,1 X Blue Floral SL Dress / Size XS,POS 2,25.99
+2026-04-01 16:54:57,2026-04-01,16,4,Wednesday,14,75,3.0,71.97,6.66,0.0,78.63,1 X red and white plaid dress shirt/small + 1 X BananaR/PinkTankTop/SizeS + 1 X Express Pale Pink SL Top Tie Front  / Size M,POS 2,23.99
+2026-04-01 15:39:46,2026-04-01,15,4,Wednesday,14,74,2.0,41.98,3.88,0.0,45.86,1 X Sunday in Brooklyn Blue/White Top XS + 1 X AltardState/StripeBttnSkirt/SizeS,POS 2,20.99
+2026-04-01 15:23:46,2026-04-01,15,4,Wednesday,14,73,2.0,32.98,3.05,0.0,36.03,1 X Ocean Drive Light Green & White Dress / Size S + 1 X Zara Basic Cream Off Shoulder Top / Size XS,POS 2,16.49
+2026-04-01 14:01:32,2026-04-01,14,4,Wednesday,14,72,4.0,84.96,7.86,0.0,92.82,1 X DKNY jacket + 1 X JCrew  Purp Floral Long Sleeve / Size M + 1 X brandolino floral jacket/10p + 1 X The Sak Green Satchel,POS 2,21.24
+2026-04-01 13:58:28,2026-04-01,13,4,Wednesday,14,71,1.0,24.99,2.31,0.0,27.3,1 X Nine West Yellow Jacket/SIze 4,POS 2,24.99
+2026-04-01 12:25:27,2026-04-01,12,4,Wednesday,14,70,1.0,18.99,1.76,0.0,20.75,1 X LRL Black Purse Gold Zipper,POS 2,18.99
+2026-04-01 12:12:53,2026-04-01,12,4,Wednesday,14,69,1.0,34.99,3.24,0.0,38.23,1 X J Brand white jeans/26,POS 2,34.99
+2026-03-29 18:47:36,2026-03-29,18,3,Sunday,13,68,1.0,21.99,2.03,0.0,24.02,1 X H/PinklaceTop/SizeS,POS 2,21.99
+2026-03-29 18:41:43,2026-03-29,18,3,Sunday,13,67,1.0,12.99,1.2,0.0,14.19,1 X CoPremium/JeanStitchShorts/Size9,POS 2,12.99
+2026-03-29 18:41:13,2026-03-29,18,3,Sunday,13,66,1.0,18.99,1.76,0.0,20.75,1 X Promod/PnkPurpLaceShirt/SizeS,POS 2,18.99
+2026-03-29 18:33:49,2026-03-29,18,3,Sunday,13,65,1.0,18.99,1.76,0.0,20.75,1 X Altard State Green Top Size S,POS 2,18.99
+2026-03-29 16:46:58,2026-03-29,16,3,Sunday,13,64,1.0,32.99,3.05,0.0,36.04,1 X MotiviJacket_Lo,POS 2,32.99
+2026-03-29 16:44:06,2026-03-29,16,3,Sunday,13,63,1.0,15.99,1.48,0.0,17.47,1 X Sincerely Jules Orange SL Crop Top / Size S,POS 2,15.99
+2026-03-29 16:34:04,2026-03-29,16,3,Sunday,13,62,2.0,48.98,4.53,0.0,53.51,1 X AeroSoles/BrwnBuckleHeel/Size7.5 + 1 X CreamRuffleHalterTop/SizeXS/S,POS 2,24.49
+2026-03-29 16:19:17,2026-03-29,16,3,Sunday,13,61,1.0,64.99,6.01,0.0,71.0,1 X VINTAGE Duckhead Jean Striped Overalls / Size XS,POS 2,64.99
+2026-03-29 16:08:37,2026-03-29,16,3,Sunday,13,60,1.0,55.99,5.18,0.0,61.17,1 X THML/Blk&WhipatternTop/SizeS,POS 2,55.99
+2026-03-29 15:33:35,2026-03-29,15,3,Sunday,13,59,1.0,31.99,2.96,0.0,34.95,1 X PlaidDress/Bl&Wht/Size S,POS 2,31.99
+2026-03-29 15:07:52,2026-03-29,15,3,Sunday,13,58,4.0,47.96,4.44,0.0,52.4,1 X Pink Baseball Cap + 1 X Avon Vintage Rose Ring + 1 X Brown & White Belt + 1 X VINTAGE Hot Pink Beaded Purse,POS 2,11.99
+2026-03-29 14:29:13,2026-03-29,14,3,Sunday,13,57,3.0,81.97,7.58,0.0,89.55,1 X VINTAGE unknown/dress/prp floral/s + 1 X Levi's Cut Off Shorts 501 + 1 X VINTAGE Collage Green Plaid Buttonup / Size S,POS 2,27.32
+2026-03-29 14:21:10,2026-03-29,14,3,Sunday,13,56,1.0,22.99,2.13,0.0,25.12,1 X BluPepper/BrwnPolkaDCard/SizeS,POS 2,22.99
+2026-03-29 13:59:22,2026-03-29,13,3,Sunday,13,55,1.0,32.99,3.05,0.0,36.04,1 X VintageSO/PinkBttnDwnTop/SizeL,POS 2,32.99
+2026-03-29 13:54:04,2026-03-29,13,3,Sunday,13,54,4.0,94.96,8.78,0.0,103.74,1 X Casual Corner Red Skirt Pattern / Size 12 + 1 X Talbots/brwnbttnshirt/SizeM + 1 X Town & Country VINTAGE Red Purse + 1 X Tan Purse,POS 2,23.74
+2026-03-29 13:36:05,2026-03-29,13,3,Sunday,13,53,1.0,18.99,1.76,0.0,20.75,1 X Talbot's Green Hat,POS 2,18.99
+2026-03-29 13:06:06,2026-03-29,13,3,Sunday,13,52,1.0,22.99,2.13,0.0,25.12,1 X CabiLS Top_Vi,POS 2,22.99
+2026-03-29 12:24:22,2026-03-29,12,3,Sunday,13,51,1.0,21.99,2.03,0.0,24.02,1 X Briggs NY Floral Skirt/Black,POS 2,21.99
+2026-03-29 12:02:52,2026-03-29,12,3,Sunday,13,50,3.0,81.97,7.58,0.0,89.55,1 X JimiHendrixTShirt/SizeM + 1 X guessTee Shirt_Gue + 1 X VintageFlowerNecklace,POS 2,27.32
+2026-03-29 12:02:03,2026-03-29,12,3,Sunday,13,49,3.0,75.97,7.03,0.0,83.0,1 X Lulus/PinkHalterBodysuit/SizeS + 1 X Ammo Blk Tank NWT/ Size S + 1 X FreePeople/PinkTanktop/SizeXS,POS 2,25.32
+2026-03-29 12:00:39,2026-03-29,12,3,Sunday,13,48,1.0,27.99,2.59,0.0,30.58,1 X JuliaTee Shirt_Cu,POS 2,27.99
+2026-03-29 11:52:39,2026-03-29,11,3,Sunday,13,47,2.0,41.98,3.88,0.0,45.86,1 X Free People Yellow LS Top Size XS + 1 X Jeuvre Snakeskin & Floral Dress / Size XS,POS 2,20.99
+2026-03-29 11:48:43,2026-03-29,11,3,Sunday,13,46,1.0,15.99,1.48,0.0,17.47,1 X PS LATee Shirt_Ex,POS 2,15.99
+2026-03-29 11:16:00,2026-03-29,11,3,Sunday,13,45,1.0,18.99,1.76,0.0,20.75,1 X Oz Red Leather Purse,POS 2,18.99
+2026-03-29 11:06:27,2026-03-29,11,3,Sunday,13,44,1.0,19.99,1.85,0.0,21.84,1 X Dusty Pink Intimate Slip / Size M,POS 2,19.99
+2026-03-28 21:11:25,2026-03-28,21,3,Saturday,13,43,1.0,17.99,1.66,0.0,19.65,1 X Silver Metal Black Leather Bracelet,POS 2,17.99
+2026-03-28 21:09:51,2026-03-28,21,3,Saturday,13,42,1.0,17.99,1.66,0.0,19.65,1 X Brown & Silver Bracelet,POS 2,17.99
+2026-03-28 20:50:09,2026-03-28,20,3,Saturday,13,41,1.0,45.99,4.25,0.0,50.24,1 X Desigual Yellow Leather Jacket / Size M,POS 2,45.99
+2026-03-28 20:37:46,2026-03-28,20,3,Saturday,13,40,2.0,35.98,3.33,0.0,39.31,1 X MichelleNicole/BrownJewelShirt/SizeS + 1 X Chicos Flower Sprakley Bracelet,POS 2,17.99
+2026-03-28 20:37:09,2026-03-28,20,3,Saturday,13,39,2.0,57.98,5.36,0.0,63.34,1 X Kourt Black Dress/Size M + 1 X Express DS Blue Dress SS Shirt / Size S,POS 2,28.99
+2026-03-28 20:34:49,2026-03-28,20,3,Saturday,13,38,1.0,24.99,2.31,0.0,27.3,1 X ODM Premium GoodsTee Shirt_Odm,POS 2,24.99
+2026-03-28 20:29:21,2026-03-28,20,3,Saturday,13,37,1.0,175.0,16.19,0.0,191.19,1 X Desigual Blue Black Red Long Coat / Size 40,POS 2,175.0
+2026-03-28 20:04:33,2026-03-28,20,3,Saturday,13,36,1.0,15.99,1.48,0.0,17.47,1 X Loft Off White Pattern Shorts/Size 8,POS 2,15.99
+2026-03-28 19:52:56,2026-03-28,19,3,Saturday,13,35,2.0,57.98,5.36,0.0,63.34,1 X AveMaria/MeshOutdoorShirt/Size40 + 1 X Audrey Talbott Purple Watercolor LS,POS 2,28.99
+2026-03-28 19:35:14,2026-03-28,19,3,Saturday,13,34,1.0,21.99,2.03,0.0,24.02,1 X vintage purple patterned pants/small,POS 2,21.99
+2026-03-28 19:34:06,2026-03-28,19,3,Saturday,13,33,2.0,32.98,3.05,0.0,36.03,1 X Red Oak Tennessee Tshirt / Size XL + 1 X Gray Tennessee Tshirt / Size L,POS 2,16.49
+2026-03-28 19:33:20,2026-03-28,19,3,Saturday,13,32,1.0,32.99,3.05,0.0,36.04,1 X Hollister Dark Gray Bomber Jacket / Size XXS,POS 2,32.99
+2026-03-28 19:30:49,2026-03-28,19,3,Saturday,13,31,1.0,22.99,2.13,0.0,25.12,1 X Ekouaer Grey Sweater/Shorts Size L,POS 2,22.99
+2026-03-28 19:28:57,2026-03-28,19,3,Saturday,13,30,1.0,25.99,2.4,0.0,28.39,1 X DolceVita/CreamHeelBoot/Size7.5,POS 2,25.99
+2026-03-28 19:19:35,2026-03-28,19,3,Saturday,13,29,3.0,72.97,6.75,0.0,79.72,1 X White SL Ruffle Neck Top / Size M + 1 X NineWVintAmer/WhiJeanJacket/SizeL + 1 X Nautica white blouse/M,POS 2,24.32
+2026-03-28 19:11:35,2026-03-28,19,3,Saturday,13,28,1.0,55.99,5.18,0.0,61.17,1 X Anthropologie Reformation Plaid Top/Size L,POS 2,55.99
+2026-03-28 18:59:25,2026-03-28,18,3,Saturday,13,27,1.0,15.99,1.48,0.0,17.47,1 X Divided Red Gray LS / Size 8,POS 2,15.99
+2026-03-28 18:45:44,2026-03-28,18,3,Saturday,13,26,5.0,196.95,18.22,0.0,215.17,1 X Vintage Sunflower Dress/ Size 14 + 1 X Fore Multicolor Floral Crop Top / Size M + 1 X LAHearts/GrnBlueHalterTop/SizeM + 1 X Green Tan Satin SL Top / Size M + 1 X Theory Dress Black Size 4,POS 2,39.39
+2026-03-28 18:41:58,2026-03-28,18,3,Saturday,13,25,1.0,22.99,2.13,0.0,25.12,1 X Stella Dot Gold Multi Color Necklace,POS 2,22.99
+2026-03-28 18:34:56,2026-03-28,18,3,Saturday,13,24,2.0,47.98,4.44,0.0,52.42,1 X Brown Chic Vintage T Shirt Size L + 1 X Pink Chic Vintage T Shirt Size M,POS 2,23.99
+2026-03-28 18:06:59,2026-03-28,18,3,Saturday,13,23,1.0,300.0,27.75,0.0,327.75,1 X Pink coach mini purse,POS 2,300.0
+2026-03-28 17:21:16,2026-03-28,17,3,Saturday,13,22,2.0,61.98,5.73,0.0,67.71,1 X Frederick's of Hollywood Leopard Slip / Size M + 1 X Sasson Black Slip Dress / Size L,POS 2,30.99
+2026-03-28 16:52:59,2026-03-28,16,3,Saturday,13,21,3.0,67.97,6.29,0.0,74.26,1 X The territory ahead white dress shirt/M + 1 X Patterned Top/ Wht&Orng/ Size XS + 1 X Lapis Pink & Brown Strapless Dress / One Size,POS 2,22.66
+2026-03-28 16:44:37,2026-03-28,16,3,Saturday,13,20,1.0,25.99,2.4,0.0,28.39,1 X Canyon River Army Green Overalls / Size M,POS 2,25.99
+2026-03-28 16:29:43,2026-03-28,16,3,Saturday,13,19,1.0,19.99,1.85,0.0,21.84,1 X Moth/Amber Knit Sweater/Size S,POS 2,19.99
+2026-03-28 16:15:00,2026-03-28,16,3,Saturday,13,18,1.0,26.99,2.5,0.0,29.49,1 X Essence/BlPatternedSkirtWRuffle/SizeM,POS 2,26.99
+2026-03-28 16:07:39,2026-03-28,16,3,Saturday,13,17,1.0,45.99,4.25,0.0,50.24,1 X Isaac Mizrahi White Dress / Size 6,POS 2,45.99
+2026-03-28 14:46:42,2026-03-28,14,3,Saturday,13,16,1.0,125.0,11.56,0.0,136.56,1 X Desigual Purple Orange Boots / Size 9.5,POS 2,125.0
+2026-03-28 14:36:03,2026-03-28,14,3,Saturday,13,15,2.0,54.98,5.09,0.0,60.07,1 X White Mountain Slip on Sandals Gold/Size 9 + 1 X West 36th Denim Skirt Brown/Size L,POS 2,27.49
+2026-03-28 14:33:47,2026-03-28,14,3,Saturday,13,14,6.0,290.94,26.91,0.0,317.85,1 X Highway Jeans Jean Vest / Size M + 1 X blue patterned dress/medium + 1 X VINTAGE Magica Blue 2 Piece Set / Size M + 1 X VINTAGE/studioI/blouse/grn/14 + 1 X Badgley Mischka Dress Floral Black + 1 X RefugeDenim/LightDenimVest/SizeM,POS 2,48.49
+2026-03-28 14:24:19,2026-03-28,14,3,Saturday,13,13,1.0,45.99,4.25,0.0,50.24,1 X TheSak/BrwnFloralBag,POS 2,45.99
+2026-03-28 14:19:42,2026-03-28,14,3,Saturday,13,12,1.0,45.99,4.25,0.0,50.24,1 X NWT BCBG Brown Dress Size 8,POS 2,45.99
+2026-03-28 14:19:04,2026-03-28,14,3,Saturday,13,11,1.0,19.99,1.85,0.0,21.84,1 X Urban Behavior Multicolor Sheer Tank / Size S,POS 2,19.99
+2026-03-28 14:13:11,2026-03-28,14,3,Saturday,13,10,1.0,23.99,2.22,0.0,26.21,1 X Do & Be Brown & Green Tank / Size M,POS 2,23.99
+2026-03-28 13:47:34,2026-03-28,13,3,Saturday,13,9,1.0,15.99,1.48,0.0,17.47,1 X Gianni Bini Red Shoes Size 11,POS 2,15.99
+2026-03-28 13:46:44,2026-03-28,13,3,Saturday,13,8,2.0,54.98,5.09,0.0,60.07,1 X Abercrombie & F Black White Floral LS / Size L + 1 X Wit X WisdomPants,POS 2,27.49
+2026-03-28 13:44:12,2026-03-28,13,3,Saturday,13,7,2.0,53.98,4.99,0.0,58.97,1 X Levi's White Shorts / Size 30 + 1 X GAP White Lace Top/Size L,POS 2,26.99
+2026-03-28 13:37:50,2026-03-28,13,3,Saturday,13,651,2.0,54.49,5.04,0.0,59.53,1 X VINTAGE Floral Orange/Tan Shirt/ Size 12 + 1 X Orange Drop Earrings,Main Register,27.25
+2026-03-28 12:56:56,2026-03-28,12,3,Saturday,13,650,0.0,185.0,17.11,0.0,202.11,1 X 1883 Teal and Brown Cowgirl Boots / Size 7.5 + -1 X Discount,Main Register,
+2026-03-28 12:32:26,2026-03-28,12,3,Saturday,13,649,1.0,28.99,2.68,0.0,31.67,1 X LaceLongsleeve/SizeS,Main Register,28.99
+2026-03-28 12:23:41,2026-03-28,12,3,Saturday,13,648,1.0,39.99,3.7,0.0,43.69,1 X Fleur Silk Scarf,Main Register,39.99
+2026-03-28 12:07:36,2026-03-28,12,3,Saturday,13,647,1.0,175.0,16.19,0.0,191.19,1 X Desigual Multicolor Coat / Size 40,Main Register,175.0
+2026-03-28 11:32:11,2026-03-28,11,3,Saturday,13,646,2.0,43.98,4.07,0.0,48.05,1 X Limited Black Skirt/Size 2 + 1 X Naturalizer Lime Green Mules/Size 8.5,Main Register,21.99
+2026-03-28 11:21:48,2026-03-28,11,3,Saturday,13,645,2.0,41.98,3.88,0.0,45.86,1 X VINTAGE Black Blouse Gold Leaf / Size Large + 1 X VintageSears/WhiRuffleBtnDwn/Size8,Main Register,20.99
+2026-03-28 10:46:59,2026-03-28,10,3,Saturday,13,644,2.0,21.49,1.99,0.0,23.48,1 X Biviar Black Hat + 1 X Pink Trio Flower Earrings,Main Register,10.74
+2026-03-27 20:08:42,2026-03-27,20,3,Friday,13,643,1.0,22.99,2.13,0.0,25.12,1 X Jason Maxwell Green Floral Hoodie/ Size XL,Main Register,22.99
+2026-03-27 20:06:51,2026-03-27,20,3,Friday,13,642,2.0,38.98,3.61,0.0,42.59,1 X ClothXStone/WhiteSlvlessBttnDwn/SizeM + 1 X unknown/tank/blk/m,Main Register,19.49
+2026-03-27 19:02:11,2026-03-27,19,3,Friday,13,641,1.0,25.99,2.4,0.0,28.39,1 X ZaraSweater_Cu,Main Register,25.99
+2026-03-27 18:55:37,2026-03-27,18,3,Friday,13,640,1.0,32.99,3.05,0.0,36.04,1 X VINTAGE Zayre Black & W Polka Dot Top / Size M,Main Register,32.99
+2026-03-27 18:06:25,2026-03-27,18,3,Friday,13,639,1.0,39.99,3.7,0.0,43.69,1 X SamEdelman/Blk&GoldLoafer/Size8.5M,Main Register,39.99
+2026-03-27 18:02:10,2026-03-27,18,3,Friday,13,638,1.0,21.99,2.03,0.0,24.02,1 X Ronni Nicole Green Cardigan / Size 1x,Main Register,21.99
+2026-03-27 17:37:23,2026-03-27,17,3,Friday,13,637,3.0,37.97,3.51,0.0,41.48,1 X beige ribbed tanktop/large/xl + 1 X BodyCentral/ Sheer Top/ Camel/ Size M + 1 X AC DCTee Shirt_Ne,Main Register,12.66
+2026-03-27 17:13:13,2026-03-27,17,3,Friday,13,636,1.0,45.99,4.25,0.0,50.24,1 X Elana Kattau Rainbow Jumpsuit/ Size S,Main Register,45.99
+2026-03-27 17:11:42,2026-03-27,17,3,Friday,13,635,0.0,8.99,0.83,0.0,9.82,1 X Crm & Bronze Belt/Size S + -1 X Discount,Main Register,
+2026-03-27 16:57:16,2026-03-27,16,3,Friday,13,634,1.0,18.99,1.76,0.0,20.75,1 X Brown Leather Belt Brass Buckle,Main Register,18.99
+2026-03-27 16:54:19,2026-03-27,16,3,Friday,13,633,1.0,69.99,6.47,0.0,76.46,1 X 12th Tribe White Sequin Jacket / Size M,Main Register,69.99
+2026-03-27 16:53:12,2026-03-27,16,3,Friday,13,632,2.0,74.98,6.94,0.0,81.92,1 X Allegria Red Sling Backs/Size7-7.5 + 1 X Persaman Pink & Yellow Skirt / Size 10,Main Register,37.49
+2026-03-27 16:36:31,2026-03-27,16,3,Friday,13,631,3.0,60.48,5.59,0.0,66.07,1 X August Animal Print Hat + 1 X Lace Long Tunic Apricot/Size L + 1 X Wood Flower Earrings,Main Register,20.16
+2026-03-27 16:35:02,2026-03-27,16,3,Friday,13,630,1.0,45.99,4.25,0.0,50.24,1 X Metalpurse,Main Register,45.99
+2026-03-27 15:09:49,2026-03-27,15,3,Friday,13,629,1.0,25.99,2.4,0.0,28.39,1 X J.Crew/ Wrap Blouse/Grn/Size M,Main Register,25.99
+2026-03-27 15:00:07,2026-03-27,15,3,Friday,13,628,2.0,44.98,4.16,0.0,49.14,1 X InnerMost Ppl Slip/Size S + 1 X Moda/PurplaceTop/SizeXS,Main Register,22.49
+2026-03-27 14:57:27,2026-03-27,14,3,Friday,13,627,2.0,47.98,4.44,0.0,52.42,1 X J CrewSkirt_vi + 1 X Red & White Necklace,Main Register,23.99
+2026-03-27 14:53:48,2026-03-27,14,3,Friday,13,626,4.0,107.96,9.99,0.0,117.95,1 X Clarks Brown Leather Boots Size 9M + 1 X Citizens of Humanity Bluejeans / Size 30 + 1 X FP One White Dress Size XL + 1 X Old Navy Brown Dress Size M,Main Register,26.99
+2026-03-27 14:45:50,2026-03-27,14,3,Friday,13,625,1.0,19.99,1.85,0.0,21.84,1 X green with white flowers blouse/small,Main Register,19.99
+2026-03-27 14:43:29,2026-03-27,14,3,Friday,13,624,2.0,44.98,4.16,0.0,49.14,1 X DieselJeans_Al + 1 X LeviJeans,Main Register,22.49
+2026-03-27 14:10:04,2026-03-27,14,3,Friday,13,623,1.0,175.0,16.19,0.0,191.19,1 X Desigual/GrnPatternJacket/Size38,Main Register,175.0
+2026-03-27 14:02:46,2026-03-27,14,3,Friday,13,622,1.0,22.99,2.13,0.0,25.12,1 X Zara Basic White Top Size XS,Main Register,22.99
+2026-03-27 13:18:57,2026-03-27,13,3,Friday,13,621,1.0,15.99,1.48,0.0,17.47,1 X Socialite White Cami Top/Size S,Main Register,15.99
+2026-03-27 12:58:17,2026-03-27,12,3,Friday,13,620,1.0,32.99,3.05,0.0,36.04,1 X Libra LS Blouse Multi-Color Size XL,Main Register,32.99
+2026-03-27 12:54:32,2026-03-27,12,3,Friday,13,619,1.0,21.95,2.03,0.0,23.98,1 X Blue Purse Silver Hardware,Main Register,21.95
+2026-03-27 12:48:53,2026-03-27,12,3,Friday,13,618,1.0,22.99,2.13,0.0,25.12,1 X Juicy Couture 2 Piece Baby Pink Velvet / Size M,Main Register,22.99
+2026-03-27 12:36:36,2026-03-27,12,3,Friday,13,617,2.0,41.98,3.88,0.0,45.86,1 X Gypsies & Moondust Red Blue Stripe Top / Size M + 1 X St Johns Bay Brown & White SS / Size L,Main Register,20.99
+2026-03-27 12:24:26,2026-03-27,12,3,Friday,13,616,1.0,27.99,2.59,0.0,30.58,1 X SincerelyJules/WhiCrewSweater/SizeM,Main Register,27.99
+2026-03-27 12:11:14,2026-03-27,12,3,Friday,13,615,1.0,22.99,2.13,0.0,25.12,1 X Land's End Pink Zip Up Jacket / Size XL,Main Register,22.99
+2026-03-27 11:43:11,2026-03-27,11,3,Friday,13,614,1.0,24.99,2.31,0.0,27.3,1 X Lulus White Ruffle Two Piece Set / Size M,Main Register,24.99
+2026-03-27 11:39:47,2026-03-27,11,3,Friday,13,613,1.0,25.99,2.4,0.0,28.39,1 X Comsic Aura Black Lace Kimono/Size M/L,Main Register,25.99
+2026-03-27 11:22:08,2026-03-27,11,3,Friday,13,612,10.0,249.9,23.12,0.0,273.02,1 X Nine West Pink Rain Jacket/ Size S + 1 X Carolina Belle Montreal Blue Jacket/Size S + 1 X Sophie Max Black Shortsleeve Dress / Size S + 1 X Chico's Dark Blue Top / Size S + 1 X Gibson/BlackTop/SizeS + 1 X Banana Republic Green Sleeveless Top/Size S + 1 X White House Black Market Skirt Black Size 4 + 1 X WhBmNWT Multicolor Skirt/Size 4 + 1 X Stella & Dot Silver Stretch Bracelet + 1 X Bracelet metal,Main Register,24.99
+2026-03-27 11:12:12,2026-03-27,11,3,Friday,13,611,1.0,27.99,2.59,0.0,30.58,1 X floral maxi dress size large,Main Register,27.99
+2026-03-27 10:39:07,2026-03-27,10,3,Friday,13,610,1.0,29.99,2.77,0.0,32.76,1 X Stella & Dot Gold Circles Necklace,Main Register,29.99
+2026-03-26 20:26:10,2026-03-26,20,3,Thursday,13,609,4.0,198.96,18.4,0.0,217.36,1 X VINTAGE Luisa Spagnoli Top Blck/Size L + 1 X Sanctuary NWT Black Mustard Jumpsuit / Size 8 + 1 X Rag&Bone/BlkBacklessChunkyHeels/Size39.5 + 1 X Manolo Blahnik Black Studded Heels/Size 9,Main Register,49.74
+2026-03-26 20:18:16,2026-03-26,20,3,Thursday,13,608,1.0,50.0,4.63,0.0,54.63,1 X VINTAGE MaryFrances Hndbg,Main Register,50.0
+2026-03-26 20:17:09,2026-03-26,20,3,Thursday,13,607,1.0,39.99,3.7,0.0,43.69,1 X Colebrook Blk Leather Coat/Size S,Main Register,39.99
+2026-03-26 20:01:49,2026-03-26,20,3,Thursday,13,606,1.0,46.99,4.35,0.0,51.34,1 X Bisou Bisou Silver Bracelet Black Stone,Main Register,46.99
+2026-03-26 19:30:17,2026-03-26,19,3,Thursday,13,605,2.0,48.98,4.53,0.0,53.51,1 X Linda Anderson black sundress/L + 1 X Naya Makani Wedge/ Size 11,Main Register,24.49
+2026-03-26 19:25:04,2026-03-26,19,3,Thursday,13,604,1.0,24.99,2.31,0.0,27.3,1 X August Silk Black Sheer Colorful Flower / Size M,Main Register,24.99
+2026-03-26 19:15:41,2026-03-26,19,3,Thursday,13,603,1.0,39.99,3.7,0.0,43.69,1 X JR Nites Black Sheer Longsleeve / Size 12,Main Register,39.99
+2026-03-26 17:42:09,2026-03-26,17,3,Thursday,13,602,1.0,15.0,1.39,0.0,16.39,1 X Brown Grommet Belt_Un,Main Register,15.0
+2026-03-26 17:25:21,2026-03-26,17,3,Thursday,13,601,1.0,17.99,1.66,0.0,19.65,1 X Pac Sun Rhinestone Denim Top/Size S,Main Register,17.99
+2026-03-26 16:24:35,2026-03-26,16,3,Thursday,13,600,1.0,21.99,2.03,0.0,24.02,1 X Charlotte Russe Green Faux Satin Jogger/ Size M,Main Register,21.99
+2026-03-26 16:18:25,2026-03-26,16,3,Thursday,13,599,1.0,16.99,1.57,0.0,18.56,1 X Banana Republic Orange Button SL / Size XS,Main Register,16.99
+2026-03-26 16:17:17,2026-03-26,16,3,Thursday,13,598,3.0,59.97,5.55,0.0,65.52,1 X 10007212 + 1 X CalStyle/GrnTanSkirt/SizeL + 1 X BlackStuddedBelt,Main Register,19.99
+2026-03-26 15:03:33,2026-03-26,15,3,Thursday,13,597,2.0,51.98,4.81,0.0,56.79,1 X Christian Siriano Floral Black Top/ Real Size S + 1 X TCR/MulticolTankTop/SizeS,Main Register,25.99
+2026-03-26 15:00:45,2026-03-26,15,3,Thursday,13,596,2.0,39.98,3.7,0.0,43.68,1 X TwoPiecePinkSet/SizeS + 1 X ArizonaJeanCo/JeanSkirt/Size3,Main Register,19.99
+2026-03-26 14:35:31,2026-03-26,14,3,Thursday,13,595,8.0,236.92,21.92,0.0,258.84,1 X Allison B SL Dress Multicolor Texture / Size S + 1 X JS Signature Black Cut Layer Skirt / Size 8 + 1 X Willi Smith Chunky Lace Skirt/Size S + 1 X VINTAGE Paper Doll Pink Longsleeve Pattern / Size M + 1 X Ixee DRess Blk Wht Peach/Size S + 1 X navy skirt with flowers/8 + 1 X Persaman Black Skirt White Flw / Size 8 + 1 X Black sequin,Main Register,29.61
+2026-03-26 14:11:06,2026-03-26,14,3,Thursday,13,594,4.0,101.96,9.43,0.0,111.39,1 X Black Velvet Hat + 1 X Mona Mode Vest Black w Flowers/ Size M + 1 X Allison T Brown Buttondown SL Dress / Size L + 1 X Pilcro Striped Pants / Size 31,Main Register,25.49
+2026-03-26 14:05:11,2026-03-26,14,3,Thursday,13,593,1.0,21.99,2.03,0.0,24.02,1 X Zara White Collared SS Dress / Size S,Main Register,21.99
+2026-03-26 13:51:08,2026-03-26,13,3,Thursday,13,592,3.0,75.97,7.03,0.0,83.0,1 X alfred dunner green knit blouse/L + 1 X WHBM Shiny Zebra Print Shirt / Size M + 1 X Loft Black Dress/ Size LP,Main Register,25.32
+2026-03-26 13:39:38,2026-03-26,13,3,Thursday,13,591,4.0,241.97,22.38,0.0,264.35,1 X Vintage Club 515 Yellow Floral Dress/Sz  M + 1 X VINTAGE Beige Pink Floral LS Dress / Size M + 1 X Lanz VINTAGE Pink Colorful Dress / Size L + 1 X MulticolFlowerDress/Size11,Main Register,60.49
+2026-03-26 13:32:24,2026-03-26,13,3,Thursday,13,590,2.0,195.98,18.13,0.0,214.11,1 X VINTAGE 2 Piece Bogart Brown Set / Size 9 + 1 X Vero Cuoio Metal Toe Boots / Size 7.5,Main Register,97.99
+2026-03-26 13:28:13,2026-03-26,13,3,Thursday,13,589,1.0,21.99,2.03,0.0,24.02,1 X Skies are Blue,Main Register,21.99
+2026-03-26 13:27:20,2026-03-26,13,3,Thursday,13,588,1.0,16.99,1.57,0.0,18.56,1 X The Limited Floral Dress / Size 8,Main Register,16.99
+2026-03-26 13:17:34,2026-03-26,13,3,Thursday,13,587,1.0,14.99,1.39,0.0,16.38,1 X Generation Kiss Denim Top/ Size L,Main Register,14.99
+2026-03-26 13:09:40,2026-03-26,13,3,Thursday,13,586,1.0,22.99,2.13,0.0,25.12,1 X Pearl Beach Visor,Main Register,22.99
+2026-03-26 13:02:07,2026-03-26,13,3,Thursday,13,585,1.0,14.0,1.3,0.0,15.3,1 X Skirt,Main Register,14.0
+2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,4.0,80.96,7.49,0.0,88.45,1 X JCrew/NavyWhiPlkaDotShorts/Size10 + 1 X MaxStudio/FloralruffleDress/SizeM + 1 X AmericanEagle/BlackCorsetTop/SizeM + 1 X Absolutely Tie Dye Crop Top / Size L,Main Register,20.24
+2026-03-26 12:54:53,2026-03-26,12,3,Thursday,13,583,1.0,25.99,2.4,0.0,28.39,1 X Pink Kigi Platform Sandals/Size 7,Main Register,25.99
+2026-03-26 12:52:58,2026-03-26,12,3,Thursday,13,582,1.0,150.0,13.88,0.0,163.88,1 X Timmy Woods/ Tortoise Shell Purse,Main Register,150.0
+2026-03-26 12:49:52,2026-03-26,12,3,Thursday,13,581,1.0,35.99,3.33,0.0,39.32,1 X VintageSarahCoventry/GoldSToneBracelet,Main Register,35.99
+2026-03-26 12:25:40,2026-03-26,12,3,Thursday,13,580,2.0,52.98,4.9,0.0,57.88,1 X grey tennessee vols tshirt/medium + 1 X Scotch and Soda Blue and Brown Striped Sweater / Size M,Main Register,26.49
+2026-03-26 12:24:56,2026-03-26,12,3,Thursday,13,579,1.0,15.99,1.48,0.0,17.47,1 X Dark Blue Buttondown Seethrough / Size XS,Main Register,15.99
+2026-03-26 10:44:19,2026-03-26,10,3,Thursday,13,6,-1.0,-14.99,-1.39,0.0,-16.38,-1 X Eunina White Shorts/Size S,POS 2,14.99
+2026-03-26 10:43:13,2026-03-26,10,3,Thursday,13,5,1.0,14.99,1.39,0.0,16.38,1 X Eunina White Shorts/Size S,POS 2,14.99
+2026-03-25 19:45:26,2026-03-25,19,3,Wednesday,13,578,2.0,45.98,4.25,0.0,50.23,1 X Beige/ Twist Top/ Nvy/ Size L + 1 X Calvin Klein Black LS Top Size L,Main Register,22.99
+2026-03-25 18:44:24,2026-03-25,18,3,Wednesday,13,577,5.0,149.95,13.87,0.0,163.82,1 X THML Cream Sweater/Size XS + 1 X Altar'd State Pink Floral SS Ruffle Dress / Size S + 1 X TommyH/BlkFloralDress/Size2 + 1 X BR/BlkFloralKnotDress/Size2P + 1 X Johnny Was Beige Dress / Size S,Main Register,29.99
+2026-03-25 18:04:18,2026-03-25,18,3,Wednesday,13,576,2.0,43.98,4.07,0.0,48.05,1 X Jane Delancy NWT Black Orange Floral Top/Size M + 1 X Heart Soul Blue Black Top / Size L,Main Register,21.99
+2026-03-25 17:10:20,2026-03-25,17,3,Wednesday,13,575,1.0,8.99,0.83,0.0,9.82,1 X Pink Furry Purse French Bee,Main Register,8.99
+2026-03-25 15:33:56,2026-03-25,15,3,Wednesday,13,574,1.0,58.99,5.46,0.0,64.45,1 X NWT Guess Denim Shorts Jumper/Size S,Main Register,58.99
+2026-03-22 17:00:10,2026-03-22,17,3,Sunday,12,573,1.0,35.99,3.33,0.0,39.32,1 X anthropologie/skrt/flr/2p,Main Register,35.99
+2026-03-22 16:53:37,2026-03-22,16,3,Sunday,12,572,1.0,36.99,3.42,0.0,40.41,1 X Metal Scales Belt Floral Buckle,Main Register,36.99
+2026-03-22 16:24:20,2026-03-22,16,3,Sunday,12,571,2.0,33.98,3.14,0.0,37.12,1 X TNVolsTshirt/sizeL + 1 X Izod Pink & White Collared SL Tank / Size M,Main Register,16.99
+2026-03-22 15:52:28,2026-03-22,15,3,Sunday,12,570,1.0,25.99,2.4,0.0,28.39,1 X Zara/ Baby Tee/ Maroon/ Size M,Main Register,25.99
+2026-03-22 15:45:02,2026-03-22,15,3,Sunday,12,569,3.0,54.97,5.08,0.0,60.05,1 X RedMidiPoofySkirt/SizeM + 1 X Southwest Burgundy Patterned Skirt / Size XL + 1 X Light Blue Cotton Vest w Buttons / Size XL,Main Register,18.32
+2026-03-22 15:12:41,2026-03-22,15,3,Sunday,12,568,1.0,19.99,1.85,0.0,21.84,1 X Bisou Denin Top Size 16,Main Register,19.99
+2026-03-22 13:19:07,2026-03-22,13,3,Sunday,12,567,1.0,25.99,2.4,0.0,28.39,1 X NicoleM/MulticolBlouse/SizeS,Main Register,25.99
+2026-03-22 13:05:30,2026-03-22,13,3,Sunday,12,566,1.0,32.99,3.05,0.0,36.04,1 X BrooksBro/MulticolSkirt/Size8,Main Register,32.99
+2026-03-22 13:02:49,2026-03-22,13,3,Sunday,12,565,2.0,55.98,5.18,0.0,61.16,1 X Calvin Klein Gold Studded Belt + 1 X Harper Blush Pink Jacket Ruffle / Size S,Main Register,27.99
+2026-03-22 11:27:32,2026-03-22,11,3,Sunday,12,564,2.0,40.99,3.79,0.0,44.78,1 X Stella & Dot Gold Dangle Necklace + 1 X Esprit White and Tan belt_Un,Main Register,20.5
+2026-03-21 19:58:02,2026-03-21,19,3,Saturday,12,563,4.0,128.96,11.93,0.0,140.89,1 X Cable & G Green Cheetah Print SL / Size S + 1 X black tank with shoulder ruffles/small + 1 X Born Tan Boots Size 10 + 1 X Desigual Pink Embroidered Dress / Size 36,Main Register,32.24
+2026-03-21 19:42:49,2026-03-21,19,3,Saturday,12,562,1.0,39.99,3.7,0.0,43.69,1 X Ann TaylorJacket_La,Main Register,39.99
+2026-03-21 19:14:37,2026-03-21,19,3,Saturday,12,561,1.0,26.99,2.5,0.0,29.49,1 X Petra Fashions Camisole Orange Size M,Main Register,26.99
+2026-03-21 19:13:11,2026-03-21,19,3,Saturday,12,560,2.0,36.98,3.42,0.0,40.4,1 X La Castellana Pink Camisole Size S + 1 X Unknown Camisole Light Blue M,Main Register,18.49
+2026-03-21 18:55:09,2026-03-21,18,3,Saturday,12,559,0.0,0.0,0.0,0.0,0.0,1 X Patricia Nash House Scene Design Brown Handle + -1 X Discount,Main Register,
+2026-03-21 18:50:24,2026-03-21,18,3,Saturday,12,558,1.0,31.99,2.96,0.0,34.95,1 X Additions by Chico's Gray Jean Jacket / Size 2,Main Register,31.99
+2026-03-21 16:08:50,2026-03-21,16,3,Saturday,12,557,1.0,13.99,1.29,0.0,15.28,1 X PinkCropTop/SizeM,Main Register,13.99
+2026-03-21 15:57:48,2026-03-21,15,3,Saturday,12,556,1.0,24.99,2.31,0.0,27.3,1 X Banana RepublicLS Top_Ag,Main Register,24.99
+2026-03-21 15:20:03,2026-03-21,15,3,Saturday,12,555,2.0,43.98,4.07,0.0,48.05,1 X NVGTN Black LS Top / Size M + 1 X Philosophy Dress Black and White/Size S/P,Main Register,21.99
+2026-03-21 14:59:17,2026-03-21,14,3,Saturday,12,554,5.0,123.95,11.47,0.0,135.42,1 X Marks & Spencer Beige Top Sleevelesee/Size M + 1 X BluPe/BlkLaceSlvzlessTop/SizeM + 1 X yellow floral design blouse/medium + 1 X Maison Yellow & White Blouse / Size S + 1 X Ninewest/PinkTwistTop/SizeM,Main Register,24.79
+2026-03-21 14:39:53,2026-03-21,14,3,Saturday,12,553,2.0,30.98,2.87,0.0,33.85,1 X White Multicolor Embroidered Top / Size M + 1 X Old Navy SL Jean Jumper / Size S,Main Register,15.49
+2026-03-21 14:27:00,2026-03-21,14,3,Saturday,12,552,4.0,86.96,8.04,0.0,95.0,1 X wonderly/skrt/flr/s + 1 X Liz Claiborne Black Denim Dress/ Size 8 + 1 X skies are blue/jumper/red/m + 1 X unknown/belt/multicolor leather,Main Register,21.74
+2026-03-21 14:00:39,2026-03-21,14,3,Saturday,12,551,2.0,49.98,4.62,0.0,54.6,1 X Arizona Jean Overalls / Size L + 1 X Pink cami,Main Register,24.99
+2026-03-21 13:40:45,2026-03-21,13,3,Saturday,12,550,1.0,23.99,2.22,0.0,26.21,1 X BGBGMaxazria Beige Bodysuit Size S,Main Register,23.99
+2026-03-21 13:28:56,2026-03-21,13,3,Saturday,12,549,1.0,23.99,2.22,0.0,26.21,1 X Maggy London Green SL Dress / Size 10,Main Register,23.99
+2026-03-21 12:54:25,2026-03-21,12,3,Saturday,12,548,1.0,24.99,2.31,0.0,27.3,1 X Beige Sequin Shorts / Size 8,Main Register,24.99
+2026-03-21 12:37:32,2026-03-21,12,3,Saturday,12,547,1.0,32.99,3.05,0.0,36.04,1 X Armani Jeans Tan Dress/ Size S,Main Register,32.99
+2026-03-21 12:21:04,2026-03-21,12,3,Saturday,12,546,2.0,172.99,16.0,0.0,188.99,1 X Calvin Klein Black Studded Belt + 1 X RLL Black Fringe Purse,Main Register,86.5
+2026-03-21 12:15:27,2026-03-21,12,3,Saturday,12,545,4.0,109.96,10.17,0.0,120.13,1 X Harley Davidson Blue Tshirt White LS  / Size L + 1 X white skirt with design/10 + 1 X Vol. 1 Pink Brown Floral Blouse / Size L + 1 X Halogen/BlkLaceTanktop/SizeM,Main Register,27.49
+2026-03-21 12:04:55,2026-03-21,12,3,Saturday,12,544,1.0,28.99,2.68,0.0,31.67,1 X dialogue/skt/brw/12,Main Register,28.99
+2026-03-21 11:42:00,2026-03-21,11,3,Saturday,12,543,2.0,51.98,4.81,0.0,56.79,1 X VINTAGE MJ Soffe TN Orange Crewneck / Size L + 1 X Port & Co Orange TN Fitted Tshirt / Size S,Main Register,25.99
+2026-03-21 11:26:17,2026-03-21,11,3,Saturday,12,542,1.0,18.99,1.76,0.0,20.75,1 X VINTAGE Lady O Red Striped Shortsleeve / Size L,Main Register,18.99
+2026-03-20 19:52:41,2026-03-20,19,3,Friday,12,541,1.0,225.0,20.81,0.0,245.81,1 X VINTAGE Coach Pink Soho Flap Bag,Main Register,225.0
+2026-03-20 19:48:16,2026-03-20,19,3,Friday,12,540,1.0,28.99,2.68,0.0,31.67,1 X Flying Tomato Jean Jacket/ Size L,Main Register,28.99
+2026-03-20 19:16:28,2026-03-20,19,3,Friday,12,539,1.0,15.99,1.48,0.0,17.47,1 X Russel Tennessee Orange Shirt / Size L,Main Register,15.99
+2026-03-20 19:13:51,2026-03-20,19,3,Friday,12,538,2.0,240.99,22.29,0.0,263.28,1 X Coach Mini Bennett Satchel w Studs + 1 X Persaman Biege Corduory Jacket / Size S,Main Register,120.5
+2026-03-20 19:08:43,2026-03-20,19,3,Friday,12,537,1.0,34.99,3.24,0.0,38.23,1 X Lovers& Friends Floral Mini Dress/Sz S,Main Register,34.99
+2026-03-20 18:46:47,2026-03-20,18,3,Friday,12,536,3.0,92.97,8.6,0.0,101.57,1 X Maggy London Dress Pink Size 6 + 1 X express/tank/grn/s + 1 X Free People NWT Yellow Dress / Size XS,Main Register,30.99
+2026-03-20 18:44:32,2026-03-20,18,3,Friday,12,535,2.0,110.98,10.27,0.0,121.25,1 X NikeTeam/ Vols TrackJacket/ Orng/ Size M + 1 X Suede Fringe Coat/ Size M,Main Register,55.49
+2026-03-20 17:43:15,2026-03-20,17,3,Friday,12,534,1.0,27.99,2.59,0.0,30.58,1 X DanaBuchman/Pink Shawl/Size M,Main Register,27.99
+2026-03-20 16:35:06,2026-03-20,16,3,Friday,12,533,1.0,21.99,2.03,0.0,24.02,1 X SteveM/TanBuckleFlat/6.5,Main Register,21.99
+2026-03-20 14:44:54,2026-03-20,14,3,Friday,12,532,1.0,39.99,3.7,0.0,43.69,1 X Abercrombie & F Strapless Orange Dress / Size S,Main Register,39.99
+2026-03-20 14:42:30,2026-03-20,14,3,Friday,12,531,2.0,57.98,5.36,0.0,63.34,1 X Uniform Pink Green Silk SL Top / Size L + 1 X Pink Orange Striped Multicolor SS / Size XL,Main Register,28.99
+2026-03-20 13:53:47,2026-03-20,13,3,Friday,12,530,1.0,35.99,3.33,0.0,39.32,1 X Laundry Black Lace SS Top / Size S,Main Register,35.99
+2026-03-20 13:46:10,2026-03-20,13,3,Friday,12,529,2.0,32.98,3.05,0.0,36.03,1 X Altar'd State Black Sheer LS Embroid / Size M + 1 X White Flower Ring 2,Main Register,16.49
+2026-03-20 13:33:21,2026-03-20,13,3,Friday,12,528,1.0,23.99,2.22,0.0,26.21,1 X Zara/PinkSweater/SizeM,Main Register,23.99
+2026-03-20 13:31:56,2026-03-20,13,3,Friday,12,527,1.0,14.99,1.39,0.0,16.38,1 X Express Yellow Bodysuit / Size XS,Main Register,14.99
+2026-03-20 13:02:37,2026-03-20,13,3,Friday,12,526,2.0,71.98,6.66,0.0,78.64,1 X NWT Levi Jean Overalls / Size S + 1 X GirlsFromSavoy/PurpSleevlessDress/Size4,Main Register,35.99
+2026-03-20 12:36:55,2026-03-20,12,3,Friday,12,525,4.0,149.96,13.87,0.0,163.83,1 X persaman beige jacket/m + 1 X Adiva Pale Pink & White Tank / Size XL + 1 X Polo Garage Pink Sweater / Size XS + 1 X D&G/ Floral Jacket/ Size 2,Main Register,37.49
+2026-03-19 20:07:59,2026-03-19,20,3,Thursday,12,524,3.0,102.96,9.52,0.0,112.48,1 X Red Lace Slip/Size S + 1 X Shadowline Slip Dress Black Size M + 1 X JezebelCamisole + 1 X NWT Eloquii Black Top / Size 20 + -1 X Discount,Main Register,34.32
+2026-03-19 17:44:17,2026-03-19,17,3,Thursday,12,523,9.0,249.91,23.12,0.0,273.03,1 X L'Artiste Boots Brown/ Size 7.5 + 1 X Distressed Hat_Un + 1 X NineWest/BlkAniPrintHeels/Size7.5 + 1 X dreamers/skrt/ylw/m + 1 X BCBG Yellow Skirt / Size 2 + 1 X ButtonSkirt/Blk/Size S + 1 X AND Beige Chiffon LS Top / Size 8 + 1 X Unity/RedMulticolDress/SizeM + 1 X Ideology Purple Silk Blouse / Size 6,Main Register,27.77
+2026-03-19 14:27:09,2026-03-19,14,3,Thursday,12,522,2.0,50.98,4.72,0.0,55.7,1 X Turquoise Wrap Skirt/ Size L + 1 X StJohnsB/JeanSkort/Size10,Main Register,25.49
+2026-03-19 13:43:55,2026-03-19,13,3,Thursday,12,521,3.0,73.97,6.84,0.0,80.81,1 X Express/WhiLaceCami/SizeM + 1 X Dissh/BlackDress/Size6 + 1 X Free People Lilac Dress / Size S,Main Register,24.66
+2026-03-18 19:29:48,2026-03-18,19,3,Wednesday,12,520,3.0,67.97,6.29,0.0,74.26,1 X LineaD/WhtLaceDress/SizeS + 1 X AmberNecklace + 1 X Urban Outfitters Black Floral Dress/Size XS,Main Register,22.66
+2026-03-18 19:28:36,2026-03-18,19,3,Wednesday,12,519,1.0,26.99,2.5,0.0,29.49,1 X Mexx/GrnLeafyTop/SizeS,Main Register,26.99
+2026-03-18 18:19:27,2026-03-18,18,3,Wednesday,12,518,1.0,5.99,0.55,0.0,6.54,1 X mudd leather belt size s/m,Main Register,5.99
+2026-03-18 18:02:18,2026-03-18,18,3,Wednesday,12,517,2.0,44.98,4.16,0.0,49.14,1 X Flora White Robe / Size S + 1 X VS Black Lingerie 2 Piece Sequin Set / Size XXS,Main Register,22.49
+2026-03-18 16:11:26,2026-03-18,16,3,Wednesday,12,516,1.0,28.99,2.68,0.0,31.67,1 X Lady&B/MaroonVest/SizeM,Main Register,28.99
+2026-03-18 14:05:04,2026-03-18,14,3,Wednesday,12,515,1.0,29.99,2.77,0.0,32.76,1 X CalvinKlein/BlkTanDress/Size 16,Main Register,29.99
+2026-03-18 13:12:10,2026-03-18,13,3,Wednesday,12,514,1.0,0.0,0.0,0.0,0.0,1 X Esprit VINTAGE Brown Leopard / Size 6 + 1 X hers & mine/bls/blk/s + -1 X Discount,Main Register,0.0
+2026-03-15 15:33:11,2026-03-15,15,3,Sunday,11,513,1.0,6.99,0.65,0.0,7.64,1 X bottlecap jelly black belt,Main Register,6.99
+2026-03-15 15:31:51,2026-03-15,15,3,Sunday,11,512,3.0,75.97,7.03,0.0,83.0,1 X SavannaJane/ Floral Top/ Prpl/ Size L + 1 X Zara White Dress / Size L + 1 X Max Studio Blue Pattern Dress / Size L,Main Register,25.32
+2026-03-15 14:56:00,2026-03-15,14,3,Sunday,11,511,3.0,46.97,4.34,0.0,51.31,1 X MTV Branded White Tshirt / Size S + 1 X Small Leather Purse Long Strap Gold Lock + 1 X Margo Paige Fringe Crossbody,Main Register,15.66
+2026-03-15 14:54:00,2026-03-15,14,3,Sunday,11,510,2.0,38.98,3.61,0.0,42.59,1 X Texture & Thread Olive Green SL Top / Size M + 1 X Moda Lyle Fringe Purse,Main Register,19.49
+2026-03-15 14:52:13,2026-03-15,14,3,Sunday,11,509,1.0,22.99,2.13,0.0,25.12,1 X Wide Leg Cropped Jean/Size 10,Main Register,22.99
+2026-03-15 14:37:00,2026-03-15,14,3,Sunday,11,508,3.0,51.97,4.81,0.0,56.78,1 X Mossimo Orange Multicolor Skirt / Size XS + 1 X Sweaty Betty Pink Sweatshirt / Size XS + 1 X YaYa/FloralBlouse/S,Main Register,17.32
+2026-03-15 14:23:13,2026-03-15,14,3,Sunday,11,507,1.0,28.99,2.68,0.0,31.67,1 X UrbanOutfitters/ Butterfly Dress / Brwn/ Size XS,Main Register,28.99
+2026-03-15 14:02:27,2026-03-15,14,3,Sunday,11,506,1.0,29.99,2.77,0.0,32.76,1 X Lala Red & White Sheer SL Top / Size M,Main Register,29.99
+2026-03-15 13:18:09,2026-03-15,13,3,Sunday,11,505,2.0,68.98,6.38,0.0,75.36,1 X TheLimited/WhiCardigan/SizeXS + 1 X 5a7/jns/dnm/2,Main Register,34.49
+2026-03-15 12:55:13,2026-03-15,12,3,Sunday,11,504,2.0,43.98,4.07,0.0,48.05,1 X Lanidor Co Black Dress Gold Studs / Size 34 + 1 X Large Brown Braided Belt / S,Main Register,21.99
+2026-03-15 12:53:29,2026-03-15,12,3,Sunday,11,503,1.0,24.99,2.31,0.0,27.3,1 X Silver&StoneBracelet,Main Register,24.99
+2026-03-15 12:49:31,2026-03-15,12,3,Sunday,11,502,1.0,25.99,2.4,0.0,28.39,1 X nocona/belt/leather/graphic,Main Register,25.99
+2026-03-15 12:32:14,2026-03-15,12,3,Sunday,11,501,0.0,13.99,1.29,0.0,15.28,1 X Karen A White LS Lace / Size 6 + -1 X Discount,Main Register,
+2026-03-14 18:44:08,2026-03-14,18,3,Saturday,11,500,1.0,22.99,2.13,0.0,25.12,1 X Brown Leather Belt,Main Register,22.99
+2026-03-14 18:26:53,2026-03-14,18,3,Saturday,11,499,1.0,28.99,2.68,0.0,31.67,1 X Nouvida/GrnLaceTankTop/SizeL,Main Register,28.99
+2026-03-14 16:41:37,2026-03-14,16,3,Saturday,11,498,1.0,26.99,2.5,0.0,29.49,1 X Kiwi Black White Striped Dress / Size XL,Main Register,26.99
+2026-03-14 15:55:04,2026-03-14,15,3,Saturday,11,497,1.0,25.99,2.4,0.0,28.39,1 X VINTAGE 2 Piece Karin Brw Gr Polka Dot / Size XL,Main Register,25.99
+2026-03-14 14:19:15,2026-03-14,14,3,Saturday,11,496,2.0,51.98,4.81,0.0,56.79,1 X Express Orange Pink Floral SL Tank / Size L + 1 X Bechamel Brown Woven Leather Bag,Main Register,25.99
+2026-03-14 14:18:11,2026-03-14,14,3,Saturday,11,495,1.0,21.99,2.03,0.0,24.02,1 X New'm/ Floral Top/ Size S,Main Register,21.99
+2026-03-14 14:07:57,2026-03-14,14,3,Saturday,11,494,1.0,19.99,1.85,0.0,21.84,1 X Unknown Slip Dress Light Blue S,Main Register,19.99
+2026-03-14 13:57:01,2026-03-14,13,3,Saturday,11,493,2.0,37.98,3.51,0.0,41.49,1 X MelroseXMar/BlackLaceTop/SizeL + 1 X By Together Gray Velvet Tank Lace Trim / Size L,Main Register,18.99
+2026-03-14 13:54:31,2026-03-14,13,3,Saturday,11,492,4.0,109.96,10.17,0.0,120.13,1 X Blashe Muave Leotard/Size L + 1 X Vince C Black Jumpsuit / Size 8 + 1 X Pretty Little Thing Black Skirt Tassle / Size M + 1 X Bracelet,Main Register,27.49
+2026-03-14 13:52:28,2026-03-14,13,3,Saturday,11,491,2.0,37.98,3.51,0.0,41.49,1 X Gracia Black Fishnet Top / Size M + 1 X H&M Ruffle Bodysuit Blk/Size M,Main Register,18.99
+2026-03-14 13:51:36,2026-03-14,13,3,Saturday,11,490,2.0,36.98,3.42,0.0,40.4,1 X WildH/BlkLaceBdySuit/SizeL + 1 X Banana Republic Black SL Crop Top / Size 6,Main Register,18.49
+2026-03-14 13:35:24,2026-03-14,13,3,Saturday,11,489,4.0,110.96,10.26,0.0,121.22,1 X TwoPieceMultiColSequinSet/SizeS + 1 X black ribbed tanktop/xxs + 1 X Eclipse Pink Black White Striped Romper / Size M + 1 X Silver Sequin Sheer Dress/Size M,Main Register,27.74
+2026-03-14 13:33:41,2026-03-14,13,3,Saturday,11,488,2.0,55.98,5.18,0.0,61.16,1 X black short sleeve dress blouse/large + 1 X Corduroy Red & Beige Skirt / Size 10,Main Register,27.99
+2026-03-14 12:36:57,2026-03-14,12,3,Saturday,11,487,1.0,29.99,2.77,0.0,32.76,1 X Portraits Black Vest White Emb / Size S,Main Register,29.99
+2026-03-14 12:06:16,2026-03-14,12,3,Saturday,11,486,2.0,63.98,5.92,0.0,69.9,1 X Kimchi Blue Pink Lace Top/Size Lg + 1 X Lellis Collection Jean Romper / Size L,Main Register,31.99
+2026-03-13 19:49:45,2026-03-13,19,3,Friday,11,485,2.0,59.98,5.55,0.0,65.53,1 X BNDI Sweater Brown Size M + 1 X 100005553,Main Register,29.99
+2026-03-13 19:11:33,2026-03-13,19,3,Friday,11,484,1.0,25.99,2.4,0.0,28.39,1 X Life Stride Black Riding Boots / Size 11,Main Register,25.99
+2026-03-13 18:36:55,2026-03-13,18,3,Friday,11,483,1.0,25.99,2.4,0.0,28.39,1 X HollisterJeans/ Size 6,Main Register,25.99
+2026-03-13 14:44:35,2026-03-13,14,3,Friday,11,482,1.0,24.99,2.31,0.0,27.3,1 X Real Comfort Brown Jacket / Size 8,Main Register,24.99
+2026-03-13 11:55:49,2026-03-13,11,3,Friday,11,481,1.0,22.99,2.13,0.0,25.12,1 X Zara/pink&BlTop/SizeM,Main Register,22.99
+2026-03-12 18:59:35,2026-03-12,18,3,Thursday,11,480,1.0,22.99,2.13,0.0,25.12,1 X Johnny Cash Tee,Main Register,22.99
+2026-03-12 18:42:23,2026-03-12,18,3,Thursday,11,479,2.0,34.98,3.24,0.0,38.22,1 X Nine West Black Flower Bucket Hat + 1 X WovenBowBasketBag,Main Register,17.49
+2026-03-12 18:14:15,2026-03-12,18,3,Thursday,11,478,1.0,21.99,2.03,0.0,24.02,1 X Born Beige Knit Slip Ons / Size 9,Main Register,21.99
+2026-03-12 15:53:25,2026-03-12,15,3,Thursday,11,477,1.0,28.99,2.68,0.0,31.67,1 X VintageNaniFlwrChemise/SizeM,Main Register,28.99
+2026-03-12 15:18:28,2026-03-12,15,3,Thursday,11,476,1.0,28.99,2.68,0.0,31.67,1 X rosa cheri/bls/floral/s,Main Register,28.99
+2026-03-12 14:37:54,2026-03-12,14,3,Thursday,11,475,7.0,157.93,14.61,0.0,172.54,1 X OutfitJPR/MulticolStripeTank/SizeS + 1 X ITOO Italy Multicolor Skirt / Size S + 1 X Frenchi/Blk&WhiSheerlayerTop/SizeS + 1 X unknownLS Top + 1 X Coin Brown Patchwork Shiny SL Top / Size L + 1 X Black Seethrough Top / Size S + 1 X Cosmo/PinkMeshTop/SizeM,Main Register,22.56
+2026-03-12 14:34:51,2026-03-12,14,3,Thursday,11,474,1.0,12.99,1.2,0.0,14.19,1 X Cross Necklace,Main Register,12.99
+2026-03-11 18:25:34,2026-03-11,18,3,Wednesday,11,473,6.0,205.94,19.05,0.0,224.99,1 X HoldingHorses/BrwnLacedBoot/Size39 + 1 X Desigual Purple Strapless Top / Size XXS + 1 X Eagle's Eye Black Cardigan w Flw / Size S + 1 X American Eagle Lace Mesh Skirt / Size XS + 1 X Altar'd State Orange Polka Dot Skirt / Size S + 1 X James Jeans Jacket Blk Wax Denim,Main Register,34.32
+2026-03-11 18:10:37,2026-03-11,18,3,Wednesday,11,472,1.0,25.99,2.4,0.0,28.39,1 X Aeda Tan Flower Cardigan/ Size S,Main Register,25.99
+2026-03-11 17:21:23,2026-03-11,17,3,Wednesday,11,471,2.0,83.98,7.77,0.0,91.75,1 X VINTAGE Green Jumpsuit / Size XS + 1 X I.N. Black Floral SL Dress Glitter / Size M,Main Register,41.99
+2026-03-11 17:06:09,2026-03-11,17,3,Wednesday,11,470,2.0,169.99,15.72,0.0,185.71,1 X Chista Beaded Handbag + 1 X Brown Suede Boots Size 11,Main Register,85.0
+2026-03-11 14:59:35,2026-03-11,14,3,Wednesday,11,469,1.0,65.0,6.01,0.0,71.01,1 X VintageGrn&PinkDress/SizeS,Main Register,65.0
+2026-03-11 14:38:05,2026-03-11,14,3,Wednesday,11,468,1.0,15.99,1.48,0.0,17.47,1 X papaya/sweater/wht/m,Main Register,15.99
+2026-03-11 14:24:16,2026-03-11,14,3,Wednesday,11,467,1.0,35.99,3.33,0.0,39.32,1 X Forever 21 Black Sheer Top / Size M,Main Register,35.99
+2026-03-08 16:01:19,2026-03-08,16,3,Sunday,10,466,1.0,12.99,1.2,0.0,14.19,1 X UTKtshirt/SizeM,Main Register,12.99
+2026-03-08 15:34:07,2026-03-08,15,3,Sunday,10,465,2.0,80.98,7.49,0.0,88.47,1 X Foiled Mini Skirt/Size S + 1 X Djer Kiss Kissing Fairies Compact 1920s,Main Register,40.49
+2026-03-08 15:32:31,2026-03-08,15,3,Sunday,10,464,1.0,16.99,1.57,0.0,18.56,1 X Anthropologie/PinkLaceTop/SizeS,Main Register,16.99
+2026-03-08 14:57:23,2026-03-08,14,3,Sunday,10,463,2.0,25.98,2.4,0.0,28.38,1 X Glam/GreySweater/SizeS/M + 1 X Camel Thin Waistbelt,Main Register,12.99
+2026-03-08 14:55:00,2026-03-08,14,3,Sunday,10,462,1.0,29.99,2.77,0.0,32.76,1 X Chico's White Silver Knit Sweater / Size 0,Main Register,29.99
+2026-03-08 14:34:16,2026-03-08,14,3,Sunday,10,461,2.0,49.98,4.62,0.0,54.6,1 X Deletta Green Ruffle Top / Size S + 1 X Lily White/ Floral Top/ Brwn&Pnk/ Size S,Main Register,24.99
+2026-03-08 14:17:14,2026-03-08,14,3,Sunday,10,460,2.0,71.98,6.66,0.0,78.64,1 X abercrombie and fitch black croptop/L + 1 X Bagatelle CollectionJacket,Main Register,35.99
+2026-03-08 13:17:02,2026-03-08,13,3,Sunday,10,459,2.0,35.98,3.33,0.0,39.31,1 X Coca Cola White Tee/Size M + 1 X LaurenC/BlkShortSlveTop/SizeM,Main Register,17.99
+2026-03-08 12:49:47,2026-03-08,12,3,Sunday,10,458,1.0,39.99,3.7,0.0,43.69,1 X Boden Blue & White Skirt / Size 6,Main Register,39.99
+2026-03-07 19:52:34,2026-03-07,19,3,Saturday,10,457,1.0,32.99,3.05,0.0,36.04,1 X IErelaxed/GrnPatternShirt/SizeM,Main Register,32.99
+2026-03-07 18:26:56,2026-03-07,18,3,Saturday,10,456,1.0,24.99,2.31,0.0,27.3,1 X JezebelCamisole,Main Register,24.99
+2026-03-07 18:00:19,2026-03-07,18,3,Saturday,10,455,2.0,35.98,3.33,0.0,39.31,1 X Def Leopard Tiger One Shoulder Crop Top / Size S + 1 X Tahari Black SS Top w Pink Flowers / Size S,Main Register,17.99
+2026-03-07 17:35:03,2026-03-07,17,3,Saturday,10,454,3.0,63.97,5.92,0.0,69.89,1 X Blue Knit LS Cardigan / Size M + 1 X Banana RepublicTank Top_Ec + 1 X J Crew Top White Size 6,Main Register,21.32
+2026-03-07 16:31:15,2026-03-07,16,3,Saturday,10,453,4.0,145.96,13.5,0.0,159.46,1 X unknown/skt set/teal org/ s + 1 X Persaman Red & Black Skirt 10 + 1 X banana republic/jumper/blk/2p + 1 X Kokin Black Tulle Hat,Main Register,36.49
+2026-03-07 16:16:16,2026-03-07,16,3,Saturday,10,452,2.0,85.98,7.95,0.0,93.93,1 X JB Dillon Cream Cowgirl Boots / Size 9 + 1 X D & Y Multicolor Hat,Main Register,42.99
+2026-03-07 15:47:03,2026-03-07,15,3,Saturday,10,451,3.0,48.97,4.53,3.0,53.5,1 X Windsor Green Crop Top / Size M + 1 X Paper Crane Green White Crop Top / Size M + 1 X AmericanEagle/ Ruche Crop/ Multicolor/ Size S,Main Register,16.32
+2026-03-07 15:40:55,2026-03-07,15,3,Saturday,10,450,1.0,9.99,0.92,0.0,10.91,1 X FYEO/BlkChainMiniBag,Main Register,9.99
+2026-03-07 15:12:26,2026-03-07,15,3,Saturday,10,449,2.0,48.98,4.53,0.0,53.51,1 X Princess Polly Blk Leather Pant/Size 4 + 1 X AltarXdS/LightBrwnSkirt/SizeXS,Main Register,24.49
+2026-03-07 14:09:04,2026-03-07,14,3,Saturday,10,448,1.0,18.99,1.76,0.0,20.75,1 X ByTogether/Blk&WhiSkirt/SizeS,Main Register,18.99
+2026-03-07 14:06:51,2026-03-07,14,3,Saturday,10,447,1.0,28.99,2.68,0.0,31.67,1 X Belissima Hat Brown w Flowers,Main Register,28.99
+2026-03-07 14:05:50,2026-03-07,14,3,Saturday,10,446,1.0,25.0,2.31,0.0,27.31,1 X Red Beaded Purse,Main Register,25.0
+2026-03-07 14:03:41,2026-03-07,14,3,Saturday,10,445,4.0,128.97,11.93,0.0,140.9,1 X textured white brallette top/small + 1 X Akira Tan Banded Skirt/Size S + 1 X Black Jean Mini Dress with Metal Button / Size M + 1 X Silver Metal Skull Ring Purse,Main Register,32.24
+2026-03-07 13:54:03,2026-03-07,13,3,Saturday,10,444,1.0,15.99,1.48,0.0,17.47,1 X Brown Fringe Belt,Main Register,15.99
+2026-03-07 13:28:29,2026-03-07,13,3,Saturday,10,443,1.0,32.99,3.05,0.0,36.04,1 X Altar'd State Blue Dress/Size S,Main Register,32.99
+2026-03-07 13:23:43,2026-03-07,13,3,Saturday,10,442,1.0,245.0,22.66,0.0,267.66,1 X Coach/PinkStitchedSoho,Main Register,245.0
+2026-03-07 13:11:40,2026-03-07,13,3,Saturday,10,441,2.0,64.98,6.01,0.0,70.99,1 X coutgo/shoes/blk/6.5 + 1 X Lisa Says Gah Strawberry Sweater Blue/Size M/L,Main Register,32.49
+2026-03-07 12:36:08,2026-03-07,12,3,Saturday,10,440,3.0,67.97,6.29,0.0,74.26,1 X Black belt with silver + 1 X Vanzetti Brown Suede Studded Belt + 1 X blue blush/blouse/floral/m,Main Register,22.66
+2026-03-06 20:43:52,2026-03-06,20,3,Friday,10,439,1.0,10.99,1.02,0.0,12.01,1 X JO COBodysuit_An,Main Register,10.99
+2026-03-06 20:28:28,2026-03-06,20,3,Friday,10,438,1.0,19.99,1.85,0.0,21.84,1 X green texture design tanktop/medium,Main Register,19.99
+2026-03-06 20:27:35,2026-03-06,20,3,Friday,10,437,2.0,98.98,9.16,0.0,108.14,1 X New York & Co Black White Sheer Shawl / Size L + 1 X Frye Wood Heels / Size 7.5,Main Register,49.49
+2026-03-06 19:37:12,2026-03-06,19,3,Friday,10,436,1.0,12.99,1.2,0.0,14.19,1 X Hunt Club Beige / Size 10,Main Register,12.99
+2026-03-06 19:23:04,2026-03-06,19,3,Friday,10,435,1.0,24.99,2.31,0.0,27.3,1 X Anthropologie Black Balloon Pants/ Size M,Main Register,24.99
+2026-03-06 18:46:25,2026-03-06,18,3,Friday,10,434,1.0,39.99,3.7,0.0,43.69,1 X unknown/dress/org flw/m,Main Register,39.99
+2026-03-06 18:44:17,2026-03-06,18,3,Friday,10,433,1.0,21.99,2.03,0.0,24.02,1 X AbercmxFitch/BrwnBowTop/SizeM,Main Register,21.99
+2026-03-06 18:39:45,2026-03-06,18,3,Friday,10,432,1.0,25.99,2.4,0.0,28.39,1 X Brass Metal Belt with Blue,Main Register,25.99
+2026-03-06 18:15:04,2026-03-06,18,3,Friday,10,431,1.0,18.99,1.76,0.0,20.75,1 X Cider Black LS Tie Front / Size S,Main Register,18.99
+2026-03-06 16:31:09,2026-03-06,16,3,Friday,10,430,1.0,35.99,3.33,0.0,39.32,1 X Persaman Blue & Yellow Skirt / Size 8,Main Register,35.99
+2026-03-06 16:30:42,2026-03-06,16,3,Friday,10,429,1.0,34.99,3.24,0.0,38.23,1 X Affinites AT Wrap LS Top / Size S,Main Register,34.99
+2026-03-06 16:04:43,2026-03-06,16,3,Friday,10,428,1.0,12.99,1.2,0.0,14.19,1 X black with floral design tanktop/medium,Main Register,12.99
+2026-03-06 15:31:29,2026-03-06,15,3,Friday,10,427,1.0,25.99,2.4,0.0,28.39,1 X Earl Jean Jean Jacket / Size S,Main Register,25.99
+2026-03-06 15:30:42,2026-03-06,15,3,Friday,10,426,1.0,42.99,3.98,0.0,46.97,1 X DraperJames/LightPinkDress/SizeXS,Main Register,42.99
+2026-03-06 14:44:20,2026-03-06,14,3,Friday,10,425,4.0,86.96,8.04,0.0,95.0,1 X VintageSarahCovNecklace + 1 X CharlotteR/GreyBttnDwnShirt/SizeL + 1 X Ceres Green Ruffle Tie Around SS Blouse / Size M + 1 X Black Cardigan/ Size M,Main Register,21.74
+2026-03-06 14:17:56,2026-03-06,14,3,Friday,10,424,1.0,12.99,1.2,0.0,14.19,1 X TheLimited/OffWhiShirt/SizeM,Main Register,12.99
+2026-03-06 13:57:34,2026-03-06,13,3,Friday,10,423,1.0,32.99,3.05,0.0,36.04,1 X VINTAGE Stradivarius Leather Purse,Main Register,32.99
+2026-03-06 13:56:35,2026-03-06,13,3,Friday,10,422,1.0,59.99,5.55,0.0,65.54,1 X Desigual Green Skirt w Buckle / Size 38,Main Register,59.99
+2026-03-06 13:40:40,2026-03-06,13,3,Friday,10,421,1.0,15.99,1.48,0.0,17.47,1 X Unknown Knit Vest w Flowers/ Size M,Main Register,15.99
+2026-03-06 13:04:14,2026-03-06,13,3,Friday,10,420,1.0,22.99,2.13,0.0,25.12,1 X Mele e Pere,Main Register,22.99
+2026-03-06 13:02:48,2026-03-06,13,3,Friday,10,419,1.0,20.0,1.85,0.0,21.85,1 X VINTAGE Revlon Gold Compact 1960s,Main Register,20.0
+2026-03-06 13:01:08,2026-03-06,13,3,Friday,10,418,4.0,92.96,8.6,0.0,101.56,1 X swing/corset/pnk/42 + 1 X JJxs/WhiLayeredBlouse/SizeL + 1 X Just Polly/ Swirl Tee/ Multicolor/ Size XL + 1 X Lush Hot Pink Halter Dress / Size M,Main Register,23.24
+2026-03-06 12:58:10,2026-03-06,12,3,Friday,10,417,4.0,82.96,7.67,0.0,90.63,1 X Led Zeppelin Tee + 1 X UT Shorts Orange/ Size L + 1 X macaron/dressshrt/denim grn/S + 1 X No Boundaries Green Flower Cardigan/ Size M,Main Register,20.74
+2026-03-06 12:46:07,2026-03-06,12,3,Friday,10,416,2.0,72.98,6.75,0.0,79.73,1 X Jessica M Black Skirt VINTAGE / Size 5 + 1 X BrassBracelettrio,Main Register,36.49
+2026-03-06 12:17:39,2026-03-06,12,3,Friday,10,415,1.0,39.99,3.7,0.0,43.69,1 X Nick&Mo Prp&Blk Square Coat/Size XL,Main Register,39.99
+2026-03-05 16:02:00,2026-03-05,16,3,Thursday,10,414,1.0,24.99,2.31,0.0,27.3,1 X Venezia Brown Tank / Size 14,Main Register,24.99
+2026-03-05 15:37:35,2026-03-05,15,3,Thursday,10,413,4.0,132.96,12.3,0.0,145.26,1 X Zara Green Longsleeve Dress NWT / Size XS + 1 X LiuJo/PurpKnitDress/SizeS + 1 X Miss Sixty Tube Top Black Green Velvet / Size S + 1 X MissSelfridge/ Velvet Wrap Top/ Pnk/ Size S,Main Register,33.24
+2026-03-05 15:33:01,2026-03-05,15,3,Thursday,10,412,2.0,56.98,5.27,0.0,62.25,1 X Forever 21 Blue Satin Skirt / Size S + 1 X Black Jean Strapless Denim Dress / Size XS,Main Register,28.49
+2026-03-05 14:38:32,2026-03-05,14,3,Thursday,10,411,1.0,10.99,1.02,0.0,12.01,1 X unknown/hat/brgndy,Main Register,10.99
+2026-03-05 14:37:41,2026-03-05,14,3,Thursday,10,410,1.0,17.99,1.66,0.0,19.65,1 X Unknown White Slip Dress Size S,Main Register,17.99
+2026-03-04 19:55:03,2026-03-04,19,3,Wednesday,10,409,1.0,15.99,1.48,0.0,17.47,1 X Mountain Graphic Tshirt / Size S,Main Register,15.99
+2026-03-04 19:49:12,2026-03-04,19,3,Wednesday,10,408,1.0,25.99,2.4,0.0,28.39,1 X sonoma/hat/blk,Main Register,25.99
+2026-03-04 18:51:32,2026-03-04,18,3,Wednesday,10,407,1.0,18.99,1.76,0.0,20.75,1 X M&M/Strplss Dress/ Grn&Blk/ Size XL,Main Register,18.99
+2026-03-04 18:49:57,2026-03-04,18,3,Wednesday,10,406,2.0,29.98,2.77,0.0,32.75,1 X Neon Yellow See-through tshirt / Size L + 1 X JO COBodysuit_An,Main Register,14.99
+2026-03-04 17:42:54,2026-03-04,17,3,Wednesday,10,405,1.0,55.0,5.09,0.0,60.09,1 X Wire Purse,Main Register,55.0
+2026-03-04 15:36:27,2026-03-04,15,3,Wednesday,10,404,2.0,148.99,13.78,0.0,162.77,1 X Frankie&Johnny Mhgny Purse + 1 X CoachPurse_Cx,Main Register,74.5
+2026-03-04 15:25:43,2026-03-04,15,3,Wednesday,10,403,1.0,15.99,1.48,0.0,17.47,1 X Otto Baseball Hat,Main Register,15.99
+2026-03-04 15:21:13,2026-03-04,15,3,Wednesday,10,402,1.0,15.99,1.48,0.0,17.47,1 X Twine Braided Belt,Main Register,15.99
+2026-03-04 15:13:02,2026-03-04,15,3,Wednesday,10,401,2.0,46.98,4.35,0.0,51.33,1 X Apt 9 Brown Cami / Size L + 1 X Kimchi Blue Floral Halter Dress / Size S,Main Register,23.49
+2026-03-04 15:12:17,2026-03-04,15,3,Wednesday,10,400,2.0,48.98,4.53,0.0,53.51,1 X The Limited Dark Gray Dot Blazer / Size XS + 1 X Daisy Fuentes Brown Buckle Capri / Size 8,Main Register,24.49
+2026-03-04 15:10:41,2026-03-04,15,3,Wednesday,10,399,2.0,31.98,2.96,0.0,34.94,1 X Unknown Red Top/ Size S + 1 X TheSak/Grn&BlueBag,Main Register,15.99
+2026-03-04 15:08:06,2026-03-04,15,3,Wednesday,10,398,1.0,25.99,2.4,0.0,28.39,1 X Coldwater Creek Pants Orange Size 6,Main Register,25.99
+2026-03-04 13:41:12,2026-03-04,13,3,Wednesday,10,397,1.0,145.99,13.5,0.0,159.49,1 X VINTAGE Coach Legacy Tote,Main Register,145.99
+2026-03-04 12:52:04,2026-03-04,12,3,Wednesday,10,396,1.0,22.99,2.13,0.0,25.12,1 X Hooters Tank,Main Register,22.99
+2026-03-01 17:53:57,2026-03-01,17,3,Sunday,9,395,4.0,83.96,7.77,0.0,91.73,1 X delicates/nght gwn/pink/s + 1 X VanillaStar/BlackMiniSkirt/Size25 + 1 X Guess Jeans Green Tank / Size S + 1 X Adonna Slip Dress Black Size S,Main Register,20.99
+2026-03-01 17:34:20,2026-03-01,17,3,Sunday,9,394,2.0,148.99,13.78,0.0,162.77,1 X Haeof Black Long Skirt / Size S + 1 X Vintage Graphic Tunic/Black/Size M,Main Register,74.5
+2026-03-01 17:09:05,2026-03-01,17,3,Sunday,9,393,1.0,24.99,2.31,0.0,27.3,1 X EtceteraVest_Wa,Main Register,24.99
+2026-03-01 17:08:00,2026-03-01,17,3,Sunday,9,392,3.0,150.98,13.97,0.0,164.95,1 X Braided Leather Belt + 1 X Ariat/MulticolBelt/SizeM + 1 X Scully/Blk&BlueFringeJacket/SizeS,Main Register,50.33
+2026-03-01 16:54:38,2026-03-01,16,3,Sunday,9,391,1.0,12.99,1.2,0.0,14.19,1 X BR Orange Belt/Size M,Main Register,12.99
+2026-03-01 16:17:37,2026-03-01,16,3,Sunday,9,390,1.0,24.99,2.31,0.0,27.3,1 X BlankNYC Tan Suede Zip Up Jacket,Main Register,24.99
+2026-03-01 16:11:16,2026-03-01,16,3,Sunday,9,389,2.0,46.49,4.3,0.0,50.79,1 X Colleen L Brown Long Pleather Coat / Size XXXL + 1 X Dark Brown Waist Belt Silver Circle Lock,Main Register,23.25
+2026-03-01 16:08:23,2026-03-01,16,3,Sunday,9,388,1.0,175.0,16.19,0.0,191.19,1 X Desigual Blue Multicolor Coat / Size 40,Main Register,175.0
+2026-03-01 15:57:06,2026-03-01,15,3,Sunday,9,387,1.0,25.99,2.4,0.0,28.39,1 X vintage coach/purse/green,Main Register,25.99
+2026-03-01 15:56:27,2026-03-01,15,3,Sunday,9,386,2.0,174.99,16.19,0.0,191.18,1 X black long jacket + 1 X Chicos/BluePatternCard/Size3,Main Register,87.5
+2026-03-01 15:23:46,2026-03-01,15,3,Sunday,9,385,3.0,291.98,27.01,0.0,318.99,1 X CoachMiniEdiewStudsBlack + 1 X CharlotteRusse/ Halter Top/ Prple&Gry/ Size S + 1 X Tezenis Blue Brown Lace Pattern Tank / Size S,Main Register,97.33
+2026-03-01 13:02:14,2026-03-01,13,3,Sunday,9,384,2.0,37.98,3.51,0.0,41.49,1 X Forever21/ Aztec Skirt/ Blk&Pnk/ Size S + 1 X windsor/bodysuit/blk/m,Main Register,18.99
+2026-03-01 12:48:00,2026-03-01,12,3,Sunday,9,383,2.0,39.98,3.7,0.0,43.68,1 X WHBM/ Slvlss Trtlnck/ Bl&Blk/ Size S + 1 X NineWest/PnkTieDress/SizeS,Main Register,19.99
+2026-03-01 12:36:39,2026-03-01,12,3,Sunday,9,382,1.0,15.99,1.48,0.0,17.47,1 X ExpressTank Top_Ju,Main Register,15.99
+2026-03-01 12:33:20,2026-03-01,12,3,Sunday,9,381,2.0,41.98,3.88,0.0,45.86,1 X White Jean Mini w/ Metal Button/ Size L + 1 X BKE Boutique/ Knit Shawl/ Wht/ Size M,Main Register,20.99
+2026-03-01 12:32:10,2026-03-01,12,3,Sunday,9,380,1.0,35.99,3.33,0.0,39.32,1 X JouJou Brown Pleather Jacket / Size M,Main Register,35.99
+2026-03-01 12:31:41,2026-03-01,12,3,Sunday,9,379,2.0,30.98,2.87,0.0,33.85,1 X FP Beach Black Mini Skirt / Size M + 1 X unknown/belt/dark leather,Main Register,15.49
+2026-03-01 12:31:02,2026-03-01,12,3,Sunday,9,378,1.0,24.99,2.31,0.0,27.3,1 X WHBM/ Polka Top/ Bl&Blk/ Size M,Main Register,24.99
+2026-03-01 11:36:16,2026-03-01,11,3,Sunday,9,377,1.0,21.99,2.03,0.0,24.02,1 X LiseC/BluelaceCami/SizeXS,Main Register,21.99
+2026-02-28 19:35:48,2026-02-28,19,2,Saturday,9,376,1.0,30.99,2.87,0.0,33.86,1 X Cece Pink Ruffle Blouse / Size XS,Main Register,30.99
+2026-02-28 19:24:51,2026-02-28,19,2,Saturday,9,375,1.0,25.99,2.4,0.0,28.39,1 X Wrap Around Tan Skirt/Size M,Main Register,25.99
+2026-02-28 19:17:25,2026-02-28,19,2,Saturday,9,374,1.0,18.99,1.76,0.0,20.75,1 X croftandbarrow/purse/multicolor,Main Register,18.99
+2026-02-28 17:52:05,2026-02-28,17,2,Saturday,9,373,1.0,9.99,0.92,0.0,10.91,1 X BlkFauxLeatherBelt,Main Register,9.99
+2026-02-28 17:48:36,2026-02-28,17,2,Saturday,9,372,4.0,85.96,7.95,0.0,93.91,1 X Love TreeJacket_St + 1 X Cable Gauge Tan SL Embroider / Size S + 1 X Hollister Camo Pants / Size 29 + 1 X Domain Blue Jeans / Size 5,Main Register,21.49
+2026-02-28 17:45:30,2026-02-28,17,2,Saturday,9,371,1.0,10.99,1.02,0.0,12.01,1 X Christopher & Banks Beige Tank / Size L,Main Register,10.99
+2026-02-28 17:44:43,2026-02-28,17,2,Saturday,9,370,1.0,32.99,3.05,0.0,36.04,1 X VintageWhiPant/SizeS,Main Register,32.99
+2026-02-28 17:43:27,2026-02-28,17,2,Saturday,9,369,2.0,44.98,4.16,0.0,49.14,1 X CalvinK/PinkTop/SizeXL + 1 X JM Collection Green Shirt/Size 2X,Main Register,22.49
+2026-02-28 17:32:20,2026-02-28,17,2,Saturday,9,368,1.0,28.99,2.68,0.0,31.67,1 X Coach/Tan&BlkFlat/Size7,Main Register,28.99
+2026-02-28 17:17:38,2026-02-28,17,2,Saturday,9,367,1.0,19.99,1.85,0.0,21.84,1 X Pashina Green Silk Scarf,Main Register,19.99
+2026-02-28 17:16:52,2026-02-28,17,2,Saturday,9,366,1.0,32.99,3.05,0.0,36.04,1 X LCW/dess/denim/XL,Main Register,32.99
+2026-02-28 16:42:56,2026-02-28,16,2,Saturday,9,365,1.0,32.99,3.05,0.0,36.04,1 X V Cristina Embroidered Jeans / Size 8,Main Register,32.99
+2026-02-28 16:33:19,2026-02-28,16,2,Saturday,9,364,1.0,32.99,3.05,0.0,36.04,1 X Axes Brown Pleated Plaid Skirt / Size M,Main Register,32.99
+2026-02-28 15:59:59,2026-02-28,15,2,Saturday,9,363,2.0,51.98,4.81,0.0,56.79,1 X Zara/Pink&WhDress/SizeM + 1 X Mable/BrntOrangeTop/SizeS,Main Register,25.99
+2026-02-28 15:49:54,2026-02-28,15,2,Saturday,9,362,1.0,21.99,2.03,0.0,24.02,1 X FrancoS/BllLoafer/Size9,Main Register,21.99
+2026-02-28 15:40:45,2026-02-28,15,2,Saturday,9,361,1.0,24.99,2.31,0.0,27.3,1 X rue21/b tank/red/m,Main Register,24.99
+2026-02-28 15:19:57,2026-02-28,15,2,Saturday,9,360,1.0,18.99,1.76,0.0,20.75,1 X unknown/belt/pnk&brwn,Main Register,18.99
+2026-02-28 14:54:28,2026-02-28,14,2,Saturday,9,359,1.0,45.0,4.16,0.0,49.16,1 X Dooney & B Small Navy Blue Wristlet Tan Strap,Main Register,45.0
+2026-02-28 14:22:07,2026-02-28,14,2,Saturday,9,358,1.0,28.99,2.68,0.0,31.67,1 X Purple Flowers Bustier White Mesh / Size XXL,Main Register,28.99
+2026-02-28 14:15:47,2026-02-28,14,2,Saturday,9,357,3.0,54.97,5.08,0.0,60.05,1 X PepperMayoNWT/Jean Halter/Size M + 1 X urbn/crp tp/rd/sp + 1 X GreyCrochetTankTop/SizeS,Main Register,18.32
+2026-02-28 14:14:29,2026-02-28,14,2,Saturday,9,356,2.0,44.98,4.16,0.0,49.14,1 X BishopY/PinkSleevlessBlouse/SizeS + 1 X Lauren Conrad Black Uni Top/Size M,Main Register,22.49
+2026-02-28 14:01:46,2026-02-28,14,2,Saturday,9,355,1.0,24.99,2.31,0.0,27.3,1 X MilkXH/LemonBttnDwnTop/SizeXL,Main Register,24.99
+2026-02-28 13:49:22,2026-02-28,13,2,Saturday,9,354,1.0,59.99,5.55,0.0,65.54,1 X Cali 1850 Bluejeans Size 6,Main Register,59.99
+2026-02-28 13:18:18,2026-02-28,13,2,Saturday,9,353,2.0,78.98,7.31,0.0,86.29,1 X NWT Lady Black Tie Blush Pink Dress / Size 14 + 1 X WHBM/Blk&whiKnit/SizeM,Main Register,39.49
+2026-02-28 13:05:28,2026-02-28,13,2,Saturday,9,352,2.0,34.98,3.24,0.0,38.22,1 X White Embroidered Tank w Tassel / Size S + 1 X Sugar Moon/Swe/Beige Floral/S,Main Register,17.49
+2026-02-28 13:03:32,2026-02-28,13,2,Saturday,9,351,1.0,28.99,2.68,0.0,31.67,1 X ventilo la colline/bls/prp/8,Main Register,28.99
+2026-02-28 12:50:34,2026-02-28,12,2,Saturday,9,350,1.0,24.99,2.31,0.0,27.3,1 X Harve B & W Jacket / Size 12,Main Register,24.99
+2026-02-28 12:04:07,2026-02-28,12,2,Saturday,9,349,1.0,28.99,2.68,0.0,31.67,1 X Heart Soul Pink Ruffle Tank / Size M,Main Register,28.99
+2026-02-28 11:59:47,2026-02-28,11,2,Saturday,9,348,3.0,66.97,6.19,0.0,73.16,1 X D&Y/hat/plad + 1 X Timeson NWT White Pink Floral QS + 1 X PerUna/MulticolBttnDwn/Size10,Main Register,22.32
+2026-02-28 11:55:04,2026-02-28,11,2,Saturday,9,347,1.0,25.99,2.4,0.0,28.39,1 X and Andrea Off White Top/Real Size XXL,Main Register,25.99
+2026-02-28 11:54:07,2026-02-28,11,2,Saturday,9,346,6.0,150.94,13.96,0.0,164.9,1 X LushNWT/Navy&RedBlouse/SizeS + 1 X AFRM Black Sheer Floral SS / Size XS + 1 X Zara/ Tie Top/ Blk/ Size XS + 1 X Zara Hot Pink Sweater / Size S + 1 X Coincidence & C Black Sweater Pink Flw / Size S + 1 X Zara Tr Black Plaid ShortSleeve / Size S,Main Register,25.16
+2026-02-28 11:20:49,2026-02-28,11,2,Saturday,9,345,2.0,60.98,5.64,0.0,66.62,1 X Etc Gray Skirt Pink Beading / Size 4 + 1 X Loft Pink Shortsleeve Shirt / Size XS,Main Register,30.49
+2026-02-27 19:12:16,2026-02-27,19,2,Friday,9,344,4.0,98.96,9.15,0.0,108.11,1 X Das Beste Pink Sweater / Size M + 1 X Iris Pink Satin Embroidered Jacket / Size L + 1 X BananaRepublic Blk Coat/Size M + 1 X AlexMarie/BlkHeeledFlats/Size9M,Main Register,24.74
+2026-02-27 18:17:57,2026-02-27,18,2,Friday,9,343,1.0,31.99,2.96,0.0,34.95,1 X Adam Levine Faux Leather Floral Jacket / Size S,Main Register,31.99
+2026-02-27 18:02:52,2026-02-27,18,2,Friday,9,342,1.0,8.99,0.83,0.0,9.82,1 X Wild Honey Black Pleather Crop Top / Size M,Main Register,8.99
+2026-02-27 16:03:23,2026-02-27,16,2,Friday,9,341,1.0,10.0,0.93,0.0,10.93,1 X Tony Lama Leather Brown Stitch Belt,Main Register,10.0
+2026-02-27 15:36:56,2026-02-27,15,2,Friday,9,340,1.0,35.99,3.33,0.0,39.32,1 X LTDL/Pink&prpSweater/SizeS,Main Register,35.99
+2026-02-27 14:37:14,2026-02-27,14,2,Friday,9,339,1.0,44.99,4.16,0.0,49.15,1 X Polo US Open Sweatshirt / Size XL,Main Register,44.99
+2026-02-27 14:36:26,2026-02-27,14,2,Friday,9,338,1.0,15.99,1.48,0.0,17.47,1 X unknown/belt/silver metal,Main Register,15.99
+2026-02-27 14:34:29,2026-02-27,14,2,Friday,9,337,5.0,158.95,14.7,0.0,173.65,1 X lovetreedenim/top/dnm/s + 1 X Susie Collection Black Bellsleeve / Size L + 1 X Madwell Skinny Jean/Size 4 + 1 X Baby Pink Cowgirl Boots / Size 9 + 1 X Trench Italian Boot Blk/Size 7,Main Register,31.79
+2026-02-26 18:55:26,2026-02-26,18,2,Thursday,9,336,1.0,24.99,2.31,0.0,27.3,1 X 10003884,Main Register,24.99
+2026-02-26 18:48:28,2026-02-26,18,2,Thursday,9,335,1.0,13.99,1.29,0.0,15.28,1 X Ambrose/LeatherAnkleBoots/Size8,Main Register,13.99
+2026-02-26 18:06:38,2026-02-26,18,2,Thursday,9,334,1.0,19.99,1.85,0.0,21.84,1 X BDG Pink Cords Size 4,Main Register,19.99
+2026-02-26 14:43:53,2026-02-26,14,2,Thursday,9,333,7.0,156.93,14.52,0.0,171.45,1 X H & M Black Crop Top SL White Embroidery / Size S + 1 X Fox Brand Belt Black + 1 X Hanes (collector item)Tee Shirt_Za + 1 X Intimissimi Black Cami w Lace / Size S + 1 X Adora Tie Top Black/Size M + 1 X Lila & Sophie NWT Black Pants w Sequins/Size 4 + 1 X Black Tank / Size M,Main Register,22.42
+2026-02-26 14:37:43,2026-02-26,14,2,Thursday,9,332,1.0,32.99,3.05,0.0,36.04,1 X Petal & Pup Red Dress,Main Register,32.99
+2026-02-26 14:18:11,2026-02-26,14,2,Thursday,9,4,2.0,77.98,7.21,0.0,85.19,1 X Another Label Orange & Black Jacket / Size S + 1 X Joe's Bluejeans Size S,POS 2,38.99
+2026-02-25 14:04:19,2026-02-25,14,2,Wednesday,9,331,3.0,90.97,8.41,0.0,99.38,1 X Black floral shirt + 1 X Vince camuto + 1 X Yang Pao Pao Black Pants w Birds / Size M,Main Register,30.32
+2026-02-25 13:59:36,2026-02-25,13,2,Wednesday,9,330,2.0,36.98,3.42,0.0,40.4,1 X Sweater + 1 X 10005204,Main Register,18.49
+2026-02-22 16:59:59,2026-02-22,16,2,Sunday,8,329,3.0,55.97,5.18,0.0,61.15,1 X VintageCrossR/RedStripedShirt/SizeXL + 1 X Silver Circlet Waistbelt + 1 X Cream Lace Scarf OS,Main Register,18.66
+2026-02-22 16:46:39,2026-02-22,16,2,Sunday,8,328,1.0,15.99,1.48,0.0,17.47,1 X UniThread/BlackOverall/Size6,Main Register,15.99
+2026-02-22 14:49:02,2026-02-22,14,2,Sunday,8,327,1.0,28.99,2.68,0.0,31.67,1 X NWTMM/Pink&OrangeTop/SizeS,Main Register,28.99
+2026-02-22 13:10:25,2026-02-22,13,2,Sunday,8,326,1.0,25.99,2.4,0.0,28.39,1 X Betsy Johnson Burgundy Crochet Dress / Size M,Main Register,25.99
+2026-02-22 13:08:55,2026-02-22,13,2,Sunday,8,325,1.0,12.99,1.2,0.0,14.19,1 X Rumwe Brown Tank W Pink Butterflies/Size S,Main Register,12.99
+2026-02-22 13:04:38,2026-02-22,13,2,Sunday,8,324,3.0,41.97,3.88,0.0,45.85,1 X Wallflower Vintage Collection/swtr/bei blk/m + 1 X Banana Republic Snake Print Tank Brown/Size XS + 1 X Abercrombie Floral Tube Top / Size XS,Main Register,13.99
+2026-02-21 19:46:57,2026-02-21,19,2,Saturday,8,323,2.0,113.98,10.54,0.0,124.52,1 X NWT Red Multicolor Dress / Size M + 1 X Loft Black & White Stripe Dress NWT / Size 00,Main Register,56.99
+2026-02-21 19:39:44,2026-02-21,19,2,Saturday,8,322,1.0,13.99,1.29,5.997,15.28,1 X ExpressSweater_Im,Main Register,13.99
+2026-02-21 19:27:20,2026-02-21,19,2,Saturday,8,321,1.0,45.99,4.25,0.0,50.24,1 X Brahman Brown Leather Purse,Main Register,45.99
+2026-02-21 18:52:09,2026-02-21,18,2,Saturday,8,320,1.0,24.99,2.31,0.0,27.3,1 X Lands End Cardigan Sweater Gray/Size M,Main Register,24.99
+2026-02-21 18:06:46,2026-02-21,18,2,Saturday,8,319,2.0,70.98,6.57,0.0,77.55,1 X Silver shirt + 1 X Escada Pants Black XS,Main Register,35.49
+2026-02-21 17:50:16,2026-02-21,17,2,Saturday,8,318,1.0,14.99,1.39,0.0,16.38,1 X unknown/belt/leather,Main Register,14.99
+2026-02-21 17:08:25,2026-02-21,17,2,Saturday,8,317,1.0,24.99,2.31,0.0,27.3,1 X Coach/PinkPurse,Main Register,24.99
+2026-02-21 16:26:38,2026-02-21,16,2,Saturday,8,316,4.0,77.96,7.21,0.0,85.17,1 X Commense/GreenWrapTop/SizeS + 1 X Abercrombie&Finch/ Floral Top/ Size XXS + 1 X PrettyLittleThing/TanLaceDress/Size4 + 1 X ZION Gry Marley Tee/Size XS,Main Register,19.49
+2026-02-21 16:20:54,2026-02-21,16,2,Saturday,8,315,1.0,22.99,2.13,0.0,25.12,1 X Alfani/Blue&BlkDress/SizeXXL,Main Register,22.99
+2026-02-21 16:14:56,2026-02-21,16,2,Saturday,8,314,1.0,7.99,0.74,0.0,8.73,1 X Harding-Lane Kids Pink Cherry BBall Hat,Main Register,7.99
+2026-02-21 16:10:00,2026-02-21,16,2,Saturday,8,313,1.0,24.99,2.31,0.0,27.3,1 X Juicy C White SS Dress / Size 4,Main Register,24.99
+2026-02-21 16:02:16,2026-02-21,16,2,Saturday,8,312,1.0,15.99,1.48,0.0,17.47,1 X Blue Pink Beaded Baseball Cap,Main Register,15.99
+2026-02-21 15:58:32,2026-02-21,15,2,Saturday,8,311,1.0,16.09,1.49,6.897,17.58,1 X Billabong Burgundy Fuzzy Sweater / Size M,Main Register,16.09
+2026-02-21 15:56:22,2026-02-21,15,2,Saturday,8,310,1.0,27.99,2.59,0.0,30.58,1 X IN MULTI,Main Register,27.99
+2026-02-21 14:45:35,2026-02-21,14,2,Saturday,8,309,5.0,126.95,11.74,0.0,138.69,1 X Rima Multi Color Pattern Coverup / Size S + 1 X Talbots/ Scallop Pant/ Rd&Wht/ Size 6 + 1 X christian siriano/swtr/red/s + 1 X Cabi Jean Skirt / Size 4 + 1 X Saks shirt red,Main Register,25.39
+2026-02-21 14:35:43,2026-02-21,14,2,Saturday,8,308,3.0,93.97,8.69,0.0,102.66,1 X WHBM Burgundy Velvet Pants / Size 4 + 1 X VINTAGE Blk&Gld Night Slip/Size M + 1 X Unknown Tan and Red Sheer Dress / Size M,Main Register,31.32
+2026-02-21 13:53:16,2026-02-21,13,2,Saturday,8,307,4.0,87.96,8.14,0.0,96.1,1 X Jaclyn Smith Black Dressy Tank w Metal Cuff / Size L + 1 X Lily Brown SS Top / Size L + 1 X AmericanEagle/ Knit Sweater/ Pnk&Orng/ Size M + 1 X silver and blue bracelet,Main Register,21.99
+2026-02-21 13:38:34,2026-02-21,13,2,Saturday,8,306,2.0,45.98,4.25,0.0,50.23,1 X polo/pullover/grey/m + 1 X Cotton EmporiumCardigan_Lu,Main Register,22.99
+2026-02-21 13:35:15,2026-02-21,13,2,Saturday,8,305,1.0,22.99,2.13,0.0,25.12,1 X Bebe/BlkBlouse/SizeS,Main Register,22.99
+2026-02-21 13:31:55,2026-02-21,13,2,Saturday,8,304,2.0,48.98,4.53,0.0,53.51,1 X Chicos/JeanJacket/Size L + 1 X Black Belt Stitch Design,Main Register,24.49
+2026-02-21 13:30:18,2026-02-21,13,2,Saturday,8,303,2.0,44.98,4.16,0.0,49.14,1 X Harley DavidsonTee Shirt_Hdah + 1 X Kori/MulticolBlouse/SizeS,Main Register,22.49
+2026-02-21 13:29:27,2026-02-21,13,2,Saturday,8,302,3.0,62.97,5.82,0.0,68.79,1 X AnnTaylor/Pink&WhiLaceTop/Size10 + 1 X TheLimited/BlackLowbackTop/SizeM + 1 X AnnTLoft/Yellow&GrnTop/SizeMP,Main Register,20.99
+2026-02-21 13:28:06,2026-02-21,13,2,Saturday,8,301,8.0,470.94,43.56,0.0,514.5,1 X Bronze Square-Toe Boot/Size 9 + 1 X Jessica Simpson + 1 X Blush Lavender Lingerie Romper / Size L + 1 X G Dresses Tan Long Sweater Feather / Size S + 1 X Romeo & Juliet Top Red and Black + 1 X Desigual Blue White Longcoat / Size 36 + 1 X Black Leather w gold bullet stud belt_Un + 1 X PLL/WhiteShellBlouse/Size8,Main Register,58.87
+2026-02-21 13:13:40,2026-02-21,13,2,Saturday,8,300,1.0,85.0,7.86,0.0,92.86,1 X CoachPurse_Cy,Main Register,85.0
+2026-02-21 12:54:17,2026-02-21,12,2,Saturday,8,299,1.0,21.99,2.03,0.0,24.02,1 X De Mi Loov Cherry Tank / Size M,Main Register,21.99
+2026-02-21 12:48:29,2026-02-21,12,2,Saturday,8,298,1.0,14.99,1.39,0.0,16.38,1 X UrbanOutfitters Grn Skirt/Size L,Main Register,14.99
+2026-02-21 12:42:56,2026-02-21,12,2,Saturday,8,297,1.0,15.0,1.39,0.0,16.39,1 X Unknown Belt,Main Register,15.0
+2026-02-21 12:27:43,2026-02-21,12,2,Saturday,8,296,2.0,35.98,3.33,0.0,39.31,1 X Trillium Slip Dress Black Size 6 + 1 X BlackLoopTieBelt,Main Register,17.99
+2026-02-21 11:25:32,2026-02-21,11,2,Saturday,8,295,-1.0,-28.98,-2.68,0.0,-31.66,1 X Discount + -1 X 10003992 + -1 X charlotte russe/tank/grn/xs,Main Register,28.98
+2026-02-21 11:24:12,2026-02-21,11,2,Saturday,8,294,1.0,85.0,7.86,0.0,92.86,1 X Downey purse,Main Register,85.0
+2026-02-20 19:17:44,2026-02-20,19,2,Friday,8,293,1.0,28.98,2.68,0.0,31.66,1 X charlotte russe/tank/grn/xs + 1 X 10003992 + -1 X Discount,Main Register,28.98
+2026-02-20 19:02:34,2026-02-20,19,2,Friday,8,292,-1.0,-29.99,-2.77,0.0,-32.76,-1 X Cupcakes and CashmereJacket_GA,Main Register,29.99
+2026-02-20 18:31:57,2026-02-20,18,2,Friday,8,291,1.0,29.99,2.77,0.0,32.76,1 X Cupcakes and CashmereJacket_GA,Main Register,29.99
+2026-02-20 18:31:04,2026-02-20,18,2,Friday,8,290,3.0,87.97,8.14,0.0,96.11,1 X UGG Neck Warmer + 1 X Ann Taylor Black Leather Skirt / Size 8 + 1 X VINTAGE White Sequin Skirt / Size M,Main Register,29.32
+2026-02-20 17:45:26,2026-02-20,17,2,Friday,8,289,1.0,59.99,5.55,0.0,65.54,1 X Coach Yllw Houndstooth Handbag,Main Register,59.99
+2026-02-20 17:04:41,2026-02-20,17,2,Friday,8,288,1.0,12.99,1.2,0.0,14.19,1 X Zara/ SqrNck Crop/ Camel/ Size L,Main Register,12.99
+2026-02-20 14:07:30,2026-02-20,14,2,Friday,8,287,2.0,29.98,2.77,0.0,32.75,1 X White Crow/ Knot Back/ RdOrng/ Size M + 1 X VictoriaS/BlkcroppedTop/SizeM,Main Register,14.99
+2026-02-20 14:03:11,2026-02-20,14,2,Friday,8,286,1.0,23.99,2.22,0.0,26.21,1 X Mudd Cheetah Brown Skirt / Size 11,Main Register,23.99
+2026-02-20 13:13:16,2026-02-20,13,2,Friday,8,285,2.0,82.99,7.68,0.0,90.67,1 X Gap Black Leather Brass Belt / Size M + 1 X Coach Dark Brown Purse Tan Strap,Main Register,41.49
+2026-02-20 13:09:39,2026-02-20,13,2,Friday,8,284,1.0,13.99,1.29,5.997,15.28,1 X Moon X MadisonSweater_Dr,Main Register,13.99
+2026-02-20 12:58:13,2026-02-20,12,2,Friday,8,283,3.0,70.97,6.56,0.0,77.53,"1 X Woven Heart Shawl Black and Floral/Size OS + 1 X Tina Stephens Green Knit/Size L + 1 X Metropolitan Multi Color Red, Blk/Size OS",Main Register,23.66
+2026-02-20 12:49:10,2026-02-20,12,2,Friday,8,282,2.0,64.98,6.01,0.0,70.99,1 X THML Black & Orange Blouse / Size S + 1 X allsaints/bls/blk/s,Main Register,32.49
+2026-02-20 12:19:50,2026-02-20,12,2,Friday,8,281,5.0,131.95,12.21,0.0,144.16,1 X Calvin Klein Black Dress / Size 12 + 1 X Lace Red Rose Corset/Size L + 1 X Alberto Makali Lace Top Black Size M + 1 X Cara Santana Black Velvet Blazer / Size L + 1 X Chinese Laundry Red Pumps/Size 1/2,Main Register,26.39
+2026-02-19 19:11:35,2026-02-19,19,2,Thursday,8,280,1.0,24.99,2.31,0.0,27.3,1 X Cache Gray Pants Tan Stitch / Size 0,Main Register,24.99
+2026-02-19 19:10:03,2026-02-19,19,2,Thursday,8,279,4.0,99.46,9.2,7.497,108.66,1 X Sheer Orange Snakeskin LS / Size L + 1 X Bobbi Brooks Gray Knit SS / Size L + 1 X Nic ZoeCardigan_Za + 1 X Giorgio red shirt,Main Register,24.86
+2026-02-19 18:43:03,2026-02-19,18,2,Thursday,8,278,1.0,12.99,1.2,0.0,14.19,1 X Atamet Black Fringe Vest / Size XL,Main Register,12.99
+2026-02-19 18:04:49,2026-02-19,18,2,Thursday,8,277,1.0,84.99,7.86,0.0,92.85,1 X Ariat Brown and Pink Cowgirl Boots / Size 9,Main Register,84.99
+2026-02-19 16:33:15,2026-02-19,16,2,Thursday,8,276,1.0,18.19,1.68,7.797,19.87,1 X talbots/sweater/multi purp/sp,Main Register,18.19
+2026-02-19 15:27:59,2026-02-19,15,2,Thursday,8,275,2.0,38.98,3.61,0.0,42.59,1 X Rachel Zoe Orange Satin Tank / Size M + 1 X DialogueCoat_Ar,Main Register,19.49
+2026-02-19 14:32:21,2026-02-19,14,2,Thursday,8,274,2.0,44.98,4.16,0.0,49.14,1 X TribeAzure/ Patchwork Pantsuit/Dress/ Size S + 1 X Nine/Yllw Flower HndBag,Main Register,22.49
+2026-02-19 14:06:31,2026-02-19,14,2,Thursday,8,273,1.0,45.99,4.25,0.0,50.24,1 X Coach Audrey Tote Seafoam Green,Main Register,45.99
+2026-02-18 14:44:07,2026-02-18,14,2,Wednesday,8,272,1.0,15.99,1.48,0.0,17.47,1 X nocona/belt/fur,Main Register,15.99
+2026-02-18 14:17:15,2026-02-18,14,2,Wednesday,8,271,0.0,445.0,41.16,0.0,486.16,1 X coach/bridget/blk + -1 X Discount,Main Register,
+2026-02-18 12:38:10,2026-02-18,12,2,Wednesday,8,270,1.0,162.99,15.08,0.0,178.07,1 X Coach Black C Hole Design + 1 X Pink Coach Crossbody + -1 X Discount,Main Register,162.99
+2026-02-17 21:05:50,2026-02-17,21,2,Tuesday,8,269,0.0,-25.99,-2.4,0.0,-28.39,,Main Register,
+2026-02-17 19:42:19,2026-02-17,19,2,Tuesday,8,268,2.0,43.48,4.02,7.497,47.5,1 X Sincerely Jules Gray Sweater / Size L + 1 X Missguided White Halter Romper Blue Emb / Size 6,Main Register,21.74
+2026-02-17 18:25:18,2026-02-17,18,2,Tuesday,8,267,1.0,35.99,3.33,0.0,39.32,1 X CoteFemme/Grey&PinkDress/Size10,Main Register,35.99
+2026-02-17 18:14:26,2026-02-17,18,2,Tuesday,8,266,1.0,24.99,2.31,0.0,27.3,1 X Stradivarius Pale Pink LS / Size M,Main Register,24.99
+2026-02-17 18:12:18,2026-02-17,18,2,Tuesday,8,265,1.0,17.99,1.66,0.0,19.65,1 X Rock w Black Strap Bracelet,Main Register,17.99
+2026-02-17 18:11:21,2026-02-17,18,2,Tuesday,8,264,-1.0,-8.5,-0.79,0.0,-9.29,-1 X Rose Pink Half Circle Earrings,Main Register,8.5
+2026-02-17 13:59:13,2026-02-17,13,2,Tuesday,8,263,1.0,30.98,2.87,0.0,33.85,1 X Zara Knit Navy Blue & White Hoodie / Size M + 1 X unknownSS Top_No + -1 X Discount,Main Register,30.98
+2026-02-15 16:47:00,2026-02-15,16,2,Sunday,7,262,2.0,31.98,2.96,0.0,34.94,1 X Molly Green Bodysuit/Black Floral Multi/M + 1 X StudioYCamisole,Main Register,15.99
+2026-02-15 15:09:54,2026-02-15,15,2,Sunday,7,261,2.0,64.89,6.0,0.0,70.89,1 X Amber Wood Accent Heel Boot/Size 7 + 1 X Joie Jacket Black & Beige Size XS,Main Register,32.45
+2026-02-15 14:45:10,2026-02-15,14,2,Sunday,7,260,1.0,25.99,2.4,0.0,28.39,1 X Intimately/BlkDress/SizeS,Main Register,25.99
+2026-02-15 14:44:06,2026-02-15,14,2,Sunday,7,259,1.0,25.99,2.4,0.0,28.39,1 X LuluTownS/GoldPurse,Main Register,25.99
+2026-02-14 18:28:07,2026-02-14,18,2,Saturday,7,258,2.0,41.98,3.88,0.0,45.86,1 X Pink Patterned Sheer Cover / Size L + 1 X Brighton Silver Bracelet,Main Register,20.99
+2026-02-14 17:34:56,2026-02-14,17,2,Saturday,7,257,5.0,145.95,13.5,0.0,159.45,1 X Beige Hooded Sweater / Size S + 1 X BananaR/Yellow&CrmButtonDwn/SizeM + 1 X Body Central Red LS / Size M + 1 X NWT loft/sweater/blk/s + 1 X Altarxd StateSwter_Alt,Main Register,29.19
+2026-02-14 17:29:19,2026-02-14,17,2,Saturday,7,256,5.0,117.95,10.91,0.0,128.86,1 X Vera Bradley Pink/Coral Floral Purse + 1 X ColdwaterCreek/ Slvss Top/ Green/ Size XL + 1 X Duo/Blk&BurgFlowerTop/Size38 + 1 X banana republic/swtr/gry/L + 1 X Pnk/Prp Satin Top/Size S,Main Register,23.59
+2026-02-14 16:18:22,2026-02-14,16,2,Saturday,7,255,-3.0,-108.98,-10.08,0.0,-119.06,-1 X Discount + -1 X 123Sweater_Bi + -1 X Unknown Brand Made in Italy Leather Purse,Main Register,36.33
+2026-02-14 15:47:28,2026-02-14,15,2,Saturday,7,254,1.0,108.98,10.08,0.0,119.06,1 X Unknown Brand Made in Italy Leather Purse + 1 X 123Sweater_Bi + -1 X Discount,Main Register,108.98
+2026-02-14 15:15:00,2026-02-14,15,2,Saturday,7,253,1.0,16.99,1.57,0.0,18.56,1 X 7 FAMK Black Sleeveless / Size S,Main Register,16.99
+2026-02-14 15:12:00,2026-02-14,15,2,Saturday,7,252,1.0,25.99,2.4,0.0,28.39,1 X J Crew Beige LS Wrap Around / Size XXS,Main Register,25.99
+2026-02-14 15:08:44,2026-02-14,15,2,Saturday,7,251,1.0,32.99,3.05,0.0,36.04,1 X Justin Boots / Size 6,Main Register,32.99
+2026-02-14 15:07:11,2026-02-14,15,2,Saturday,7,250,2.0,62.98,5.83,0.0,68.81,1 X AT Loft Green Multi Color Dress / Size 4 + 1 X Urban Outfitters/ Multi Color Print/Size SP,Main Register,31.49
+2026-02-14 14:45:15,2026-02-14,14,2,Saturday,7,249,0.0,33.99,3.14,0.0,37.13,1 X CopperKey/BlackStrapHeels/Size8 + -1 X Discount,Main Register,
+2026-02-14 14:44:20,2026-02-14,14,2,Saturday,7,248,1.0,51.98,4.81,0.0,56.79,1 X Emerson Lang Blue Jean Vest / Size XL + 1 X Cole Haan Brown Strap Shoes Size 10 + -1 X Discount,Main Register,51.98
+2026-02-14 14:38:35,2026-02-14,14,2,Saturday,7,247,0.0,18.99,1.76,0.0,20.75,1 X TommyH/Grey&Red/SizeM + -1 X Discount,Main Register,
+2026-02-14 14:27:43,2026-02-14,14,2,Saturday,7,246,0.0,62.99,5.83,0.0,68.82,1 X VintageCristina/YellowFlowerDress/SizeM + -1 X Discount,Main Register,
+2026-02-14 14:20:37,2026-02-14,14,2,Saturday,7,245,0.0,52.99,4.9,0.0,57.89,1 X unknown/vest/blk fur/L + -1 X Discount,Main Register,
+2026-02-14 13:58:49,2026-02-14,13,2,Saturday,7,244,1.0,76.98,7.12,0.0,84.1,1 X Anthro NWT Black Lace Longsleeve / Size S + 1 X HarleyDbStitch Longsleeve/Size S + -1 X Discount,Main Register,76.98
+2026-02-14 13:47:28,2026-02-14,13,2,Saturday,7,243,1.0,13.99,1.29,0.0,15.28,1 X J Crew Blue Polka Dot Tank / Size S,Main Register,13.99
+2026-02-14 13:24:17,2026-02-14,13,2,Saturday,7,242,1.0,39.98,3.7,0.0,43.68,1 X QUE/ Jewled Tank/ Grn/ Size M + 1 X Orange Kiss Sweatshirt Grey Size XL + -1 X Discount,Main Register,39.98
+2026-02-14 13:16:15,2026-02-14,13,2,Saturday,7,241,1.0,35.99,3.33,0.0,39.32,1 X PrestonxYork Tassel Bag,Main Register,35.99
+2026-02-14 13:08:13,2026-02-14,13,2,Saturday,7,240,2.0,69.98,6.47,0.0,76.45,1 X OscarDR/PinkDress/SizeS + 1 X Zara Black Satin Slip Dress / Size S,Main Register,34.99
+2026-02-14 12:52:44,2026-02-14,12,2,Saturday,7,239,0.0,22.99,2.13,0.0,25.12,1 X Bejeweled Braided Belt + -1 X Discount,Main Register,
+2026-02-14 12:38:47,2026-02-14,12,2,Saturday,7,238,2.0,224.99,20.81,0.0,245.8,1 X LouisVuitton Teal Coat/ Size 6 + 1 X SavStudio/BllBeadedTop/SizeS,Main Register,112.5
+2026-02-14 12:37:40,2026-02-14,12,2,Saturday,7,237,1.0,32.99,3.05,0.0,36.04,1 X Maji Mitty Black Shorts Jumper/Size L,Main Register,32.99
+2026-02-14 12:27:01,2026-02-14,12,2,Saturday,7,236,1.0,18.99,1.76,0.0,20.75,1 X LRL Red SS Boatneck / Size M,Main Register,18.99
+2026-02-14 12:25:52,2026-02-14,12,2,Saturday,7,235,1.0,32.99,3.05,0.0,36.04,1 X VINTAGE Leopard Collar Jacket/Size L,Main Register,32.99
+2026-02-14 12:20:56,2026-02-14,12,2,Saturday,7,234,1.0,22.99,2.13,0.0,25.12,1 X M Fasis Black Lace Pattern SL / Size S,Main Register,22.99
+2026-02-14 12:03:32,2026-02-14,12,2,Saturday,7,233,1.0,79.99,7.4,0.0,87.39,1 X DesigirlCoat_Co,Main Register,79.99
+2026-02-14 11:56:32,2026-02-14,11,2,Saturday,7,232,3.0,87.97,8.14,0.0,96.11,1 X Designal/StripePatternSkirt/SizeL + 1 X Time and Tru Skirt Green and Beige Size 14 + 1 X think tank/skirt/blk flr/12,Main Register,29.32
+2026-02-14 11:37:59,2026-02-14,11,2,Saturday,7,231,3.0,90.97,8.41,0.0,99.38,1 X Sioni MilanoSweater_K + 1 X LaFabbricaDelLino/BlkBlDress/Size S + 1 X Sympli Button Down/Blk/Size M,Main Register,30.32
+2026-02-13 19:05:29,2026-02-13,19,2,Friday,7,230,2.0,68.98,6.38,0.0,75.36,1 X &merci/swtr/pnk/m + 1 X WHBM Burgundy Velvet Dress / Size 0,Main Register,34.49
+2026-02-13 18:55:31,2026-02-13,18,2,Friday,7,229,1.0,27.99,2.59,0.0,30.58,1 X Lauren Ralph LaurenSweater_NK,Main Register,27.99
+2026-02-13 18:53:03,2026-02-13,18,2,Friday,7,228,1.0,28.99,2.68,0.0,31.67,1 X BCBGmaxazria/ Halter Dress/ Bl&Brn/ Size XS,Main Register,28.99
+2026-02-13 18:47:35,2026-02-13,18,2,Friday,7,227,1.0,24.99,2.31,0.0,27.3,1 X PinkTassledLongsleeve/SizeS,Main Register,24.99
+2026-02-13 18:46:08,2026-02-13,18,2,Friday,7,226,1.0,15.99,1.48,0.0,17.47,1 X Blue Green Multicolor Shortsleeve / Size S,Main Register,15.99
+2026-02-13 18:37:18,2026-02-13,18,2,Friday,7,225,0.0,12.99,1.2,0.0,14.19,1 X Pressbox Orange TN Tshirt / Size S + -1 X Discount,Main Register,
+2026-02-13 18:34:22,2026-02-13,18,2,Friday,7,224,1.0,12.99,1.2,0.0,14.19,1 X Black Fashion Hat w/ Buckle,Main Register,12.99
