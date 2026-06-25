@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
 Knoxville Vintage Clothing Store — Data Cleaning & Analysis Pipeline
-Period: February 13 – May 24, 2026
 """
 
 import sys
@@ -14,61 +13,145 @@ sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 # ─── PATHS ──────────────────────────────────────────────────────────────────
-BASE = Path(r"c:\Users\tasia\Downloads\updated cv analysis")
+BASE = Path(__file__).parent
 DATA = BASE / "data"
 OUT  = BASE / "output"
 for sub in ("cleaned", "analysis", "tableau"):
     (OUT / sub).mkdir(parents=True, exist_ok=True)
 
 # ─── BRAND CORRECTION MAP ───────────────────────────────────────────────────
-# Keys are lowercased brand_name values found in raw data
+# Keys are lowercased brand names AFTER preprocessing (NWT strip, X→&, xs→'s).
 BRAND_FIX = {
-    "altarxd state":        "Altar'd State",
-    "altarxd state nwt":    "Altar'd State",
-    "7 for all mandkind":   "7 For All Mankind",
-    "7 famk":               "7 For All Mankind",
-    "7 fam":                "7 For All Mankind",
-    "32 degreees":          "32 Degrees",
-    "iaxnue ligne":         "A'nye Ligne",
-    "abercombie":           "Abercrombie & Fitch",
-    "abercrombie x fitch":  "Abercrombie & Fitch",
-    "abercrombie&finch":    "Abercrombie & Fitch",
-    "abercrombie":          "Abercrombie & Fitch",
-    "levi strauss x co":    "Levi Strauss & Co",
-    "89th x madison":       "89th & Madison",
-    "ann klein":            "Anne Klein",
-    "absolutely":           "ABSOLIUTELY",
-    "&merci":               "&Merci",
-    "ac dc":                "AC/DC",
-    "bcbgmaxazria":         "BCBG Maxazria",
-    "bcbg maxazria":        "BCBG Maxazria",
-    "1 state":              "1. State",
-    "ann taylor loft":      "Ann Taylor LOFT",
-    "ataylot loft":         "Ann Taylor LOFT",
-    "atloft":               "Ann Taylor LOFT",
-    "unknown":              "Unknown",
-    "2to-ky":               "2to-Ky",
+    # ── Numbers / symbols ──────────────────────────────────────────
+    "7 for all mandkind":           "7 For All Mankind",
+    "7 famk":                       "7 For All Mankind",
+    "7 fam":                        "7 For All Mankind",
+    "32 degreees":                  "32 Degrees",
+    "1 state":                      "1. State",
+    "2to-ky":                       "2to-Ky",
+    "&merci":                       "&Merci",
+    "ac dc":                        "AC/DC",
+
+    # ── A ──────────────────────────────────────────────────────────
+    "abercombie":                   "Abercrombie & Fitch",
+    "abercrombie & fitch":          "Abercrombie & Fitch",
+    "abercrombie&finch":            "Abercrombie & Fitch",
+    "abercrombie":                  "Abercrombie & Fitch",
+    "adrienne vittadin":            "Adrienne Vittadini",
+    "absolutely":                   "ABSOLIUTELY",
+    "ana sui":                      "Anna Sui",
+    "ann klein":                    "Anne Klein",
+    "ann taylor loft":              "Ann Taylor LOFT",
+    "ataylot loft":                 "Ann Taylor LOFT",
+    "atloft":                       "Ann Taylor LOFT",
+    "altar'd state":                "Altar'd State",   # post-preprocessing form
+
+    # ── B ──────────────────────────────────────────────────────────
+    "b darlin":                     "B. Darlin",
+    "bandolino":                    "Bandolino",
+    "brandolino":                   "Bandolino",       # misspelling
+    "bcbgmaxazria":                 "BCBG Maxazria",
+    "bcbg maxazria":                "BCBG Maxazria",
+    "bcbg generations":             "BCBGeneration",
+    "bcbgeneration":                "BCBGeneration",
+    "bronks brothers":              "Brooks Brothers",
+
+    # ── C ──────────────────────────────────────────────────────────
+    "charolette russe":             "Charlotte Russe",
+    "chicos":                       "Chico's",
+    "chico's":                      "Chico's",
+
+    # ── D ──────────────────────────────────────────────────────────
+    "dana buckman":                 "Dana Buchman",
+    "danielrainn":                  "Danielle Rainn",
+    "delias":                       "Delia's",
+    "delia's":                      "Delia's",
+
+    # ── E ──────────────────────────────────────────────────────────
+    "eli tahari":                   "Elie Tahari",
+    "ellie tahari":                 "Elie Tahari",
+    "elexenses":                    "Elevenses",
+    "espirit":                      "Esprit",
+    "evan picone":                  "Evan-Picone",
+
+    # ── F ──────────────────────────────────────────────────────────
+    "forever21":                    "Forever 21",
+    "fredericks of hollywood":      "Frederick's of Hollywood",
+
+    # ── G ──────────────────────────────────────────────────────────
+    "giani bini":                   "Gianni Bini",
+    "gilligan & oxmalley":          "Gilligan & O'Malley",
+
+    # ── H ──────────────────────────────────────────────────────────
+    "h & m":                        "H&M",             # from "H X M" after X→&
+    "hxm":                          "H&M",
+
+    # ── I ──────────────────────────────────────────────────────────
+    "iaxnue ligne":                 "A'nye Ligne",
+
+    # ── J ──────────────────────────────────────────────────────────
+    "j crew":                       "J.Crew",
+    "j.crew":                       "J.Crew",
+    "jcrew":                        "J.Crew",
+    "jane delancy":                 "Jane & Delancy",
+
+    # ── L ──────────────────────────────────────────────────────────
+    "levi strauss & co":            "Levi Strauss & Co",
+    "lily pulitzer":                "Lilly Pulitzer",
+
+    # ── M ──────────────────────────────────────────────────────────
+    "madwell":                      "Madewell",
+    "misguided":                    "Missguided",
+
+    # ── N ──────────────────────────────────────────────────────────
+    "nic & zoe":                    "Nic+Zoe",         # from "Nic X Zoe" after X→&
+    "nic zoe":                      "Nic+Zoe",
+    "nie & zoe":                    "Nic+Zoe",
+    "ny & co":                      "New York & Company",
+    "new york & company":           "New York & Company",
+
+    # ── O ──────────────────────────────────────────────────────────
+    "oxneill":                      "O'Neill",
+    "oxoxo":                        "XOXO",
+
+    # ── P ──────────────────────────────────────────────────────────
+    "pac sun":                      "PacSun",
+    "pacsun":                       "PacSun",
+    "polo by ralph lauren":         "Polo Ralph Lauren",
+    "prettylittlethings":           "Pretty Little Thing",
+
+    # ── S ──────────────────────────────────────────────────────────
+    "sage harbor":                  "Sag Harbor",
+    "st johns bay":                 "St. John's Bay",
+
+    # ── T ──────────────────────────────────────────────────────────
+    "talbot's":                     "Talbots",
+    "ttahari":                      "Tahari",
+
+    # ── U ──────────────────────────────────────────────────────────
+    "unknown":                      "Unknown",
+
+    # ── W ──────────────────────────────────────────────────────────
+    "whbm":                         "White House Black Market",
 }
 
 # ─── SIZE EXTRACTION ────────────────────────────────────────────────────────
 def extract_size(name: str) -> str:
     if not isinstance(name, str):
         return ""
-    # Explicit "Size X" or "Size 10" or "Size 7.5"
     m = re.search(
         r'\bsize\s*(xxs|xs|xl|xxl|xxxl|osfm|s|m|l|\d+\.?\d*)',
         name, re.IGNORECASE
     )
     if m:
         return m.group(1).upper()
-    # Bare size token at end of string after slash: "/ M" or "/XL"
     m = re.search(
         r'/\s*(xxs|xs|xl|xxl|xxxl|osfm|s|m|l|\d+\.?\d*)\s*$',
         name, re.IGNORECASE
     )
     if m:
         val = m.group(1)
-        if re.match(r'^\d{4}$', val):   # skip years like "2024"
+        if re.match(r'^\d{4}$', val):
             return ""
         return val.upper()
     return ""
@@ -85,7 +168,7 @@ _CATS = [
     ("Sweater/Cardigan",["sweater", "swtr", "cardigan", "crdign", "pullover", "knit"]),
     ("Top",             ["blouse", "shirt", "tee", "tank", "cami", "camisole", "tube",
                           "halter", "bodysuit", "vest", "crop top", "croptop", "ls", "ss"]),
-    ("Top",             [r"\btop\b"]),   # word-boundary "top" only
+    ("Top",             [r"\btop\b"]),
     ("Set",             ["set", "pajama"]),
     ("Shoes",           ["boot", "shoe", "slide", "sneaker", "heel", "flat", "sandal",
                           "loafer", "pump"]),
@@ -110,13 +193,9 @@ def clean_name(name: str) -> str:
     if not isinstance(name, str):
         return ""
     n = name
-    # Remove explicit "Size X" tokens
     n = re.sub(r'[/\s]*\bsize\s*[^\s/,]+', ' ', n, flags=re.IGNORECASE)
-    # Remove trailing bare size after slash: "/ M" at end
     n = re.sub(r'\s*/\s*(xxs|xs|xl|xxl|xxxl|osfm|s|m|l|\d+\.?\d*)\s*$', ' ', n, flags=re.IGNORECASE)
-    # Replace slashes with space
     n = n.replace('/', ' ')
-    # Collapse whitespace
     n = re.sub(r'\s+', ' ', n).strip()
     return n
 
@@ -125,14 +204,32 @@ def clean_name(name: str) -> str:
 def clean_brand(brand) -> str:
     if not isinstance(brand, str) or not brand.strip():
         return ""
-    key = brand.strip().lower()
+    b = brand.strip()
+
+    # 1. Strip trailing suffixes that aren't part of the brand name
+    b = re.sub(r'\s*\bNWT\b\s*$',     '', b, flags=re.IGNORECASE).strip()
+    b = re.sub(r'\s*\bPetites\b\s*$', '', b, flags=re.IGNORECASE).strip()
+    if not b:
+        return ""
+
+    # 2. Fix POS apostrophe-encoding artifact: 'x' was inserted in place of "'"
+    #    e.g. "Chicoxs" → "Chico's",  "Altarxd" → "Altar'd"
+    b = re.sub(r"([a-zA-Z])xs\b", r"\1's", b)
+    b = re.sub(r"([a-zA-Z])xd\b", r"\1'd", b)
+
+    # 3. Replace word-separator " X " with " & "
+    #    e.g. "Croft X Barrow" → "Croft & Barrow"
+    b = re.sub(r'(?<=[A-Za-z0-9])\s+X\s+(?=[A-Za-z0-9])', ' & ', b)
+
+    # 4. BRAND_FIX lookup (case-insensitive)
+    key = b.lower()
     if key in BRAND_FIX:
         return BRAND_FIX[key]
-    stripped = brand.strip()
-    # All-caps or all-lowercase → title case
-    if stripped.isupper() or stripped.islower():
-        return stripped.title()
-    return stripped
+
+    # 5. Apply title case if all-caps or all-lowercase
+    if b.isupper() or b.islower():
+        return b.title()
+    return b
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -168,7 +265,6 @@ pe["gross_margin_pct"] = pe.apply(
 )
 pe.drop(columns=["name_raw", "brand_raw"], inplace=True)
 
-# Show brand fixes applied
 print("\n  Brand corrections applied:")
 brand_changes = []
 pe_raw_brands = pe_raw["brand_name"].fillna("").str.strip()
@@ -208,7 +304,6 @@ vend["product_name"]     = vend["name_raw"].apply(clean_name)
 vend["brand_name"]       = vend["brand_raw"].apply(clean_brand)
 vend["product_category"] = vend["name_raw"].apply(categorize)
 
-# Fill missing brands using product-export lookup
 pe_brand_map = pe.set_index("sku")["brand_name"].to_dict()
 vend["brand_name"] = vend.apply(
     lambda r: r["brand_name"] if r["brand_name"] else pe_brand_map.get(r["sku"], ""),
@@ -232,7 +327,6 @@ sales_raw.columns = sales_raw.columns.str.strip()
 print(f"  Raw rows: {len(sales_raw)}")
 print(f"  Line types: {dict(sales_raw['Line Type'].value_counts())}")
 
-# Parse datetime
 sales_raw["dt"] = pd.to_datetime(sales_raw["Date"], errors="coerce")
 sales_raw["date"]        = sales_raw["dt"].dt.date.astype(str)
 sales_raw["hour"]        = sales_raw["dt"].dt.hour
@@ -264,7 +358,7 @@ print(f"  ✓ Saved {len(sh)} transactions → output/cleaned/transactions_clean
 # ── Sale lines (item level) ──────────────────────────────────
 sl_raw = sales_raw[sales_raw["Line Type"] == "Sale Line"].copy()
 
-# Identify discounted receipts BEFORE filtering discount rows
+# Identify vend-discount-coupon receipts BEFORE filtering
 disc_receipts = set(
     sl_raw[sl_raw["Sku"].astype(str).str.strip() == "vend-discount"]["Receipt Number"].unique()
 )
@@ -281,6 +375,7 @@ sl = pd.DataFrame({
     "subtotal":       pd.to_numeric(sl_raw["Subtotal"],   errors="coerce"),
     "sales_tax":      pd.to_numeric(sl_raw["Sales Tax"],  errors="coerce"),
     "total":          pd.to_numeric(sl_raw["Total"],      errors="coerce"),
+    "line_discount":  pd.to_numeric(sl_raw["Discount"],   errors="coerce").fillna(0),
     "details":        sl_raw["Details"],
     "sku":            sl_raw["Sku"].astype(str).str.strip(),
 })
@@ -289,11 +384,24 @@ sl = pd.DataFrame({
 sl = sl[sl["sku"] != "vend-discount"]
 sl = sl[sl["quantity"] > 0]
 
-# Mark discounted transactions
+# Mark vend-discount-coupon transactions
 sl["has_discount"] = sl["receipt_number"].isin(disc_receipts)
 
+# Mark Wednesday deal transactions:
+# Wednesday + June (month 6) + at least one line with per-item discount > 0
+wed_deal_receipts = set(
+    sl[
+        (sl["day_of_week"] == "Wednesday") &
+        (sl["month"] == 6) &
+        (sl["line_discount"] > 0)
+    ]["receipt_number"].unique()
+)
+sl["is_wednesday_deal"] = sl["receipt_number"].isin(wed_deal_receipts)
+
+print(f"  Wednesday deal transactions identified: {len(wed_deal_receipts)}")
+
 # Join product metadata via SKU
-pe_lookup  = pe.set_index("sku")[["brand_name","product_category","retail_price","size"]].to_dict("index")
+pe_lookup   = pe.set_index("sku")[["brand_name","product_category","retail_price","size"]].to_dict("index")
 vend_lookup = vend.set_index("sku")[["brand_name","product_category","size"]].to_dict("index")
 
 def get_field(sku, field, fallback_dict=None):
@@ -309,6 +417,19 @@ sl["size"]             = sl["sku"].map(lambda s: get_field(s, "size",           
 
 sl.to_csv(OUT / "cleaned" / "sale_lines_clean.csv", index=False)
 print(f"  ✓ Saved {len(sl)} sale lines → output/cleaned/sale_lines_clean.csv")
+
+# ── Compute dynamic date range ───────────────────────────────
+date_min = sl["date"].min()
+date_max = sl["date"].max()
+import datetime as dt_mod
+d0 = dt_mod.date.fromisoformat(date_min)
+d1 = dt_mod.date.fromisoformat(date_max)
+total_days = (d1 - d0).days + 1
+try:
+    date_range_str = f"{d0.strftime('%b %-d')} – {d1.strftime('%b %-d, %Y')}"
+except ValueError:
+    date_range_str = f"{d0.strftime('%b %#d')} – {d1.strftime('%b %#d, %Y')}"
+print(f"\n  Data range: {date_range_str} ({total_days} days)")
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -386,6 +507,25 @@ grand_total = float(sql("SELECT ROUND(SUM(subtotal),2) AS v FROM sale_lines")["v
 top_brands["revenue_share_pct"] = (top_brands["total_revenue"] / grand_total * 100).round(1)
 top_brands.to_csv(OUT / "analysis" / "top_20_brands.csv", index=False)
 print("  ✓ top_20_brands.csv")
+
+# ── 4c-ii. Top 20 brands by units sold ───────────────────────
+total_units_all = int(sql("SELECT SUM(quantity) AS v FROM sale_lines")["v"][0])
+top_brands_units = sql("""
+    SELECT
+        COALESCE(NULLIF(TRIM(brand_name),''), 'Unknown') AS brand_name,
+        CAST(ROUND(SUM(quantity),0) AS INTEGER)          AS units_sold,
+        ROUND(SUM(subtotal), 2)                          AS total_revenue,
+        ROUND(AVG(retail_price), 2)                      AS avg_retail_price,
+        ROUND(SUM(subtotal) / SUM(quantity), 2)          AS revenue_per_unit,
+        COUNT(DISTINCT receipt_number)                   AS transaction_count
+    FROM sale_lines
+    GROUP BY COALESCE(NULLIF(TRIM(brand_name),''), 'Unknown')
+    ORDER BY units_sold DESC
+    LIMIT 20
+""")
+top_brands_units["units_share_pct"] = (top_brands_units["units_sold"] / total_units_all * 100).round(1)
+top_brands_units.to_csv(OUT / "analysis" / "top_20_brands_by_units.csv", index=False)
+print("  ✓ top_20_brands_by_units.csv")
 
 # ── 4d. Category performance ─────────────────────────────────
 category = sql("""
@@ -484,8 +624,12 @@ monthly = sql("""
     SELECT
         month,
         CASE month
-            WHEN 2 THEN 'February' WHEN 3 THEN 'March'
-            WHEN 4 THEN 'April'    WHEN 5 THEN 'May'
+            WHEN 1  THEN 'January'   WHEN 2  THEN 'February'
+            WHEN 3  THEN 'March'     WHEN 4  THEN 'April'
+            WHEN 5  THEN 'May'       WHEN 6  THEN 'June'
+            WHEN 7  THEN 'July'      WHEN 8  THEN 'August'
+            WHEN 9  THEN 'September' WHEN 10 THEN 'October'
+            WHEN 11 THEN 'November'  WHEN 12 THEN 'December'
         END                                            AS month_name,
         COUNT(DISTINCT receipt_number)                 AS transactions,
         ROUND(SUM(subtotal), 2)                        AS total_revenue,
@@ -499,7 +643,7 @@ monthly = sql("""
 monthly.to_csv(OUT / "analysis" / "monthly_summary.csv", index=False)
 print("  ✓ monthly_summary.csv")
 
-# ── 4i. Discount impact ───────────────────────────────────────
+# ── 4i. Discount impact (vend-discount coupon) ───────────────
 discount = sql("""
     SELECT
         has_discount,
@@ -514,6 +658,44 @@ discount = sql("""
 discount.to_csv(OUT / "analysis" / "discount_impact.csv", index=False)
 print("  ✓ discount_impact.csv")
 
+# ── 4j. Wednesday deal impact ────────────────────────────────
+wed_deal = sql("""
+    SELECT
+        is_wednesday_deal,
+        COUNT(DISTINCT receipt_number)                              AS transactions,
+        CAST(ROUND(SUM(quantity),0) AS INTEGER)                     AS units_sold,
+        ROUND(SUM(subtotal), 2)                                     AS realized_revenue,
+        ROUND(SUM(line_discount), 2)                                AS total_discount_given,
+        ROUND(SUM(subtotal + line_discount), 2)                     AS full_price_equivalent,
+        ROUND(SUM(subtotal) / COUNT(DISTINCT receipt_number), 2)    AS avg_transaction_value,
+        ROUND(SUM(quantity)  / COUNT(DISTINCT receipt_number), 2)   AS avg_basket_size,
+        ROUND(SUM(line_discount) / NULLIF(SUM(line_discount + subtotal), 0) * 100, 1)
+                                                                    AS avg_discount_pct
+    FROM sale_lines
+    WHERE day_of_week = 'Wednesday'
+    GROUP BY is_wednesday_deal
+""")
+wed_deal.to_csv(OUT / "analysis" / "wednesday_deal_impact.csv", index=False)
+print("  ✓ wednesday_deal_impact.csv")
+
+# Wednesday deal by week (to see trend over the promotion period)
+wed_deal_weekly = sql("""
+    SELECT
+        date,
+        is_wednesday_deal,
+        COUNT(DISTINCT receipt_number)                           AS transactions,
+        CAST(ROUND(SUM(quantity),0) AS INTEGER)                  AS units_sold,
+        ROUND(SUM(subtotal), 2)                                  AS realized_revenue,
+        ROUND(SUM(line_discount), 2)                             AS discount_given,
+        ROUND(SUM(subtotal) / COUNT(DISTINCT receipt_number), 2) AS avg_transaction_value
+    FROM sale_lines
+    WHERE day_of_week = 'Wednesday'
+    GROUP BY date, is_wednesday_deal
+    ORDER BY date
+""")
+wed_deal_weekly.to_csv(OUT / "analysis" / "wednesday_deal_by_week.csv", index=False)
+print("  ✓ wednesday_deal_by_week.csv")
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # 5. TABLEAU EXPORTS
@@ -522,11 +704,9 @@ print("\n" + "=" * 60)
 print("STEP 5 — Tableau Exports")
 print("=" * 60)
 
-# T1: Daily revenue with rolling averages — time-series charts
 daily.to_csv(OUT / "tableau" / "T1_daily_revenue.csv", index=False)
 print("  ✓ T1_daily_revenue.csv")
 
-# T2: Brand performance by category — bar chart / treemap
 brand_by_cat = sql("""
     SELECT
         COALESCE(NULLIF(TRIM(brand_name),''), 'Unknown') AS brand_name,
@@ -542,42 +722,38 @@ brand_by_cat = sql("""
 brand_by_cat.to_csv(OUT / "tableau" / "T2_brand_performance.csv", index=False)
 print("  ✓ T2_brand_performance.csv")
 
-# T3: Sale-line detail — granular Tableau cross-filters
+top_brands_units.to_csv(OUT / "tableau" / "T2b_top_brands_by_units.csv", index=False)
+print("  ✓ T2b_top_brands_by_units.csv")
+
 sl_tab = sl[[
     "date","hour","month","day_of_week","week_num",
     "receipt_number","sku","details","brand_name","product_category","size",
-    "quantity","subtotal","sales_tax","total","retail_price","has_discount"
+    "quantity","subtotal","sales_tax","total","retail_price",
+    "line_discount","has_discount","is_wednesday_deal"
 ]].copy()
 sl_tab.to_csv(OUT / "tableau" / "T3_sale_lines_detail.csv", index=False)
 print("  ✓ T3_sale_lines_detail.csv")
 
-# T4: Transaction summary — AOV / basket size
 sh_tab = sh.copy()
 sh_tab["avg_item_value"] = (sh_tab["subtotal"] / sh_tab["total_items"].replace(0, None)).round(2)
 sh_tab.to_csv(OUT / "tableau" / "T4_transactions.csv", index=False)
 print("  ✓ T4_transactions.csv")
 
-# T5: Category performance
 category.to_csv(OUT / "tableau" / "T5_category_performance.csv", index=False)
 print("  ✓ T5_category_performance.csv")
 
-# T6: Pricing distribution
 pricing.to_csv(OUT / "tableau" / "T6_pricing_distribution.csv", index=False)
 print("  ✓ T6_pricing_distribution.csv")
 
-# T7: Basket analysis (transaction-level)
 basket.to_csv(OUT / "tableau" / "T7_basket_analysis.csv", index=False)
 print("  ✓ T7_basket_analysis.csv")
 
-# T8: Day-of-week heatmap data
 dow.to_csv(OUT / "tableau" / "T8_day_of_week.csv", index=False)
 print("  ✓ T8_day_of_week.csv")
 
-# T9: Monthly summary
 monthly.to_csv(OUT / "tableau" / "T9_monthly_summary.csv", index=False)
 print("  ✓ T9_monthly_summary.csv")
 
-# T10: Full product inventory with revenue join
 prod_inv = sql("""
     SELECT
         p.sku,
@@ -599,6 +775,26 @@ prod_inv = sql("""
 prod_inv.to_csv(OUT / "tableau" / "T10_products_inventory.csv", index=False)
 print("  ✓ T10_products_inventory.csv")
 
+# T11: Wednesday deal analysis — deal vs. non-deal Wednesdays
+wed_all_lines = sql("""
+    SELECT
+        date,
+        receipt_number,
+        day_of_week,
+        is_wednesday_deal,
+        quantity,
+        subtotal,
+        line_discount,
+        brand_name,
+        product_category,
+        retail_price
+    FROM sale_lines
+    WHERE day_of_week = 'Wednesday'
+    ORDER BY date, receipt_number
+""")
+wed_all_lines.to_csv(OUT / "tableau" / "T11_wednesday_deal.csv", index=False)
+print("  ✓ T11_wednesday_deal.csv")
+
 
 # ════════════════════════════════════════════════════════════════════════════
 # 6. BUSINESS INSIGHTS & RECOMMENDATIONS
@@ -607,7 +803,6 @@ print("\n" + "=" * 60)
 print("STEP 6 — Business Insights & Recommendations")
 print("=" * 60)
 
-# Gather key stats
 total_rev   = grand_total
 total_units = int(sql("SELECT SUM(quantity) AS v FROM sale_lines")["v"][0])
 total_txns  = int(sql("SELECT COUNT(DISTINCT receipt_number) AS v FROM sale_lines")["v"][0])
@@ -631,14 +826,21 @@ aov_single = float(basket[basket["basket_size"] == 1]["order_total"].mean())
 aov_multi  = float(basket[basket["basket_size"] >= 2]["order_total"].mean())
 multi_pct  = (basket["basket_size"] >= 2).mean() * 100
 
-monthly_vals = monthly.sort_values("month")
-feb_rev = float(monthly_vals[monthly_vals["month"]==2]["total_revenue"].values[0]) if 2 in monthly_vals["month"].values else 0
-may_rev = float(monthly_vals[monthly_vals["month"]==5]["total_revenue"].values[0]) if 5 in monthly_vals["month"].values else 0
+# Wednesday deal stats
+wed_deal_on  = wed_deal[wed_deal["is_wednesday_deal"] == 1].iloc[0] if 1 in wed_deal["is_wednesday_deal"].values else None
+wed_deal_off = wed_deal[wed_deal["is_wednesday_deal"] == 0].iloc[0] if 0 in wed_deal["is_wednesday_deal"].values else None
+
+total_wed_discount = float(wed_deal["total_discount_given"].sum())
+wed_deal_txns      = int(wed_deal_on["transactions"]) if wed_deal_on is not None else 0
+wed_basket_deal    = float(wed_deal_on["avg_basket_size"])    if wed_deal_on is not None else 0
+wed_basket_nodeal  = float(wed_deal_off["avg_basket_size"])   if wed_deal_off is not None else 0
+wed_aov_deal       = float(wed_deal_on["avg_transaction_value"])  if wed_deal_on is not None else 0
+wed_aov_nodeal     = float(wed_deal_off["avg_transaction_value"]) if wed_deal_off is not None else 0
 
 insights = f"""
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   KNOXVILLE VINTAGE CLOTHING STORE — BUSINESS INSIGHTS & STRATEGY      ║
-║   Data Period: February 13 – May 24, 2026 | Produced by Data Analysis  ║
+║   Data Period: {date_range_str:<30} Produced by Data Analysis  ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 BUSINESS SNAPSHOT
@@ -646,10 +848,10 @@ BUSINESS SNAPSHOT
   Total Units Sold         : {total_units:>10,}
   Total Transactions       : {total_txns:>10,}
   Average Order Value      : ${avg_aov:>10,.2f}
-  Date Range               : Feb 13 – May 24, 2026  (≈ 101 days)
+  Date Range               : {date_range_str}  (≈ {total_days} days)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FIVE BUSINESS INSIGHTS
+SIX BUSINESS INSIGHTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INSIGHT 1 │ BRAND CONCENTRATION — A Small Set of Brands Drives Most Revenue
@@ -679,9 +881,9 @@ INSIGHT 3 │ MULTI-ITEM TRANSACTIONS — {multi_pct:.0f}% of Customers Buy More
   Multi-item average order value    : ${aov_multi:.2f}
   AOV uplift when basket ≥ 2 items  : +{((aov_multi/aov_single)-1)*100:.0f}%
 
-  Customers who pick up a second item nearly double their spend. This is
-  your highest-leverage behavioral trigger — there is no acquisition cost,
-  only floor experience and staff conversation.
+  Customers who pick up a second item significantly increase their spend.
+  This is your highest-leverage behavioral trigger — there is no acquisition
+  cost, only floor experience and staff conversation.
 
 INSIGHT 4 │ DAY-OF-WEEK PERFORMANCE — {best_dow['day_of_week']} is Your Anchor Day
 ─────────────────────────────────────────────────────────────────────────────
@@ -690,7 +892,7 @@ INSIGHT 4 │ DAY-OF-WEEK PERFORMANCE — {best_dow['day_of_week']} is Your Anch
 
   {best_dow['day_of_week']} outperforms {worst_dow['day_of_week']} by {((best_dow['revenue_per_day_open']/max(worst_dow['revenue_per_day_open'],1))-1)*100:.0f}% per open day.
   This has staffing, stocking, and marketing implications. Weak-day traffic
-  may respond well to timed promotions (e.g., "Tuesday Deal Rack").
+  may respond well to timed promotions.
 
 INSIGHT 5 │ CATEGORY MIX — {best_cat['category']} Leads, Accessories are a Hidden Engine
 ─────────────────────────────────────────────────────────────────────────────
@@ -703,6 +905,22 @@ insights += f"""
   Accessories (bags, jewelry, belts) often appear as impulse add-ons in
   multi-item baskets. Their high sell-through rate with low price risk
   makes them a strong category to keep well-stocked near the register.
+
+INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
+─────────────────────────────────────────────────────────────────────────────
+  The "buy one + get a lower-priced item 50% off" Wednesday promotion
+  launched in June 2026. Early results:
+
+    Deal transactions        : {wed_deal_txns} (Wednesdays with deal applied)
+    Total discount given     : ${total_wed_discount:,.2f}
+    Avg basket — deal txns   : {wed_basket_deal:.1f} items  (${wed_aov_deal:.2f} AOV)
+    Avg basket — no deal     : {wed_basket_nodeal:.1f} items  (${wed_aov_nodeal:.2f} AOV)
+    Basket size uplift       : +{wed_basket_deal - wed_basket_nodeal:.1f} items per transaction
+
+  Customers using the deal buy {wed_basket_deal - wed_basket_nodeal:.1f} more item(s) on average and
+  spend ${wed_aov_deal - wed_aov_nodeal:.2f} more per visit compared to non-deal Wednesday
+  shoppers. The promotion is driving incremental basket growth, though
+  the discount cost must be weighed against the volume gained.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THREE RECOMMENDATIONS (Product Management Perspective)
@@ -721,19 +939,19 @@ RECOMMENDATION 1 │ BUILD A BRAND SCORECARD AND OPTIMIZE YOUR BUYING MIX
   2 units sold in 90 days as "clearance eligible" and run a rotating
   discount rack to convert stuck inventory into working capital.
 
-RECOMMENDATION 2 │ FORMALIZE A MARKDOWN CADENCE FOR AGING INVENTORY
+RECOMMENDATION 2 │ OPTIMIZE THE WEDNESDAY DEAL TO MAXIMIZE MARGIN
 ─────────────────────────────────────────────────────────────────────────────
-  The {sweet['price_bucket']} price band is your sweet spot, but items priced $75+
-  are selling slowly. Implement a structured markdown schedule:
-    — Day 1–30:   Full retail price
-    — Day 31–60:  10% off (sticker update)
-    — Day 61–90:  20% off
-    — Day 91+:    30% off or move to clearance rack
+  The Wednesday deal is drawing customers and growing basket sizes, but
+  ${total_wed_discount:,.2f} in discounts have been given since launch. To protect margin:
 
-  This creates urgency for price-sensitive customers, recovers capital
-  from slow movers, and frees shelf space for high-velocity buys. Track
-  discount rate by category to refine which categories age fastest and
-  adjust future pricing at intake.
+    — Steer the deal toward items in the $15–$24 sweet spot that have
+      aged 30+ days (move slow inventory instead of fast movers).
+    — Brief staff to suggest a qualifying "add-on" when ringing up a
+      higher-priced item — "Want to grab a second piece for 50% off?"
+    — Track which categories get discounted most and adjust intake pricing
+      so the 50%-off price still clears a healthy margin.
+    — Consider a minimum qualifying price (e.g., primary item ≥ $25) to
+      prevent the deal from being used entirely on low-margin items.
 
 RECOMMENDATION 3 │ INVEST IN THE {best_dow['day_of_week'].upper()} IN-STORE EXPERIENCE TO GROW BASKET SIZE
 ─────────────────────────────────────────────────────────────────────────────
@@ -745,16 +963,17 @@ RECOMMENDATION 3 │ INVEST IN THE {best_dow['day_of_week'].upper()} IN-STORE EX
 
   The +{((aov_multi/aov_single)-1)*100:.0f}% AOV for multi-item baskets means each additional
   unit a customer picks up is disproportionately valuable. A brief, natural
-  staff prompt — "That top would pair perfectly with the [skirt] we just
+  staff prompt — "That top would pair perfectly with the skirt we just
   got in" — costs nothing and consistently moves the needle.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TABLEAU PREPARATION NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  10 Tableau-ready CSVs exported to output/tableau/:
+  11 Tableau-ready CSVs exported to output/tableau/:
   T1  Daily Revenue         — time-series line chart, 7-day rolling avg
   T2  Brand Performance     — bar chart, treemap, or scatter (rev vs units)
-  T3  Sale Lines Detail     — master data source for cross-filtering
+  T3  Sale Lines Detail     — master data source (now includes line_discount,
+                              has_discount, is_wednesday_deal flags)
   T4  Transactions          — basket size, AOV distribution
   T5  Category Performance  — stacked bar, pie
   T6  Pricing Distribution  — histogram / price bucket bar chart
@@ -762,11 +981,14 @@ TABLEAU PREPARATION NOTES
   T8  Day of Week           — heatmap / bar chart
   T9  Monthly Summary       — month-over-month bar chart
   T10 Products & Inventory  — inventory health, sell-through table
+  T11 Wednesday Deal        — deal vs. no-deal Wednesday comparison
 
   All files use consistent field names for easy joining in Tableau:
   - Join key across files: 'sku' and 'receipt_number'
   - Date field: 'date' (YYYY-MM-DD string, Tableau auto-parses)
   - Revenue field: 'subtotal' (pre-tax) or 'total' (post-tax)
+  - Discount fields: 'line_discount' (per-item), 'has_discount' (coupon flag),
+                     'is_wednesday_deal' (Wednesday promotion flag)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
@@ -778,8 +1000,8 @@ with open(OUT / "analysis" / "business_insights.txt", "w", encoding="utf-8") as 
 print("\n" + "=" * 60)
 print("  COMPLETE — all output saved to: output/")
 print("  ├── cleaned/   — 4 cleaned CSV files")
-print("  ├── analysis/  — 9 analysis CSVs + business_insights.txt")
-print("  └── tableau/   — 10 Tableau-ready export files")
+print("  ├── analysis/  — 11 analysis CSVs + business_insights.txt")
+print("  └── tableau/   — 11 Tableau-ready export files")
 print("=" * 60)
 
 conn.close()

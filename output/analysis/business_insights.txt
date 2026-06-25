@@ -1,72 +1,88 @@
 
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║   KNOXVILLE VINTAGE CLOTHING STORE — BUSINESS INSIGHTS & STRATEGY      ║
-║   Data Period: February 13 – May 24, 2026 | Produced by Data Analysis  ║
+║   Data Period: Mar 20 – Jun 25, 2026          Produced by Data Analysis  ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 BUSINESS SNAPSHOT
-  Total Revenue (pre-tax)  : $ 53,284.39
-  Total Units Sold         :      1,771
-  Total Transactions       :        647
-  Average Order Value      : $     82.36
-  Date Range               : Feb 13 – May 24, 2026  (≈ 101 days)
+  Total Revenue (pre-tax)  : $ 54,133.41
+  Total Units Sold         :      1,786
+  Total Transactions       :        884
+  Average Order Value      : $     61.24
+  Date Range               : Mar 20 – Jun 25, 2026  (≈ 98 days)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-FIVE BUSINESS INSIGHTS
+SIX BUSINESS INSIGHTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INSIGHT 1 │ BRAND CONCENTRATION — A Small Set of Brands Drives Most Revenue
 ─────────────────────────────────────────────────────────────────────────────
-  Your top 3 brands account for 39.6% of revenue; your top 10 account
-  for 44.6%. This Pareto-style concentration is common in curated
+  Your top 3 brands account for 42.5% of revenue; your top 10 account
+  for 47.7%. This Pareto-style concentration is common in curated
   vintage retail — customers come for brands they recognize and trust.
 
-    #1  Unknown                         $14,531.34  (533 units, 27.3% of revenue)
-    #2  Coach                           $4,626.94  (25 units, 8.7% of revenue)
-    #3  Desigual                        $1,944.88  (20 units, 3.6% of revenue)
+    #1  Unknown                         $16,850.82  (626 units, 31.1% of revenue)
+    #2  Coach                           $4,785.99  (22 units, 8.8% of revenue)
+    #3  Desigual                        $1,407.89  (16 units, 2.6% of revenue)
 
   Remaining inventory holding many low-performing brands should be
   evaluated for markdown or donation to recycle shelf space.
 
 INSIGHT 2 │ PRICING SWEET SPOT — The $15–$24 Tier Generates Peak Revenue
 ─────────────────────────────────────────────────────────────────────────────
-  836 units sold at an avg retail of $21.06, generating
-  $17,547.34. Items in this band have both strong sell-through
+  884 units sold at an avg retail of $21.11, generating
+  $18,285.13. Items in this band have both strong sell-through
   volume and meaningful per-unit revenue — the ideal buy-in target.
   Sub-$15 items sell fast but contribute marginally per transaction.
   Items priced above $75 carry potential margin but slow velocity.
 
-INSIGHT 3 │ MULTI-ITEM TRANSACTIONS — 71% of Customers Buy More Than One Item
+INSIGHT 3 │ MULTI-ITEM TRANSACTIONS — 48% of Customers Buy More Than One Item
 ─────────────────────────────────────────────────────────────────────────────
-  Single-item average order value   : $36.20
-  Multi-item average order value    : $112.17
-  AOV uplift when basket ≥ 2 items  : +210%
+  Single-item average order value   : $34.34
+  Multi-item average order value    : $102.38
+  AOV uplift when basket ≥ 2 items  : +198%
 
-  Customers who pick up a second item nearly double their spend. This is
-  your highest-leverage behavioral trigger — there is no acquisition cost,
-  only floor experience and staff conversation.
+  Customers who pick up a second item significantly increase their spend.
+  This is your highest-leverage behavioral trigger — there is no acquisition
+  cost, only floor experience and staff conversation.
 
 INSIGHT 4 │ DAY-OF-WEEK PERFORMANCE — Saturday is Your Anchor Day
 ─────────────────────────────────────────────────────────────────────────────
-  Saturday   avg $1,363.11/day  (301 total transactions)
-  Tuesday    avg $ 156.43/day  (5 total transactions)
+  Saturday   avg $1,416.85/day  (348 total transactions)
+  Monday     avg $ 281.90/day  (7 total transactions)
 
-  Saturday outperforms Tuesday by 771% per open day.
+  Saturday outperforms Monday by 403% per open day.
   This has staffing, stocking, and marketing implications. Weak-day traffic
-  may respond well to timed promotions (e.g., "Tuesday Deal Rack").
+  may respond well to timed promotions.
 
 INSIGHT 5 │ CATEGORY MIX — Top Leads, Accessories are a Hidden Engine
 ─────────────────────────────────────────────────────────────────────────────
   Top categories by revenue:
-    Top                    $13,165.54  (24.7%)  avg $22.94
-    Accessories            $8,813.13  (16.5%)  avg $39.89
-    Other                  $8,411.59  (15.8%)  avg $30.44
-    Dress                  $7,498.73  (14.1%)  avg $31.51
-    Skirt                  $3,474.75  (6.5%)  avg $26.73
+    Top                    $14,389.20  (26.6%)  avg $22.90
+    Accessories            $10,438.85  (19.3%)  avg $51.92
+    Dress                  $8,565.44  (15.8%)  avg $31.36
+    Other                  $5,403.08  (10.0%)  avg $27.03
+    Skirt                  $3,831.65  (7.1%)  avg $26.47
 
   Accessories (bags, jewelry, belts) often appear as impulse add-ons in
   multi-item baskets. Their high sell-through rate with low price risk
   makes them a strong category to keep well-stocked near the register.
+
+INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
+─────────────────────────────────────────────────────────────────────────────
+  The "buy one + get a lower-priced item 50% off" Wednesday promotion
+  launched in June 2026. Early results:
+
+    Deal transactions        : 35 (Wednesdays with deal applied)
+    Total discount given     : $804.45
+    Avg basket — deal txns   : 3.1 items  ($76.22 AOV)
+    Avg basket — no deal     : 1.8 items  ($50.70 AOV)
+    Basket size uplift       : +1.2 items per transaction
+
+  Customers using the deal buy 1.2 more item(s) on average and
+  spend $25.52 more per visit compared to non-deal Wednesday
+  shoppers. The promotion is driving incremental basket growth, though
+  the discount cost must be weighed against the volume gained.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 THREE RECOMMENDATIONS (Product Management Perspective)
@@ -74,7 +90,7 @@ THREE RECOMMENDATIONS (Product Management Perspective)
 
 RECOMMENDATION 1 │ BUILD A BRAND SCORECARD AND OPTIMIZE YOUR BUYING MIX
 ─────────────────────────────────────────────────────────────────────────────
-  With top-10 brands representing 44.6% of revenue, you have strong
+  With top-10 brands representing 47.7% of revenue, you have strong
   signal on which brands your customers seek out. Create a simple Brand
   Scorecard that tracks Revenue, Units Sold, Revenue/Unit, and Days to
   Sell. Use this at every buying trip and consignment intake — if a brand
@@ -85,19 +101,19 @@ RECOMMENDATION 1 │ BUILD A BRAND SCORECARD AND OPTIMIZE YOUR BUYING MIX
   2 units sold in 90 days as "clearance eligible" and run a rotating
   discount rack to convert stuck inventory into working capital.
 
-RECOMMENDATION 2 │ FORMALIZE A MARKDOWN CADENCE FOR AGING INVENTORY
+RECOMMENDATION 2 │ OPTIMIZE THE WEDNESDAY DEAL TO MAXIMIZE MARGIN
 ─────────────────────────────────────────────────────────────────────────────
-  The $15–$24 price band is your sweet spot, but items priced $75+
-  are selling slowly. Implement a structured markdown schedule:
-    — Day 1–30:   Full retail price
-    — Day 31–60:  10% off (sticker update)
-    — Day 61–90:  20% off
-    — Day 91+:    30% off or move to clearance rack
+  The Wednesday deal is drawing customers and growing basket sizes, but
+  $804.45 in discounts have been given since launch. To protect margin:
 
-  This creates urgency for price-sensitive customers, recovers capital
-  from slow movers, and frees shelf space for high-velocity buys. Track
-  discount rate by category to refine which categories age fastest and
-  adjust future pricing at intake.
+    — Steer the deal toward items in the $15–$24 sweet spot that have
+      aged 30+ days (move slow inventory instead of fast movers).
+    — Brief staff to suggest a qualifying "add-on" when ringing up a
+      higher-priced item — "Want to grab a second piece for 50% off?"
+    — Track which categories get discounted most and adjust intake pricing
+      so the 50%-off price still clears a healthy margin.
+    — Consider a minimum qualifying price (e.g., primary item ≥ $25) to
+      prevent the deal from being used entirely on low-margin items.
 
 RECOMMENDATION 3 │ INVEST IN THE SATURDAY IN-STORE EXPERIENCE TO GROW BASKET SIZE
 ─────────────────────────────────────────────────────────────────────────────
@@ -107,18 +123,19 @@ RECOMMENDATION 3 │ INVEST IN THE SATURDAY IN-STORE EXPERIENCE TO GROW BASKET S
   see fresh pairings, and (3) place accessories (high-margin, low-risk)
   at every natural pause point — fitting room entrance, register line.
 
-  The +210% AOV for multi-item baskets means each additional
+  The +198% AOV for multi-item baskets means each additional
   unit a customer picks up is disproportionately valuable. A brief, natural
-  staff prompt — "That top would pair perfectly with the [skirt] we just
+  staff prompt — "That top would pair perfectly with the skirt we just
   got in" — costs nothing and consistently moves the needle.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TABLEAU PREPARATION NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  10 Tableau-ready CSVs exported to output/tableau/:
+  11 Tableau-ready CSVs exported to output/tableau/:
   T1  Daily Revenue         — time-series line chart, 7-day rolling avg
   T2  Brand Performance     — bar chart, treemap, or scatter (rev vs units)
-  T3  Sale Lines Detail     — master data source for cross-filtering
+  T3  Sale Lines Detail     — master data source (now includes line_discount,
+                              has_discount, is_wednesday_deal flags)
   T4  Transactions          — basket size, AOV distribution
   T5  Category Performance  — stacked bar, pie
   T6  Pricing Distribution  — histogram / price bucket bar chart
@@ -126,9 +143,12 @@ TABLEAU PREPARATION NOTES
   T8  Day of Week           — heatmap / bar chart
   T9  Monthly Summary       — month-over-month bar chart
   T10 Products & Inventory  — inventory health, sell-through table
+  T11 Wednesday Deal        — deal vs. no-deal Wednesday comparison
 
   All files use consistent field names for easy joining in Tableau:
   - Join key across files: 'sku' and 'receipt_number'
   - Date field: 'date' (YYYY-MM-DD string, Tableau auto-parses)
   - Revenue field: 'subtotal' (pre-tax) or 'total' (post-tax)
+  - Discount fields: 'line_discount' (per-item), 'has_discount' (coupon flag),
+                     'is_wednesday_deal' (Wednesday promotion flag)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
