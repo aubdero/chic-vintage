@@ -617,30 +617,6 @@ dow["revenue_per_day_open"] = (dow["total_revenue"] / dow["days_open"]).round(2)
 dow.to_csv(OUT / "analysis" / "day_of_week.csv", index=False)
 print("  ✓ day_of_week.csv")
 
-# ── 4h. Monthly summary ───────────────────────────────────────
-monthly = sql("""
-    SELECT
-        month,
-        CASE month
-            WHEN 1  THEN 'January'   WHEN 2  THEN 'February'
-            WHEN 3  THEN 'March'     WHEN 4  THEN 'April'
-            WHEN 5  THEN 'May'       WHEN 6  THEN 'June'
-            WHEN 7  THEN 'July'      WHEN 8  THEN 'August'
-            WHEN 9  THEN 'September' WHEN 10 THEN 'October'
-            WHEN 11 THEN 'November'  WHEN 12 THEN 'December'
-        END                                            AS month_name,
-        COUNT(DISTINCT receipt_number)                 AS transactions,
-        ROUND(SUM(subtotal), 2)                        AS total_revenue,
-        CAST(ROUND(SUM(quantity),0) AS INTEGER)        AS units_sold,
-        ROUND(SUM(subtotal) / COUNT(DISTINCT receipt_number), 2) AS avg_order_value,
-        COUNT(DISTINCT date)                           AS active_days
-    FROM sale_lines
-    GROUP BY month
-    ORDER BY month
-""")
-monthly.to_csv(OUT / "analysis" / "monthly_summary.csv", index=False)
-print("  ✓ monthly_summary.csv")
-
 # ── 4i. Discount impact (vend-discount coupon) ───────────────
 discount = sql("""
     SELECT
@@ -696,42 +672,10 @@ print("  ✓ wednesday_deal_by_week.csv")
 
 
 # ════════════════════════════════════════════════════════════════════════════
-# 5. TABLEAU EXPORTS
+# 5. BUSINESS INSIGHTS & RECOMMENDATIONS
 # ════════════════════════════════════════════════════════════════════════════
 print("\n" + "=" * 60)
-print("STEP 5 — Tableau Exports")
-print("=" * 60)
-
-daily.to_csv(OUT / "tableau" / "T1_daily_revenue.csv", index=False)
-print("  ✓ T1_daily_revenue.csv")
-
-top_brands_units.to_csv(OUT / "tableau" / "T2b_top_brands_by_units.csv", index=False)
-print("  ✓ T2b_top_brands_by_units.csv")
-
-sl_tab = sl[[
-    "date","hour","month","day_of_week","week_num",
-    "receipt_number","sku","details","brand_name","product_category","size",
-    "quantity","subtotal","sales_tax","total","retail_price",
-    "line_discount","has_discount","is_wednesday_deal"
-]].copy()
-sl_tab.to_csv(OUT / "tableau" / "T3_sale_lines_detail.csv", index=False)
-print("  ✓ T3_sale_lines_detail.csv")
-
-category.to_csv(OUT / "tableau" / "T5_category_performance.csv", index=False)
-print("  ✓ T5_category_performance.csv")
-
-pricing.to_csv(OUT / "tableau" / "T6_pricing_distribution.csv", index=False)
-print("  ✓ T6_pricing_distribution.csv")
-
-basket.to_csv(OUT / "tableau" / "T7_basket_analysis.csv", index=False)
-print("  ✓ T7_basket_analysis.csv")
-
-
-# ════════════════════════════════════════════════════════════════════════════
-# 6. BUSINESS INSIGHTS & RECOMMENDATIONS
-# ════════════════════════════════════════════════════════════════════════════
-print("\n" + "=" * 60)
-print("STEP 6 — Business Insights & Recommendations")
+print("STEP 5 — Business Insights & Recommendations")
 print("=" * 60)
 
 total_rev   = grand_total
@@ -896,25 +840,6 @@ RECOMMENDATION 3 │ INVEST IN THE {best_dow['day_of_week'].upper()} IN-STORE EX
   unit a customer picks up is disproportionately valuable. A brief, natural
   staff prompt — "That top would pair perfectly with the skirt we just
   got in" — costs nothing and consistently moves the needle.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TABLEAU PREPARATION NOTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  6 Tableau-ready CSVs exported to output/tableau/:
-  T1  Daily Revenue         — time-series line chart, 7-day rolling avg
-  T2b Top Brands by Units   — bar chart (top 20 brands)
-  T3  Sale Lines Detail     — master data source (now includes line_discount,
-                              has_discount, is_wednesday_deal flags)
-  T5  Category Performance  — stacked bar, pie
-  T6  Pricing Distribution  — histogram / price bucket bar chart
-  T7  Basket Analysis       — basket size frequency chart
-
-  All files use consistent field names for easy joining in Tableau:
-  - Join key across files: 'sku' and 'receipt_number'
-  - Date field: 'date' (YYYY-MM-DD string, Tableau auto-parses)
-  - Revenue field: 'subtotal' (pre-tax) or 'total' (post-tax)
-  - Discount fields: 'line_discount' (per-item), 'has_discount' (coupon flag),
-                     'is_wednesday_deal' (Wednesday promotion flag)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
@@ -926,8 +851,7 @@ with open(OUT / "analysis" / "business_insights.txt", "w", encoding="utf-8") as 
 print("\n" + "=" * 60)
 print("  COMPLETE — all output saved to: output/")
 print("  ├── cleaned/   — 4 cleaned CSV files")
-print("  ├── analysis/  — 11 analysis CSVs + business_insights.txt")
-print("  └── tableau/   — 6 Tableau-ready export files")
+print("  └── analysis/  — 10 analysis CSVs + business_insights.txt")
 print("=" * 60)
 
 conn.close()

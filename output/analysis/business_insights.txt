@@ -127,23 +127,4 @@ RECOMMENDATION 3 │ INVEST IN THE SATURDAY IN-STORE EXPERIENCE TO GROW BASKET S
   unit a customer picks up is disproportionately valuable. A brief, natural
   staff prompt — "That top would pair perfectly with the skirt we just
   got in" — costs nothing and consistently moves the needle.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-TABLEAU PREPARATION NOTES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  6 Tableau-ready CSVs exported to output/tableau/:
-  T1  Daily Revenue         — time-series line chart, 7-day rolling avg
-  T2b Top Brands by Units   — bar chart (top 20 brands)
-  T3  Sale Lines Detail     — master data source (now includes line_discount,
-                              has_discount, is_wednesday_deal flags)
-  T5  Category Performance  — stacked bar, pie
-  T6  Pricing Distribution  — histogram / price bucket bar chart
-  T7  Basket Analysis       — basket size frequency chart
-
-  All files use consistent field names for easy joining in Tableau:
-  - Join key across files: 'sku' and 'receipt_number'
-  - Date field: 'date' (YYYY-MM-DD string, Tableau auto-parses)
-  - Revenue field: 'subtotal' (pre-tax) or 'total' (post-tax)
-  - Discount fields: 'line_discount' (per-item), 'has_discount' (coupon flag),
-                     'is_wednesday_deal' (Wednesday promotion flag)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
