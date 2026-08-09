@@ -442,8 +442,6 @@ print("=" * 60)
 conn = sqlite3.connect(":memory:")
 sl.to_sql("sale_lines",  conn, index=False, if_exists="replace")
 sh.to_sql("transactions", conn, index=False, if_exists="replace")
-pe.to_sql("products",    conn, index=False, if_exists="replace")
-vend.to_sql("vend",      conn, index=False, if_exists="replace")
 
 def sql(q): return pd.read_sql_query(q, conn)
 
@@ -707,21 +705,6 @@ print("=" * 60)
 daily.to_csv(OUT / "tableau" / "T1_daily_revenue.csv", index=False)
 print("  ✓ T1_daily_revenue.csv")
 
-brand_by_cat = sql("""
-    SELECT
-        COALESCE(NULLIF(TRIM(brand_name),''), 'Unknown') AS brand_name,
-        product_category,
-        CAST(ROUND(SUM(quantity),0) AS INTEGER)           AS units_sold,
-        ROUND(SUM(subtotal), 2)                           AS total_revenue,
-        ROUND(AVG(retail_price), 2)                       AS avg_retail_price,
-        COUNT(DISTINCT receipt_number)                    AS transactions
-    FROM sale_lines
-    GROUP BY brand_name, product_category
-    ORDER BY total_revenue DESC
-""")
-brand_by_cat.to_csv(OUT / "tableau" / "T2_brand_performance.csv", index=False)
-print("  ✓ T2_brand_performance.csv")
-
 top_brands_units.to_csv(OUT / "tableau" / "T2b_top_brands_by_units.csv", index=False)
 print("  ✓ T2b_top_brands_by_units.csv")
 
@@ -734,11 +717,6 @@ sl_tab = sl[[
 sl_tab.to_csv(OUT / "tableau" / "T3_sale_lines_detail.csv", index=False)
 print("  ✓ T3_sale_lines_detail.csv")
 
-sh_tab = sh.copy()
-sh_tab["avg_item_value"] = (sh_tab["subtotal"] / sh_tab["total_items"].replace(0, None)).round(2)
-sh_tab.to_csv(OUT / "tableau" / "T4_transactions.csv", index=False)
-print("  ✓ T4_transactions.csv")
-
 category.to_csv(OUT / "tableau" / "T5_category_performance.csv", index=False)
 print("  ✓ T5_category_performance.csv")
 
@@ -747,53 +725,6 @@ print("  ✓ T6_pricing_distribution.csv")
 
 basket.to_csv(OUT / "tableau" / "T7_basket_analysis.csv", index=False)
 print("  ✓ T7_basket_analysis.csv")
-
-dow.to_csv(OUT / "tableau" / "T8_day_of_week.csv", index=False)
-print("  ✓ T8_day_of_week.csv")
-
-monthly.to_csv(OUT / "tableau" / "T9_monthly_summary.csv", index=False)
-print("  ✓ T9_monthly_summary.csv")
-
-prod_inv = sql("""
-    SELECT
-        p.sku,
-        p.product_name,
-        p.brand_name,
-        p.product_category,
-        p.size,
-        p.retail_price,
-        p.supply_price,
-        p.gross_margin_pct,
-        p.inventory                        AS current_inventory,
-        COALESCE(v.revenue, 0)             AS sold_revenue,
-        COALESCE(v.closing_inventory, 0)   AS closing_inventory,
-        COALESCE(v.inventory_cost, 0)      AS inventory_cost
-    FROM products p
-    LEFT JOIN vend v ON p.sku = v.sku
-    ORDER BY COALESCE(v.revenue, 0) DESC
-""")
-prod_inv.to_csv(OUT / "tableau" / "T10_products_inventory.csv", index=False)
-print("  ✓ T10_products_inventory.csv")
-
-# T11: Wednesday deal analysis — deal vs. non-deal Wednesdays
-wed_all_lines = sql("""
-    SELECT
-        date,
-        receipt_number,
-        day_of_week,
-        is_wednesday_deal,
-        quantity,
-        subtotal,
-        line_discount,
-        brand_name,
-        product_category,
-        retail_price
-    FROM sale_lines
-    WHERE day_of_week = 'Wednesday'
-    ORDER BY date, receipt_number
-""")
-wed_all_lines.to_csv(OUT / "tableau" / "T11_wednesday_deal.csv", index=False)
-print("  ✓ T11_wednesday_deal.csv")
 
 
 # ════════════════════════════════════════════════════════════════════════════
@@ -969,19 +900,14 @@ RECOMMENDATION 3 │ INVEST IN THE {best_dow['day_of_week'].upper()} IN-STORE EX
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TABLEAU PREPARATION NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  11 Tableau-ready CSVs exported to output/tableau/:
+  6 Tableau-ready CSVs exported to output/tableau/:
   T1  Daily Revenue         — time-series line chart, 7-day rolling avg
-  T2  Brand Performance     — bar chart, treemap, or scatter (rev vs units)
+  T2b Top Brands by Units   — bar chart (top 20 brands)
   T3  Sale Lines Detail     — master data source (now includes line_discount,
                               has_discount, is_wednesday_deal flags)
-  T4  Transactions          — basket size, AOV distribution
   T5  Category Performance  — stacked bar, pie
   T6  Pricing Distribution  — histogram / price bucket bar chart
   T7  Basket Analysis       — basket size frequency chart
-  T8  Day of Week           — heatmap / bar chart
-  T9  Monthly Summary       — month-over-month bar chart
-  T10 Products & Inventory  — inventory health, sell-through table
-  T11 Wednesday Deal        — deal vs. no-deal Wednesday comparison
 
   All files use consistent field names for easy joining in Tableau:
   - Join key across files: 'sku' and 'receipt_number'
@@ -1001,7 +927,7 @@ print("\n" + "=" * 60)
 print("  COMPLETE — all output saved to: output/")
 print("  ├── cleaned/   — 4 cleaned CSV files")
 print("  ├── analysis/  — 11 analysis CSVs + business_insights.txt")
-print("  └── tableau/   — 11 Tableau-ready export files")
+print("  └── tableau/   — 6 Tableau-ready export files")
 print("=" * 60)
 
 conn.close()

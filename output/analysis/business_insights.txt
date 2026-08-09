@@ -131,19 +131,14 @@ RECOMMENDATION 3 │ INVEST IN THE SATURDAY IN-STORE EXPERIENCE TO GROW BASKET S
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 TABLEAU PREPARATION NOTES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  11 Tableau-ready CSVs exported to output/tableau/:
+  6 Tableau-ready CSVs exported to output/tableau/:
   T1  Daily Revenue         — time-series line chart, 7-day rolling avg
-  T2  Brand Performance     — bar chart, treemap, or scatter (rev vs units)
+  T2b Top Brands by Units   — bar chart (top 20 brands)
   T3  Sale Lines Detail     — master data source (now includes line_discount,
                               has_discount, is_wednesday_deal flags)
-  T4  Transactions          — basket size, AOV distribution
   T5  Category Performance  — stacked bar, pie
   T6  Pricing Distribution  — histogram / price bucket bar chart
   T7  Basket Analysis       — basket size frequency chart
-  T8  Day of Week           — heatmap / bar chart
-  T9  Monthly Summary       — month-over-month bar chart
-  T10 Products & Inventory  — inventory health, sell-through table
-  T11 Wednesday Deal        — deal vs. no-deal Wednesday comparison
 
   All files use consistent field names for easy joining in Tableau:
   - Join key across files: 'sku' and 'receipt_number'
