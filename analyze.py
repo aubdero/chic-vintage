@@ -169,7 +169,7 @@ _CATS = [
     ("Top",             ["blouse", "shirt", "tee", "tank", "cami", "camisole", "tube",
                           "halter", "bodysuit", "vest", "crop top", "croptop", "ls", "ss"]),
     ("Top",             [r"\btop\b"]),
-    ("Set",             ["set", "pajama"]),
+    ("Set",             [r"\bset\b", "pajama"]),
     ("Shoes",           ["boot", "shoe", "slide", "sneaker", "heel", "flat", "sandal",
                           "loafer", "pump"]),
     ("Accessories",     ["bag", "purse", "clutch", "wallet", "tote", "earring", "earr",

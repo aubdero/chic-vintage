@@ -151,7 +151,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-06-13 18:07:52,2026-06-13,18,6,Saturday,24,815,1.0,23.99,2.21908,26.20908,0.0,Yellow Chic Vintage T Shirt Size L,10007152,True,False,,Top,23.99,L
 2026-06-13 18:07:52,2026-06-13,18,6,Saturday,24,815,1.0,250.0,23.125,273.125,0.0,Boldrini Orange Leather Bag w Hyde,10006639,True,False,Boldrini Selleria,Accessories,250.0,
 2026-06-13 18:07:52,2026-06-13,18,6,Saturday,24,815,1.0,10.99,1.01658,12.00658,0.0,Rue 21 Boustier Black Size XL,10007294,True,False,,Other,10.99,XL
-2026-06-13 18:07:52,2026-06-13,18,6,Saturday,24,815,1.0,42.99,3.97658,46.96658,0.0,Vintage Dorset Compact Mirror,10008531,True,False,Dorset,Set,42.99,
+2026-06-13 18:07:52,2026-06-13,18,6,Saturday,24,815,1.0,42.99,3.97658,46.96658,0.0,Vintage Dorset Compact Mirror,10008531,True,False,Dorset,Other,42.99,
 2026-06-13 17:48:54,2026-06-13,17,6,Saturday,24,814,1.0,19.99,1.84908,21.83908,0.0,Loft/RedfloralTop/SizeXS,10006894,True,False,Loft,Other,19.99,XS
 2026-06-13 17:12:17,2026-06-13,17,6,Saturday,24,813,1.0,33.99,3.14408,37.13408,0.0,JS Collection Black Dress Size 14,10007588,True,False,,Dress,33.99,14
 2026-06-13 17:12:17,2026-06-13,17,6,Saturday,24,813,1.0,55.99,5.17908,61.16908,0.0,Desigual Black Sheer Colorful Skirt / Size L,10005916,True,False,Desigual,Skirt,55.99,L
@@ -720,7 +720,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-05-16 12:36:57,2026-05-16,12,5,Saturday,20,494,1.0,23.99,2.21908,26.20908,0.0,Yellow Chic Vintage T Shirt Size L,10007152,False,False,,Top,23.99,L
 2026-05-16 12:36:57,2026-05-16,12,5,Saturday,20,494,1.0,26.99,2.49658,29.48658,0.0,Gray Floral Sparkly Hat,10007086,False,False,Unknown,Accessories,26.99,
 2026-05-16 11:50:44,2026-05-16,11,5,Saturday,20,493,1.0,23.99,2.21908,26.20908,0.0,Pink Chic Vintage T Shirt Size S,10007145,False,False,,Top,23.99,S
-2026-05-16 11:33:49,2026-05-16,11,5,Saturday,20,492,1.0,18.99,1.75658,20.74658,0.0,TicToc/PinkWhiCorset/SizeM,10008537,False,False,Tic Toc,Set,18.99,M
+2026-05-16 11:33:49,2026-05-16,11,5,Saturday,20,492,1.0,18.99,1.75658,20.74658,0.0,TicToc/PinkWhiCorset/SizeM,10008537,False,False,Tic Toc,Other,18.99,M
 2026-05-16 11:33:49,2026-05-16,11,5,Saturday,20,492,1.0,24.99,2.31158,27.30158,0.0,Lush Dark Blue Satin Top / Size M,10004800,False,False,Lush,Top,24.99,M
 2026-05-16 11:29:09,2026-05-16,11,5,Saturday,20,491,1.0,23.0,2.1275,25.1275,0.0,Style U Bright Pink Tube Top / Size L,10008005,False,False,Style U,Top,23.0,L
 2026-05-15 19:08:54,2026-05-15,19,5,Friday,20,490,1.0,34.99,3.23658,38.22658,0.0,Madewell Striped Dress/Size 6,10005822,False,False,Madewell,Dress,34.99,6
@@ -796,7 +796,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-05-13 15:27:19,2026-05-13,15,5,Wednesday,20,446,1.0,18.99,1.75658,20.74658,0.0,Apt9/GrnSPotBttnDwn/Size2X,10005472,False,False,Apt 9,Other,18.99,2
 2026-05-13 13:58:07,2026-05-13,13,5,Wednesday,20,445,1.0,12.99,1.20158,14.19158,0.0,Altar'd State Tank Black/Size S,10005215,False,False,Altar'd State,Top,12.99,S
 2026-05-13 13:53:37,2026-05-13,13,5,Wednesday,20,444,1.0,12.99,1.20158,14.19158,0.0,Black Leather Belt with Brown Design,10007983,False,False,Unknown,Accessories,12.99,
-2026-05-13 13:31:11,2026-05-13,13,5,Wednesday,20,443,1.0,24.99,2.31158,27.30158,0.0,CreamCircleHatSet,10008314,False,False,Unknown,Set,24.99,
+2026-05-13 13:31:11,2026-05-13,13,5,Wednesday,20,443,1.0,24.99,2.31158,27.30158,0.0,CreamCircleHatSet,10008314,False,False,Unknown,Accessories,24.99,
 2026-05-10 16:13:44,2026-05-10,16,5,Sunday,19,442,1.0,20.99,1.94158,22.93158,0.0,Moda Int Burgundy LS Top XS,10007532,False,False,,Top,20.99,
 2026-05-10 16:13:04,2026-05-10,16,5,Sunday,19,441,1.0,39.99,3.69908,43.68908,0.0,Slate & Willow Multi-color Dress XS,10007945,False,False,,Dress,39.99,
 2026-05-10 16:11:24,2026-05-10,16,5,Sunday,19,440,1.0,75.0,6.9375,81.9375,0.0,Fossil Hobo Handbag,10003434,False,False,Fossil,Top,75.0,
@@ -931,7 +931,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-05-02 14:29:38,2026-05-02,14,5,Saturday,18,375,1.0,15.99,1.47908,17.46908,0.0,Chloe & Katie Yellow Skirt / Size L,10007207,False,False,Chloe & Katie,Skirt,15.99,L
 2026-05-02 14:28:42,2026-05-02,14,5,Saturday,18,374,1.0,21.99,2.03408,24.02408,0.0,Sheer/Maroon/Size S,10004414,False,False,The Limited,Other,21.99,S
 2026-05-02 14:09:29,2026-05-02,14,5,Saturday,18,373,1.0,21.99,2.03408,24.02408,0.0,Silver w Blue Accent Necklace,10007956,False,False,,Accessories,21.99,
-2026-05-02 14:06:39,2026-05-02,14,5,Saturday,18,372,1.0,14.99,1.38658,16.37658,0.0,Saywhat/BlackCorset/SizeL,10008324,False,False,Say What,Set,14.99,L
+2026-05-02 14:06:39,2026-05-02,14,5,Saturday,18,372,1.0,14.99,1.38658,16.37658,0.0,Saywhat/BlackCorset/SizeL,10008324,False,False,Say What,Accessories,14.99,L
 2026-05-02 14:06:39,2026-05-02,14,5,Saturday,18,372,1.0,33.99,3.14408,37.13408,0.0,WHBM Cream Boho Bustier M,10008232,False,False,,Other,33.99,
 2026-05-02 14:06:39,2026-05-02,14,5,Saturday,18,372,1.0,12.99,1.20158,14.19158,0.0,Offline croped workout top/M,10006841,False,False,Aerie Offline,Top,12.99,M
 2026-05-02 14:05:50,2026-05-02,14,5,Saturday,18,371,1.0,79.99,7.39908,87.38908,0.0,CorralBoots/MarronStudBoots/Size8,10008297,False,False,Corral Boots,Shoes,79.99,8
@@ -1001,7 +1001,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-04-26 18:22:31,2026-04-26,18,4,Sunday,17,336,1.0,32.99,3.05158,36.04158,0.0,Angel Biba White Lace Dress / Size S,10006725,False,False,Angel Biba,Dress,32.99,S
 2026-04-26 18:22:31,2026-04-26,18,4,Sunday,17,336,1.0,23.99,2.21908,26.20908,0.0,Zara White LS Lace Top / Size M,10007781,False,False,Zara,Top,23.99,M
 2026-04-26 18:22:31,2026-04-26,18,4,Sunday,17,336,1.0,15.99,1.47908,17.46908,0.0,Gap White Lace Top XS,10007822,False,False,,Top,15.99,
-2026-04-26 17:31:04,2026-04-26,17,4,Sunday,17,335,1.0,25.99,2.40408,28.39408,0.0,WHBM Corset Black Floral/Size 6,10007140,False,False,White House Black Market,Set,25.99,6
+2026-04-26 17:31:04,2026-04-26,17,4,Sunday,17,335,1.0,25.99,2.40408,28.39408,0.0,WHBM Corset Black Floral/Size 6,10007140,False,False,White House Black Market,Other,25.99,6
 2026-04-26 17:31:04,2026-04-26,17,4,Sunday,17,335,1.0,35.99,3.32908,39.31908,0.0,Basket Tote/Purse,10006271,False,False,Unknown,Accessories,35.99,
 2026-04-26 17:29:42,2026-04-26,17,4,Sunday,17,334,1.0,15.99,1.47908,17.46908,0.0,Love Fire Bodysuit Black / Black / M / 12.07,10002204,False,False,Love Fire,Top,15.99,
 2026-04-26 17:29:42,2026-04-26,17,4,Sunday,17,334,1.0,34.99,3.23658,38.22658,0.0,Zara White Bodysuit / Size M,10005934,False,False,Zara,Top,34.99,M
@@ -1410,7 +1410,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-04-04 12:05:23,2026-04-04,12,4,Saturday,14,116,1.0,19.99,1.84908,21.83908,0.0,Le Lis Black SL Silver Fringe Top / Size S,10006994,False,False,Le Lis,Top,19.99,S
 2026-04-04 12:05:23,2026-04-04,12,4,Saturday,14,116,1.0,22.99,2.12658,25.11658,0.0,olivaceous/GrnCamotieShirt/SizeS,10006054,False,False,Olivaceous,Top,22.99,S
 2026-04-04 12:05:23,2026-04-04,12,4,Saturday,14,116,1.0,35.99,3.32908,39.31908,0.0,BCBG Burgundy Dress w Sleeves / Size M,10005984,False,False,BCBG Maxazria,Dress,35.99,M
-2026-04-04 12:02:33,2026-04-04,12,4,Saturday,14,115,1.0,29.99,2.77408,32.76408,0.0,Lydia USA Black Rhinestone Corset,10007124,False,False,Lydia,Set,29.99,
+2026-04-04 12:02:33,2026-04-04,12,4,Saturday,14,115,1.0,29.99,2.77408,32.76408,0.0,Lydia USA Black Rhinestone Corset,10007124,False,False,Lydia,Other,29.99,
 2026-04-04 11:54:04,2026-04-04,11,4,Saturday,14,114,1.0,13.99,1.29408,15.28408,0.0,National Coll Gray Vols Tshirt / Size S,10006523,False,False,National Collegian,Top,13.99,S
 2026-04-04 11:23:08,2026-04-04,11,4,Saturday,14,113,1.0,45.99,4.25408,50.24408,0.0,NWT draper james/dress/org/4,10005819,False,False,Draper James,Dress,45.99,4
 2026-04-04 11:21:47,2026-04-04,11,4,Saturday,14,112,1.0,24.99,2.31158,27.30158,0.0,Mariella B Sheer Longsleeve Duo / Size S,10004537,False,False,Mariella Burani,Other,24.99,S
@@ -1669,7 +1669,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-03-26 16:17:17,2026-03-26,16,3,Thursday,13,598,1.0,11.99,1.10908,13.09908,0.0,BlackStuddedBelt,10004412,False,False,Unknown,Accessories,11.99,
 2026-03-26 15:03:33,2026-03-26,15,3,Thursday,13,597,1.0,26.99,2.49658,29.48658,0.0,Christian Siriano Floral Black Top/ Real Size S,10005366,False,False,Christian Siriano,Top,26.99,S
 2026-03-26 15:03:33,2026-03-26,15,3,Thursday,13,597,1.0,24.99,2.31158,27.30158,0.0,TCR/MulticolTankTop/SizeS,10005403,False,False,The Collection Royal,Top,24.99,S
-2026-03-26 15:00:45,2026-03-26,15,3,Thursday,13,596,1.0,18.99,1.75658,20.74658,0.0,TwoPiecePinkSet/SizeS,10006162,False,False,Unknown,Set,18.99,S
+2026-03-26 15:00:45,2026-03-26,15,3,Thursday,13,596,1.0,18.99,1.75658,20.74658,0.0,TwoPiecePinkSet/SizeS,10006162,False,False,Unknown,Other,18.99,S
 2026-03-26 15:00:45,2026-03-26,15,3,Thursday,13,596,1.0,20.99,1.94158,22.93158,0.0,ArizonaJeanCo/JeanSkirt/Size3,10006918,False,False,Arizona Jean Co,Skirt,20.99,3
 2026-03-26 14:35:31,2026-03-26,14,3,Thursday,13,595,1.0,15.99,1.47908,17.46908,0.0,Allison B SL Dress Multicolor Texture / Size S,10005199,False,False,Allison Brittney,Dress,15.99,S
 2026-03-26 14:35:31,2026-03-26,14,3,Thursday,13,595,1.0,25.99,2.40408,28.39408,0.0,JS Signature Black Cut Layer Skirt / Size 8,10004775,False,False,JS Signature,Skirt,25.99,8
@@ -1700,7 +1700,7 @@ datetime,date,hour,month,day_of_week,week_num,receipt_number,quantity,subtotal,s
 2026-03-26 13:02:07,2026-03-26,13,3,Thursday,13,585,1.0,14.0,1.295,15.295,0.0,Skirt,10007170,False,False,,Skirt,14.0,
 2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,1.0,18.99,1.75658,20.74658,0.0,JCrew/NavyWhiPlkaDotShorts/Size10,10006914,False,False,J.Crew,Shorts,18.99,10
 2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,1.0,25.99,2.40408,28.39408,0.0,MaxStudio/FloralruffleDress/SizeM,10006143,False,False,Max Studio,Dress,25.99,M
-2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,1.0,24.99,2.31158,27.30158,0.0,AmericanEagle/BlackCorsetTop/SizeM,10006878,False,False,American Eagle,Set,24.99,M
+2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,1.0,24.99,2.31158,27.30158,0.0,AmericanEagle/BlackCorsetTop/SizeM,10006878,False,False,American Eagle,Other,24.99,M
 2026-03-26 12:58:06,2026-03-26,12,3,Thursday,13,584,1.0,10.99,1.01658,12.00658,0.0,Absolutely Tie Dye Crop Top / Size L,10005107,False,False,Absolutely Love it,Top,10.99,L
 2026-03-26 12:54:53,2026-03-26,12,3,Thursday,13,583,1.0,25.99,2.40408,28.39408,0.0,Pink Kigi Platform Sandals/Size 7,10007057,False,False,Pink Kigi,Top,25.99,7
 2026-03-26 12:52:58,2026-03-26,12,3,Thursday,13,582,1.0,150.0,13.875,163.875,0.0,Timmy Woods/ Tortoise Shell Purse,10005090,False,False,Timmy Woods,Accessories,150.0,

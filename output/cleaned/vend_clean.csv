@@ -16,7 +16,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10003950,0,0.0,0.0,M,12th Tribe White Sequin Jacket,12th Tribe,Jacket/Coat
 10003830,1,0.0,0.0,10,1822 Denim Blk Jean,1822 Denim,Jeans/Pants
 10003761,0,0.0,0.0,7.5,1883 Teal and Brown Cowgirl Boots,1883 by Luccheen,Shoes
-10007377,1,0.0,0.0,,1950sCaroAuroraBrac&earrSET,Unknown,Set
+10007377,1,0.0,0.0,,1950sCaroAuroraBrac&earrSET,Unknown,Accessories
 10009260,1,0.0,6.55,,2000's Abstract Print Top S,,Top
 10009497,1,0.0,5.0,,2000's Abstract Satin Slip Dress M,,Dress
 10008930,1,0.0,6.75,,21 Saints Black Bodysuit S,,Top
@@ -285,7 +285,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10008651,0,0.0,0.0,,American Eagle White Tank Top XS,,Top
 10005147,0,0.0,0.0,M,AmericanEagle Knit Sweater Pnk&Orng,American Eagle,Sweater/Cardigan
 10005171,0,0.0,0.0,S,AmericanEagle Ruche Crop Multicolor,American Eagle Outfitters,Other
-10006878,0,0.0,0.0,M,AmericanEagle BlackCorsetTop,American Eagle,Set
+10006878,0,0.0,0.0,M,AmericanEagle BlackCorsetTop,American Eagle,Other
 10006937,0,0.0,0.0,M,AmericanEagle RedWhiSkirt,American Eagle,Skirt
 10005779,1,0.0,0.0,14,Amethyst CapriJean,Amethyst,Jeans/Pants
 10007026,0,0.0,0.0,S,Ammo Blk Tank NWT,Ammo,Top
@@ -697,7 +697,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007015,1,0.0,0.0,10,Benneton Black Pants,Benneton,Jeans/Pants
 10008329,0,0.0,0.0,10,Bernardo Blk&WhiSkirt,Bernardo,Skirt
 10006989,0,0.0,0.0,XS,Bershka Cream Jacket,Bershka,Jacket/Coat
-10004867,1,0.0,0.0,M,Bershka PinkCorsetTop,Bershka,Set
+10004867,1,0.0,0.0,M,Bershka PinkCorsetTop,Bershka,Other
 10009059,1,0.0,10.99,,Betmar knit black sunhat,Betmar,Sweater/Cardigan
 10009215,1,0.0,21.55,,Betsey Johnson Lime Green Gingham 7,,Other
 10009166,0,0.0,0.0,,Betsey Johnson Mint Pink Dress 6,,Dress
@@ -1417,7 +1417,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10004055,0,0.0,0.0,,Cream Lace Scarf OS,Unknown,Accessories
 10003917,1,0.0,0.0,L,Cream Lace Top,Unknown,Top
 10004409,0,0.0,0.0,XL,CreamBondedLeatherBelt,Unknown,Accessories
-10008314,0,0.0,0.0,,CreamCircleHatSet,Unknown,Set
+10008314,0,0.0,0.0,,CreamCircleHatSet,Unknown,Accessories
 10007397,0,0.0,0.0,XS,CreamRuffleHalterTop,Unknown,Top
 10008403,1,0.0,5.0,,Creative Apparel UT Tie-Dyed T L,,Other
 10005230,0,0.0,0.0,S,Crisis Floral Button Down,Crisis,Other
@@ -1649,7 +1649,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10008556,1,0.0,0.0,,DooneyXB PinkWhiPurse,Dooney & Burke,Accessories
 10005245,1,0.0,0.0,14,Dorothy Perkins Gold Shiny LS Top,Dorothy Perkins,Top
 10005368,1,0.0,0.0,4,Dorothy Perkins Purple Tank Top,Dorothy Perkins,Top
-10008541,1,0.0,0.0,,DorsetRex5ThAveBag,Dorset,Set
+10008541,1,0.0,0.0,,DorsetRex5ThAveBag,Dorset,Accessories
 10005797,-1,0.0,0.0,,Downey purse,,Accessories
 10007519,1,0.0,0.0,8,Drake's LS Blouse Blue,,Top
 10006540,0,0.0,0.0,XS,Draper J NWT Orange Blouse,Draper James,Top
@@ -1978,7 +1978,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10004059,0,0.0,0.0,,Frankie&Johnny Mhgny Purse,Frankie & Johnny,Accessories
 10007682,1,0.0,0.0,2,Fred David Black & White Dress,Fred David,Dress
 10008398,1,0.0,5.0,,Fred David Red Skirt XL,,Skirt
-10006749,1,0.0,0.0,38,Frederick's Pink Corset Black Detail,Frederick's of Hollywood,Set
+10006749,1,0.0,0.0,38,Frederick's Pink Corset Black Detail,Frederick's of Hollywood,Other
 10007174,0,0.0,0.0,M,Frederick's of Hollywood Leopard Slip,Frederick's of Hollywood,Other
 10007998,1,0.0,0.0,10,Free People Black Faux Shiny Pants,Free People,Jeans/Pants
 10006563,0,0.0,0.0,M,Free People Black Tank Emb,Free People,Top
@@ -2001,7 +2001,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10008762,0,0.0,0.0,,Free People White LS Top M,,Top
 10007283,0,0.0,0.0,XS,Free People Yellow LS Top,,Top
 10007330,0,0.0,0.0,S,Free People Yellow Skirt,Free People,Skirt
-10008040,1,0.0,3.75,,Free for Love Corsette L,,Set
+10008040,1,0.0,3.75,,Free for Love Corsette L,,Other
 10005069,0,0.0,0.0,S,FreePeople Shoulder Top Orng,Free People,Top
 10006404,0,0.0,0.0,XS,FreePeople PinkTanktop,Free People,Top
 10006117,1,0.0,0.0,S,FreePeople Whi&BlkDress,Free People,Dress
@@ -2051,8 +2051,8 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007069,0,0.0,0.0,6.5,GC White Beige Sandals,,Top
 10009198,1,0.0,7.5,,GC2B Green Compression Tank S,,Top
 10005423,0,0.0,0.0,M,GTWUrban RedDress,GTW Urban,Dress
-10008126,1,0.0,0.0,S,GabrieleK KidsGreenBeeSet,Gabriele Knecht,Set
-10008125,1,0.0,0.0,S,GabrieleK kettomyheartSet,Gabriele Knecht,Set
+10008126,1,0.0,0.0,S,GabrieleK KidsGreenBeeSet,Gabriele Knecht,Other
+10008125,1,0.0,0.0,S,GabrieleK kettomyheartSet,Gabriele Knecht,Other
 10005955,1,0.0,0.0,M,Gaby Burgundy SS w Hood,Gaby,Top
 10003889,1,0.0,0.0,S,Gaiam Athleisure Pnk,Gaiam,Other
 10004932,1,0.0,0.0,8,Gantos TanAniPrintTop,Gantos,Other
@@ -2794,7 +2794,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10006270,0,0.0,0.0,7.5,L'Artiste Boots Brown,,Shoes
 10008838,0,0.0,0.0,L,L'Pogee Multicolor Tank,,Top
 10003408,0,0.0,0.0,S,L.S. Dunes Tee Shirt Beige,L.S. Dunes,Top
-10009437,1,0.0,5.45,,LA Hearts Cream Corsett S,,Set
+10009437,1,0.0,5.45,,LA Hearts Cream Corsett S,,Other
 10008918,1,0.0,4.5,,LA Hearts Orange Knit Crop Top S,,Sweater/Cardigan
 10008627,0,0.0,0.0,S,LA Hearts Purple Top,,Top
 10008378,1,0.0,7.99,S,LA Hearts black floral tanktop,LA Hearts,Top
@@ -2831,7 +2831,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10006043,0,0.0,0.0,XL,LaMode MulticolSwtrVest,La Mode,Sweater/Cardigan
 10007621,1,0.0,21.5,,LaVigna Brown Cashmere Jacket M,,Jacket/Coat
 10004168,0,0.0,0.0,L,Lace Long Tunic Apricot,Unknown,Other
-10003571,0,0.0,0.0,L,Lace Red Rose Corset,Lavish,Set
+10003571,0,0.0,0.0,L,Lace Red Rose Corset,Lavish,Other
 10006030,0,0.0,0.0,S,LaceLongsleeve,Unknown,Other
 10005327,0,0.0,0.0,M,Lady&B MaroonVest,Lady and Butler NY,Top
 10006672,1,0.0,0.0,M,Lafayette 148 khaki pant,Lafayette 148,Jeans/Pants
@@ -3178,7 +3178,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007662,1,0.0,7.0,,Luxe LS Blouse Green S,,Top
 10005842,1,0.0,0.0,S,Luxe Pink Floral Tank,Luxe,Top
 10007930,0,0.0,0.0,L,Luxology Beige Pink SL Long Dress,Luxology,Dress
-10007124,0,0.0,0.0,,Lydia USA Black Rhinestone Corset,Lydia,Set
+10007124,0,0.0,0.0,,Lydia USA Black Rhinestone Corset,Lydia,Other
 10008191,0,0.0,0.0,L,Lyn Burcher Clay Orange Top,Lyn Burcher,Top
 10003505,0,0.0,0.0,M,Lysse NY Pants Brown,Lysse New York,Jeans/Pants
 10003784,1,0.0,0.0,10,M Jeans Dusty Pink Pants,M Jeans,Jeans/Pants
@@ -3498,7 +3498,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10000100,1,0.0,0.0,,NKN NekaneSweater_YF,NKN Nekane,Sweater/Cardigan
 10009352,1,0.0,8.0,L,NLApparel BrantleyGilbertTop,Next Level Apparel,Other
 10005416,1,0.0,0.0,M,NLW FloralSleevlessJumper,Nlw,Top
-10005424,1,0.0,0.0,L,NR GrnSet,Natural Reflections,Set
+10005424,1,0.0,0.0,L,NR GrnSet,Natural Reflections,Other
 10005977,0,0.0,0.0,M,NVGTN Black LS Top,Nvgtn,Top
 10009290,1,0.0,5.45,,NWOT C Wonder PInk LS Top S,,Top
 10007424,1,0.0,0.0,8,NWOT Franco Sarto Shoes,,Shoes
@@ -3596,7 +3596,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007626,1,0.0,4.0,,NWT Tiana B Black Dress L,,Dress
 10008766,1,0.0,3.0,,NWT Timing Orange Top Real S,,Top
 10008369,0,0.0,0.0,S,NWT Undiz crochet croptop,Undiz,Top
-10007139,1,0.0,0.0,12,NWT WHBM Sequin Corset Black,White House Black Market,Set
+10007139,1,0.0,0.0,12,NWT WHBM Sequin Corset Black,White House Black Market,Other
 10003549,1,0.0,0.0,0,NWT WHBM Skirt Black & White,White House Black Market,Skirt
 10007141,1,0.0,0.0,XS,NWT White Zara Halter Top,Zara,Top
 10007656,1,0.0,0.0,,NWT Wisck Black Sequin Top L,,Top
@@ -3613,7 +3613,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10005456,0,0.0,0.0,S,NWTMM Pink&OrangeTop,Michelle Mcdowell,Other
 10007694,1,0.0,0.0,8,NWTMarieGray YellowPant,Marie Gray,Jeans/Pants
 10008538,1,0.0,0.0,XL,NWTNylonAp SparkleSkirt,Nylon Apparel,Skirt
-10006164,1,0.0,0.0,16,NWTPLT PinkCorset,Pretty Little Thing,Set
+10006164,1,0.0,0.0,16,NWTPLT PinkCorset,Pretty Little Thing,Other
 10008540,1,0.0,0.0,,NWTPinkFloralTote,Unknown,Accessories
 10008081,1,0.0,0.0,L,NWTRamyB Navy Dress,Ramy Brook,Dress
 10006001,1,0.0,0.0,XS,NWTellamoss MulticolBlouse,Ella Moss,Top
@@ -4032,7 +4032,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007368,0,0.0,0.0,M,PinkFloyd Tshirt,Pink Floyd,Top
 10009507,1,0.0,8.0,8,PinkFringeCowBoyBoots,Unknown,Shoes
 10008349,0,0.0,0.0,,PinkLaceSlipDress,Unknown,Dress
-10007744,1,0.0,0.0,S,PinkLily BlkWhitrimSET,Pink Lily,Set
+10007744,1,0.0,0.0,S,PinkLily BlkWhitrimSET,Pink Lily,Other
 10008325,1,0.0,0.0,M,PinkNightGown,Unknown,Dress
 10003642,1,0.0,0.0,L,PinkRepublic Pink&Blktop,Pink Republic,Other
 10006345,1,0.0,0.0,M,PinkSilkTop,Unknown,Other
@@ -4348,7 +4348,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10005062,0,0.0,0.0,L,SavannaJane Floral Top Prpl,Savanna Jane,Top
 10005927,1,0.0,0.0,L,Say What Black Tank Top w Detail,Say What,Top
 10003755,1,0.0,0.0,14,Sayane Plaid Black & White Pants,Sayane,Jeans/Pants
-10008324,0,0.0,0.0,L,Saywhat BlackCorset,Say What,Set
+10008324,0,0.0,0.0,L,Saywhat BlackCorset,Say What,Accessories
 10008876,1,0.0,10.95,,Sbicca Vintage Grommet Ankle Boot 8.5,,Shoes
 10007359,0,0.0,0.0,9.5,Schutz Black Woven Flats,Schutz,Shoes
 10006256,0,0.0,0.0,M,Scotch and Soda Blue and Brown Striped Sweater,Scotch & Soda,Sweater/Cardigan
@@ -4801,7 +4801,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007631,0,0.0,0.0,,Threads 91 Vols Windbreaker S,,Top
 10004628,1,0.0,0.0,S,Through LA Blue & Orange Dress,Through Los Angeles,Dress
 10006710,1,0.0,0.0,10,Tiana B Pink Multicolor Dress,Tiana B.,Dress
-10008537,0,0.0,0.0,M,TicToc PinkWhiCorset,Tic Toc,Set
+10008537,0,0.0,0.0,M,TicToc PinkWhiCorset,Tic Toc,Other
 10004770,0,0.0,0.0,,Timeson NWT White Pink Floral QS,Timeson,Other
 10005090,0,0.0,0.0,,Timmy Woods Tortoise Shell Purse,Timmy Woods,Accessories
 10003688,0,0.0,0.0,L,Tina Stephens Green Knit,Tina Stephens,Sweater/Cardigan
@@ -4870,7 +4870,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10003712,0,0.0,0.0,,Twine Braided Belt,Unknown,Accessories
 10007989,1,0.0,0.0,L,Two Piece Black Satin Tank & Shorts,Unknown,Shorts
 10004871,0,0.0,0.0,S,TwoPieceMultiColSequinSet,Unknown,Top
-10006162,0,0.0,0.0,S,TwoPiecePinkSet,Unknown,Set
+10006162,0,0.0,0.0,S,TwoPiecePinkSet,Unknown,Other
 10009005,0,0.0,0.0,,U.S. Sweaters Beige Sleeveless M,,Sweater/Cardigan
 10003703,0,0.0,0.0,S,U.a. Fringe Top,U.A.,Top
 10006003,1,0.0,0.0,M,UCB BlkBttnDown,United Colors of Benetton,Other
@@ -5177,7 +5177,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10006497,1,0.0,300.28,,Vintage Coach Pink Suede Baguette,,Accessories
 10007598,1,0.0,0.0,,Vintage Coach SoHo Pink Optic,,Other
 10009613,1,0.0,5.0,L,Vintage Cordon Pastel Plaid Skirt M,,Skirt
-10008531,0,0.0,0.0,,Vintage Dorset Compact Mirror,Dorset,Set
+10008531,0,0.0,0.0,,Vintage Dorset Compact Mirror,Dorset,Other
 10009297,1,0.0,10.0,,Vintage Gap Trucker Jacket S,,Jacket/Coat
 10009392,0,11.495,0.0,,Vintage Gilead White Lace Cami M,,Top
 10008529,1,0.0,0.0,,Vintage Gold Floral Compact Mirror,Unknown,Other
@@ -5244,7 +5244,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10007375,0,0.0,0.0,,VintageFlowerNecklace,Unknown,Accessories
 10005284,1,0.0,0.0,L,VintageFredR MulticolTieTop,Fred Rothschild,Other
 10008364,1,0.0,0.0,M,VintageFredericks PinkBeadTop,Frederick's of Hollywood,Other
-10008051,1,0.0,0.0,S,VintageGayGibson BlueSuitSET,Gay Gibson,Set
+10008051,1,0.0,0.0,S,VintageGayGibson BlueSuitSET,Gay Gibson,Other
 10007384,1,0.0,0.0,,VintageGemGoldRing,Unknown,Accessories
 10008597,1,0.0,10.0,M,VintageGennisknit OrTennisDress,Gennisknit,Dress
 10008057,1,0.0,0.0,40,VintageGreenJacket,Unknown,Jacket/Coat
@@ -5314,7 +5314,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10008188,0,0.0,0.0,S,WHBM Burgundy Design SL Top,White House Black Market,Top
 10008911,1,0.0,5.5,XS,WHBM Burgundy Top,,Top
 10005251,0,0.0,0.0,4,WHBM Burgundy Velvet Pants,White House Black Market,Jeans/Pants
-10007140,0,0.0,0.0,6,WHBM Corset Black Floral,White House Black Market,Set
+10007140,0,0.0,0.0,6,WHBM Corset Black Floral,White House Black Market,Other
 10008232,0,0.0,0.0,,WHBM Cream Boho Bustier M,,Other
 10003812,1,0.0,0.0,L,WHBM Demin Legging,White House Black Market,Jeans/Pants
 10007137,1,0.0,0.0,4,WHBM Denim Shorts,White House Black Market,Shorts
@@ -5394,7 +5394,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10006939,1,0.0,0.0,L,WetSeal GrnZipup,Wet Seal,Other
 10004504,0,0.0,0.0,4,WhBmNWT Multicolor Skirt,White House Black Market,Skirt
 10007748,1,0.0,0.0,XL,WhatsHot MulticolPolkaDotDress,Whats Hot,Dress
-10008065,1,0.0,0.0,S,Whi&BrwnSET,Unknown,Set
+10008065,1,0.0,0.0,S,Whi&BrwnSET,Unknown,Other
 10006090,1,0.0,0.0,M,Whi&PurpBttnDwn,Unknown,Other
 10005782,1,0.0,0.0,S,WhiXbrwnTop,Unknown,Other
 10005575,0,19.15674,0.0,S,Whispers Pink Slip,Whispers,Other
@@ -5505,13 +5505,13 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10003502,1,0.0,0.0,M,Xhilerations Jacket Black,Xhilaration,Jacket/Coat
 10006813,1,0.0,0.0,M,Xiaoguozi Floral Dress,Xiaoguozi,Dress
 10008890,0,0.0,0.0,,Xscape Black Tank Top S,,Top
-10007412,1,0.0,0.0,,Xsetmar BlkNewsboyHat,XSetmar,Set
+10007412,1,0.0,0.0,,Xsetmar BlkNewsboyHat,XSetmar,Accessories
 10008350,0,0.0,0.0,M,XtraOrd GreenHalterTop,Xtraordinary,Top
 10009383,1,0.0,52.27,,Y2K Iridescent Sequin Tank Top S,,Top
 10008807,1,0.0,5.0,,Y2K Multi-Color Sequin Crop Top L,,Top
 10009480,1,0.0,5.0,,Y2K Peacock Print Maxi Dress XL,,Dress
 10008670,0,0.0,0.0,,Y2K Red Mesh Lace Babydoll Top L,,Top
-10008923,1,0.0,7.99,,Y2K Red Back Lace Corset S,,Set
+10008923,1,0.0,7.99,,Y2K Red Back Lace Corset S,,Other
 10005962,1,0.0,0.0,L,YFB White Satin Tank,Yfb,Top
 10006501,0,0.0,0.0,L,Ya LA Cardigan Sweater Brown,,Sweater/Cardigan
 10005300,0,0.0,0.0,S,YaYa FloralBlouse,Ya Ya & Co,Top
@@ -5944,7 +5944,7 @@ sku,closing_inventory,revenue,inventory_cost,size,product_name,brand_name,produc
 10004950,0,0.0,0.0,,stjohnsbay sht rd strip 1x,St. John's Bay,Other
 10006424,0,0.0,0.0,6,strapless floral guess dress,Guess,Dress
 10004673,1,0.0,0.0,L,susan graver vest prp,Susan Graver,Top
-10005362,0,0.0,0.0,42,swing corset pnk,Swing,Set
+10005362,0,0.0,0.0,42,swing corset pnk,Swing,Other
 10004873,1,0.0,0.0,16,talbots skrt blk,Talbots,Skirt
 10003616,0,0.0,0.0,,talbots sweater multi purp sp,Talbots,Sweater/Cardigan
 10004718,1,0.0,0.0,XXL,talbots swtr drk blu,Talbots,Sweater/Cardigan
