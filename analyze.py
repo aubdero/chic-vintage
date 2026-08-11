@@ -600,24 +600,7 @@ basket_dist["pct_of_transactions"] = (
 basket_dist.to_csv(OUT / "analysis" / "basket_distribution.csv", index=False)
 print("  ✓ basket_analysis.csv + basket_distribution.csv")
 
-# ── 4g. Day-of-week patterns ─────────────────────────────────
-dow = sql("""
-    SELECT
-        day_of_week,
-        CAST(strftime('%w', date) AS INTEGER) AS dow_num,
-        COUNT(DISTINCT receipt_number)         AS transactions,
-        ROUND(SUM(subtotal), 2)                AS total_revenue,
-        ROUND(AVG(subtotal), 2)                AS avg_order_value,
-        COUNT(DISTINCT date)                   AS days_open
-    FROM sale_lines
-    GROUP BY day_of_week
-    ORDER BY CAST(strftime('%w', date) AS INTEGER)
-""")
-dow["revenue_per_day_open"] = (dow["total_revenue"] / dow["days_open"]).round(2)
-dow.to_csv(OUT / "analysis" / "day_of_week.csv", index=False)
-print("  ✓ day_of_week.csv")
-
-# ── 4i. Discount impact (vend-discount coupon) ───────────────
+# ── 4g. Discount impact (vend-discount coupon) ───────────────
 discount = sql("""
     SELECT
         has_discount,
@@ -632,7 +615,7 @@ discount = sql("""
 discount.to_csv(OUT / "analysis" / "discount_impact.csv", index=False)
 print("  ✓ discount_impact.csv")
 
-# ── 4j. Wednesday deal impact ────────────────────────────────
+# ── 4h. Wednesday deal impact ────────────────────────────────
 wed_deal = sql("""
     SELECT
         is_wednesday_deal,
@@ -692,8 +675,6 @@ b3 = top_brands.iloc[2]
 top3_pct  = top_brands.head(3)["revenue_share_pct"].sum()
 top10_pct = top_brands.head(10)["revenue_share_pct"].sum()
 
-best_dow  = dow.sort_values("revenue_per_day_open", ascending=False).iloc[0]
-worst_dow = dow.sort_values("revenue_per_day_open").iloc[0]
 best_cat  = category.iloc[0]
 sweet     = pricing[pricing["price_bucket"] != "No Price Data"].sort_values("total_revenue", ascending=False).iloc[0]
 
@@ -726,7 +707,7 @@ BUSINESS SNAPSHOT
   Date Range               : {date_range_str}  (≈ {total_days} days)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SIX BUSINESS INSIGHTS
+FIVE BUSINESS INSIGHTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INSIGHT 1 │ BRAND CONCENTRATION — A Small Set of Brands Drives Most Revenue
@@ -760,16 +741,7 @@ INSIGHT 3 │ MULTI-ITEM TRANSACTIONS — {multi_pct:.0f}% of Customers Buy More
   This is your highest-leverage behavioral trigger — there is no acquisition
   cost, only floor experience and staff conversation.
 
-INSIGHT 4 │ DAY-OF-WEEK PERFORMANCE — {best_dow['day_of_week']} is Your Anchor Day
-─────────────────────────────────────────────────────────────────────────────
-  {best_dow['day_of_week']:<10} avg ${best_dow['revenue_per_day_open']:>7,.2f}/day  ({best_dow['transactions']} total transactions)
-  {worst_dow['day_of_week']:<10} avg ${worst_dow['revenue_per_day_open']:>7,.2f}/day  ({worst_dow['transactions']} total transactions)
-
-  {best_dow['day_of_week']} outperforms {worst_dow['day_of_week']} by {((best_dow['revenue_per_day_open']/max(worst_dow['revenue_per_day_open'],1))-1)*100:.0f}% per open day.
-  This has staffing, stocking, and marketing implications. Weak-day traffic
-  may respond well to timed promotions.
-
-INSIGHT 5 │ CATEGORY MIX — {best_cat['category']} Leads, Accessories are a Hidden Engine
+INSIGHT 4 │ CATEGORY MIX — {best_cat['category']} Leads, Accessories are a Hidden Engine
 ─────────────────────────────────────────────────────────────────────────────
   Top categories by revenue:
 """
@@ -781,7 +753,7 @@ insights += f"""
   multi-item baskets. Their high sell-through rate with low price risk
   makes them a strong category to keep well-stocked near the register.
 
-INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
+INSIGHT 5 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
 ─────────────────────────────────────────────────────────────────────────────
   The "buy one + get a lower-priced item 50% off" Wednesday promotion
   launched in June 2026. Early results:
@@ -798,7 +770,7 @@ INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
   the discount cost must be weighed against the volume gained.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-THREE RECOMMENDATIONS (Product Management Perspective)
+TWO RECOMMENDATIONS (Product Management Perspective)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RECOMMENDATION 1 │ BUILD A BRAND SCORECARD AND OPTIMIZE YOUR BUYING MIX
@@ -827,19 +799,6 @@ RECOMMENDATION 2 │ OPTIMIZE THE WEDNESDAY DEAL TO MAXIMIZE MARGIN
       so the 50%-off price still clears a healthy margin.
     — Consider a minimum qualifying price (e.g., primary item ≥ $25) to
       prevent the deal from being used entirely on low-margin items.
-
-RECOMMENDATION 3 │ INVEST IN THE {best_dow['day_of_week'].upper()} IN-STORE EXPERIENCE TO GROW BASKET SIZE
-─────────────────────────────────────────────────────────────────────────────
-  {best_dow['day_of_week']} already drives your strongest revenue per open day. To extend
-  this advantage: (1) staff your most experienced seller on the floor,
-  (2) refresh curated "outfit" displays Thursday evening so {best_dow['day_of_week']} shoppers
-  see fresh pairings, and (3) place accessories (high-margin, low-risk)
-  at every natural pause point — fitting room entrance, register line.
-
-  The +{((aov_multi/aov_single)-1)*100:.0f}% AOV for multi-item baskets means each additional
-  unit a customer picks up is disproportionately valuable. A brief, natural
-  staff prompt — "That top would pair perfectly with the skirt we just
-  got in" — costs nothing and consistently moves the needle.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """
 
@@ -851,7 +810,7 @@ with open(OUT / "analysis" / "business_insights.txt", "w", encoding="utf-8") as 
 print("\n" + "=" * 60)
 print("  COMPLETE — all output saved to: output/")
 print("  ├── cleaned/   — 4 cleaned CSV files")
-print("  └── analysis/  — 10 analysis CSVs + business_insights.txt")
+print("  └── analysis/  — 9 analysis CSVs + business_insights.txt")
 print("=" * 60)
 
 conn.close()

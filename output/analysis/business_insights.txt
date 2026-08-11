@@ -12,7 +12,7 @@ BUSINESS SNAPSHOT
   Date Range               : Mar 20 – Jun 25, 2026  (≈ 98 days)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-SIX BUSINESS INSIGHTS
+FIVE BUSINESS INSIGHTS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INSIGHT 1 │ BRAND CONCENTRATION — A Small Set of Brands Drives Most Revenue
@@ -46,16 +46,7 @@ INSIGHT 3 │ MULTI-ITEM TRANSACTIONS — 48% of Customers Buy More Than One Ite
   This is your highest-leverage behavioral trigger — there is no acquisition
   cost, only floor experience and staff conversation.
 
-INSIGHT 4 │ DAY-OF-WEEK PERFORMANCE — Saturday is Your Anchor Day
-─────────────────────────────────────────────────────────────────────────────
-  Saturday   avg $1,416.85/day  (348 total transactions)
-  Monday     avg $ 281.90/day  (7 total transactions)
-
-  Saturday outperforms Monday by 403% per open day.
-  This has staffing, stocking, and marketing implications. Weak-day traffic
-  may respond well to timed promotions.
-
-INSIGHT 5 │ CATEGORY MIX — Top Leads, Accessories are a Hidden Engine
+INSIGHT 4 │ CATEGORY MIX — Top Leads, Accessories are a Hidden Engine
 ─────────────────────────────────────────────────────────────────────────────
   Top categories by revenue:
     Top                    $14,389.20  (26.6%)  avg $22.90
@@ -68,7 +59,7 @@ INSIGHT 5 │ CATEGORY MIX — Top Leads, Accessories are a Hidden Engine
   multi-item baskets. Their high sell-through rate with low price risk
   makes them a strong category to keep well-stocked near the register.
 
-INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
+INSIGHT 5 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
 ─────────────────────────────────────────────────────────────────────────────
   The "buy one + get a lower-priced item 50% off" Wednesday promotion
   launched in June 2026. Early results:
@@ -85,7 +76,7 @@ INSIGHT 6 │ WEDNESDAY DEAL — The Promotion Drives Larger Baskets
   the discount cost must be weighed against the volume gained.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-THREE RECOMMENDATIONS (Product Management Perspective)
+TWO RECOMMENDATIONS (Product Management Perspective)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 RECOMMENDATION 1 │ BUILD A BRAND SCORECARD AND OPTIMIZE YOUR BUYING MIX
@@ -114,17 +105,4 @@ RECOMMENDATION 2 │ OPTIMIZE THE WEDNESDAY DEAL TO MAXIMIZE MARGIN
       so the 50%-off price still clears a healthy margin.
     — Consider a minimum qualifying price (e.g., primary item ≥ $25) to
       prevent the deal from being used entirely on low-margin items.
-
-RECOMMENDATION 3 │ INVEST IN THE SATURDAY IN-STORE EXPERIENCE TO GROW BASKET SIZE
-─────────────────────────────────────────────────────────────────────────────
-  Saturday already drives your strongest revenue per open day. To extend
-  this advantage: (1) staff your most experienced seller on the floor,
-  (2) refresh curated "outfit" displays Thursday evening so Saturday shoppers
-  see fresh pairings, and (3) place accessories (high-margin, low-risk)
-  at every natural pause point — fitting room entrance, register line.
-
-  The +198% AOV for multi-item baskets means each additional
-  unit a customer picks up is disproportionately valuable. A brief, natural
-  staff prompt — "That top would pair perfectly with the skirt we just
-  got in" — costs nothing and consistently moves the needle.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
