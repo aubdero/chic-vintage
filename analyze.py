@@ -804,13 +804,10 @@ RECOMMENDATION 2 │ OPTIMIZE THE WEDNESDAY DEAL TO MAXIMIZE MARGIN
 
 print(insights)
 
-with open(OUT / "analysis" / "business_insights.txt", "w", encoding="utf-8") as f:
-    f.write(insights)
-
 print("\n" + "=" * 60)
 print("  COMPLETE — all output saved to: output/")
 print("  ├── cleaned/   — 4 cleaned CSV files")
-print("  └── analysis/  — 9 analysis CSVs + business_insights.txt")
+print("  └── analysis/  — 9 analysis CSVs")
 print("=" * 60)
 
 conn.close()
